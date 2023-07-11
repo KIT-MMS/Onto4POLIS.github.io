@@ -1,0 +1,3296 @@
+[ {
+  "@id" : "_:genid1",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Axiom" ],
+  "http://emmo.info/emmo#EMMO_705f27ae_954c_4f13_98aa_18473fc52b25" : [ {
+    "@language" : "en",
+    "@value" : "From particeps (“taking part in, sharing in”), from pars (“part”) + capiō (“to take”)."
+  } ],
+  "http://www.w3.org/2002/07/owl#annotatedProperty" : [ {
+    "@id" : "http://www.w3.org/2004/02/skos/core#prefLabel"
+  } ],
+  "http://www.w3.org/2002/07/owl#annotatedSource" : [ {
+    "@id" : "http://emmo.info/emmo#EMMO_13191289_6c2b_4741_93e1_82d53bd0e703"
+  } ],
+  "http://www.w3.org/2002/07/owl#annotatedTarget" : [ {
+    "@language" : "en",
+    "@value" : "Participant"
+  } ]
+}, {
+  "@id" : "_:genid10",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Axiom" ],
+  "http://emmo.info/emmo#EMMO_705f27ae_954c_4f13_98aa_18473fc52b25" : [ {
+    "@language" : "en",
+    "@value" : "From Latin particula (“small part, particle”), diminutive of pars (“part, piece”)."
+  } ],
+  "http://www.w3.org/2002/07/owl#annotatedProperty" : [ {
+    "@id" : "http://www.w3.org/2004/02/skos/core#altLabel"
+  } ],
+  "http://www.w3.org/2002/07/owl#annotatedSource" : [ {
+    "@id" : "http://emmo.info/emmo#EMMO_a15cea10_9946_4d2b_95c5_cfc333fd2abb"
+  } ],
+  "http://www.w3.org/2002/07/owl#annotatedTarget" : [ {
+    "@language" : "en",
+    "@value" : "Particle"
+  } ]
+}, {
+  "@id" : "_:genid11",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Axiom" ],
+  "http://emmo.info/emmo#EMMO_705f27ae_954c_4f13_98aa_18473fc52b25" : [ {
+    "@language" : "en",
+    "@value" : "From Latin manufacture: \"made by hand\"."
+  } ],
+  "http://www.w3.org/2002/07/owl#annotatedProperty" : [ {
+    "@id" : "http://www.w3.org/2004/02/skos/core#prefLabel"
+  } ],
+  "http://www.w3.org/2002/07/owl#annotatedSource" : [ {
+    "@id" : "http://emmo.info/emmo#EMMO_a4d66059_5dd3_4b90_b4cb_10960559441b"
+  } ],
+  "http://www.w3.org/2002/07/owl#annotatedTarget" : [ {
+    "@language" : "en",
+    "@value" : "Manufacturing"
+  } ]
+}, {
+  "@id" : "_:genid12",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Axiom" ],
+  "http://purl.org/dc/terms/source" : [ {
+    "@value" : "International Electrotechnical Commission (IEC), IEC 60050 - International Electrotechnical Vocabulary, retrieved from: https://www.electropedia.org"
+  } ],
+  "http://www.w3.org/2002/07/owl#annotatedProperty" : [ {
+    "@id" : "http://emmo.info/emmo#EMMO_967080e5_2f42_4eb2_a3a9_c58143e835f9"
+  } ],
+  "http://www.w3.org/2002/07/owl#annotatedSource" : [ {
+    "@id" : "http://emmo.info/emmo#EMMO_a7c3542a_fe8a_480e_b6a9_364497d576d4"
+  } ],
+  "http://www.w3.org/2002/07/owl#annotatedTarget" : [ {
+    "@language" : "en",
+    "@value" : "Substance dissolved into another substance."
+  } ]
+}, {
+  "@id" : "_:genid13",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Axiom" ],
+  "http://emmo.info/emmo#EMMO_705f27ae_954c_4f13_98aa_18473fc52b25" : [ {
+    "@language" : "en",
+    "@value" : "From Latin cōnstituēns, present participle of cōnstituō (“I establish”), from com- (“together”) + statuo (“I set, place, establish”)."
+  } ],
+  "http://www.w3.org/2002/07/owl#annotatedProperty" : [ {
+    "@id" : "http://www.w3.org/2004/02/skos/core#prefLabel"
+  } ],
+  "http://www.w3.org/2002/07/owl#annotatedSource" : [ {
+    "@id" : "http://emmo.info/emmo#EMMO_ceaaf9f7_fd11_424b_8fda_9afa186af186"
+  } ],
+  "http://www.w3.org/2002/07/owl#annotatedTarget" : [ {
+    "@language" : "en",
+    "@value" : "Constituent"
+  } ]
+}, {
+  "@id" : "_:genid14",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Axiom" ],
+  "http://purl.org/dc/terms/source" : [ {
+    "@value" : "International Electrotechnical Commission (IEC), IEC 60050 - International Electrotechnical Vocabulary, retrieved from: https://www.electropedia.org"
+  } ],
+  "http://www.w3.org/2002/07/owl#annotatedProperty" : [ {
+    "@id" : "http://emmo.info/emmo#EMMO_967080e5_2f42_4eb2_a3a9_c58143e835f9"
+  } ],
+  "http://www.w3.org/2002/07/owl#annotatedSource" : [ {
+    "@id" : "http://emmo.info/emmo#EMMO_e9dd942e_db98_4aad_b9c3_931dff6f13b0"
+  } ],
+  "http://www.w3.org/2002/07/owl#annotatedTarget" : [ {
+    "@language" : "en",
+    "@value" : "Substance into which another substance is dissolved."
+  } ]
+}, {
+  "@id" : "_:genid15",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Axiom" ],
+  "http://emmo.info/emmo#EMMO_705f27ae_954c_4f13_98aa_18473fc52b25" : [ {
+    "@language" : "en",
+    "@value" : "From Latin con- +‎ putō (“I reckon”)."
+  } ],
+  "http://www.w3.org/2002/07/owl#annotatedProperty" : [ {
+    "@id" : "http://www.w3.org/2004/02/skos/core#prefLabel"
+  } ],
+  "http://www.w3.org/2002/07/owl#annotatedSource" : [ {
+    "@id" : "http://emmo.info/emmo#EMMO_eff42cb3_208e_4768_9a39_f8b6b3c3d7a2"
+  } ],
+  "http://www.w3.org/2002/07/owl#annotatedTarget" : [ {
+    "@language" : "en",
+    "@value" : "Computation"
+  } ]
+}, {
+  "@id" : "_:genid16",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Axiom" ],
+  "http://emmo.info/emmo#EMMO_705f27ae_954c_4f13_98aa_18473fc52b25" : [ {
+    "@language" : "en",
+    "@value" : "From Latin compōnēns, compōnēntis, present participle of compōnō (“assemble, put together”)."
+  } ],
+  "http://www.w3.org/2002/07/owl#annotatedProperty" : [ {
+    "@id" : "http://www.w3.org/2004/02/skos/core#prefLabel"
+  } ],
+  "http://www.w3.org/2002/07/owl#annotatedSource" : [ {
+    "@id" : "http://emmo.info/emmo#EMMO_f76884f7_964e_488e_9bb7_1b2453e9e817"
+  } ],
+  "http://www.w3.org/2002/07/owl#annotatedTarget" : [ {
+    "@language" : "en",
+    "@value" : "Component"
+  } ]
+}, {
+  "@id" : "_:genid17",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Restriction" ],
+  "http://www.w3.org/2002/07/owl#onProperty" : [ {
+    "@id" : "http://semanticscience.org/resource/SIO_000300"
+  } ],
+  "http://www.w3.org/2002/07/owl#someValuesFrom" : [ {
+    "@id" : "http://www.w3.org/2000/01/rdf-schema#Literal"
+  } ]
+}, {
+  "@id" : "_:genid18",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Restriction" ],
+  "http://www.w3.org/2002/07/owl#onProperty" : [ {
+    "@id" : "http://semanticscience.org/resource/SIO_000300"
+  } ],
+  "http://www.w3.org/2002/07/owl#someValuesFrom" : [ {
+    "@id" : "http://www.w3.org/2001/XMLSchema#string"
+  } ]
+}, {
+  "@id" : "_:genid19",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Restriction" ],
+  "http://www.w3.org/2002/07/owl#onProperty" : [ {
+    "@id" : "http://www.semanticweb.org/hafiznoman/ontologies/2023/6/untitled-ontology-36/hasEmployedTool"
+  } ],
+  "http://www.w3.org/2002/07/owl#someValuesFrom" : [ {
+    "@id" : "http://www.semanticweb.org/hafiznoman/ontologies/2023/6/untitled-ontology-36/ToolForSimulation"
+  } ]
+}, {
+  "@id" : "_:genid2",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Axiom" ],
+  "http://purl.org/dc/terms/source" : [ {
+    "@value" : "International Electrotechnical Commission (IEC), IEC 60050 - International Electrotechnical Vocabulary, retrieved from: https://www.electropedia.org"
+  } ],
+  "http://www.w3.org/2002/07/owl#annotatedProperty" : [ {
+    "@id" : "http://emmo.info/emmo#EMMO_967080e5_2f42_4eb2_a3a9_c58143e835f9"
+  } ],
+  "http://www.w3.org/2002/07/owl#annotatedSource" : [ {
+    "@id" : "http://emmo.info/emmo#EMMO_43cd9d34_466b_4914_9b07_7c0142590723"
+  } ],
+  "http://www.w3.org/2002/07/owl#annotatedTarget" : [ {
+    "@language" : "en",
+    "@value" : "substance that increases the concentration of hydrogen cations H+ when dissolved."
+  } ]
+}, {
+  "@id" : "_:genid20",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
+  "http://www.w3.org/2002/07/owl#unionOf" : [ {
+    "@list" : [ {
+      "@id" : "http://w3id.org/MUSICODE/Onto4OLAE/Beads"
+    }, {
+      "@id" : "http://w3id.org/MUSICODE/Onto4OLAE/Electrons"
+    }, {
+      "@id" : "http://w3id.org/MUSICODE/Onto4OLAE/FiniteVolume"
+    }, {
+      "@id" : "_:genid22"
+    } ]
+  } ]
+}, {
+  "@id" : "_:genid22",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Restriction" ],
+  "http://www.w3.org/2002/07/owl#onProperty" : [ {
+    "@id" : "http://www.semanticweb.org/hafiznoman/ontologies/2023/6/untitled-ontology-36/hasGranularityLevel"
+  } ],
+  "http://www.w3.org/2002/07/owl#someValuesFrom" : [ {
+    "@id" : "http://w3id.org/MUSICODE/Onto4OLAE/Atoms"
+  } ]
+}, {
+  "@id" : "_:genid26",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Restriction" ],
+  "http://www.w3.org/2002/07/owl#onProperty" : [ {
+    "@id" : "http://www.semanticweb.org/hafiznoman/ontologies/2023/6/untitled-ontology-36/determine"
+  } ],
+  "http://www.w3.org/2002/07/owl#someValuesFrom" : [ {
+    "@id" : "http://w3id.org/MUSICODE/Onto4OLAE/InputForSimulation"
+  } ]
+}, {
+  "@id" : "_:genid27",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Restriction" ],
+  "http://www.w3.org/2002/07/owl#onProperty" : [ {
+    "@id" : "http://www.semanticweb.org/hafiznoman/ontologies/2023/6/untitled-ontology-36/hasBoundaryCondition"
+  } ],
+  "http://www.w3.org/2002/07/owl#someValuesFrom" : [ {
+    "@id" : "http://www.semanticweb.org/hafiznoman/ontologies/2023/6/untitled-ontology-36/SimulationModelBoundaryCondition"
+  } ]
+}, {
+  "@id" : "_:genid28",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Restriction" ],
+  "http://www.w3.org/2002/07/owl#onProperty" : [ {
+    "@id" : "http://www.semanticweb.org/hafiznoman/ontologies/2023/6/untitled-ontology-36/hasCorrespondingPublication"
+  } ],
+  "http://www.w3.org/2002/07/owl#someValuesFrom" : [ {
+    "@id" : "http://semanticscience.org/resource/SIO_000087"
+  } ]
+}, {
+  "@id" : "_:genid29",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Restriction" ],
+  "http://www.w3.org/2002/07/owl#onProperty" : [ {
+    "@id" : "http://www.semanticweb.org/hafiznoman/ontologies/2023/6/untitled-ontology-36/isRealizedThrough"
+  } ],
+  "http://www.w3.org/2002/07/owl#someValuesFrom" : [ {
+    "@id" : "http://www.semanticweb.org/hafiznoman/ontologies/2023/6/untitled-ontology-36/Solver"
+  } ]
+}, {
+  "@id" : "_:genid3",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Axiom" ],
+  "http://www.w3.org/2000/01/rdf-schema#isDefinedBy" : [ {
+    "@type" : "http://www.w3.org/2001/XMLSchema#anyURI",
+    "@value" : "https://www.iso.org/standard/45324.html"
+  } ],
+  "http://www.w3.org/2002/07/owl#annotatedProperty" : [ {
+    "@id" : "http://www.w3.org/2000/01/rdf-schema#comment"
+  } ],
+  "http://www.w3.org/2002/07/owl#annotatedSource" : [ {
+    "@id" : "http://emmo.info/emmo#EMMO_463bcfda_867b_41d9_a967_211d4d437cfb"
+  } ],
+  "http://www.w3.org/2002/07/owl#annotatedTarget" : [ {
+    "@language" : "en",
+    "@value" : "A measurement is the process of experimentally obtaining one or more measurement results that can reasonably be attributed to a quantity."
+  } ]
+}, {
+  "@id" : "_:genid30",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
+  "http://www.w3.org/2002/07/owl#unionOf" : [ {
+    "@list" : [ {
+      "@id" : "http://www.semanticweb.org/hafiznoman/ontologies/2023/6/untitled-ontology-36/OpenSource"
+    }, {
+      "@id" : "_:genid32"
+    } ]
+  } ]
+}, {
+  "@id" : "_:genid32",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Restriction" ],
+  "http://www.w3.org/2002/07/owl#onProperty" : [ {
+    "@id" : "http://www.semanticweb.org/hafiznoman/ontologies/2023/6/untitled-ontology-36/hasAccessCondition"
+  } ],
+  "http://www.w3.org/2002/07/owl#someValuesFrom" : [ {
+    "@id" : "http://www.semanticweb.org/hafiznoman/ontologies/2023/6/untitled-ontology-36/InternalAccessibility"
+  } ]
+}, {
+  "@id" : "_:genid34",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Restriction" ],
+  "http://www.w3.org/2002/07/owl#onProperty" : [ {
+    "@id" : "http://www.semanticweb.org/hafiznoman/ontologies/2023/6/untitled-ontology-36/hasAccessCondition"
+  } ],
+  "http://www.w3.org/2002/07/owl#someValuesFrom" : [ {
+    "@id" : "https://purl.org/tema/Accessibiliy"
+  } ]
+}, {
+  "@id" : "_:genid35",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Restriction" ],
+  "http://www.w3.org/2002/07/owl#onProperty" : [ {
+    "@id" : "http://www.semanticweb.org/hafiznoman/ontologies/2023/6/untitled-ontology-36/hasBoundaryCondition"
+  } ],
+  "http://www.w3.org/2002/07/owl#someValuesFrom" : [ {
+    "@id" : "http://www.semanticweb.org/hafiznoman/ontologies/2023/6/untitled-ontology-36/SimulationSolverBoundaryCondition"
+  } ]
+}, {
+  "@id" : "_:genid36",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Restriction" ],
+  "http://www.w3.org/2002/07/owl#onProperty" : [ {
+    "@id" : "http://www.semanticweb.org/hafiznoman/ontologies/2023/6/untitled-ontology-36/hasError"
+  } ],
+  "http://www.w3.org/2002/07/owl#someValuesFrom" : [ {
+    "@id" : "http://www.semanticweb.org/hafiznoman/ontologies/2023/6/untitled-ontology-36/EstimatedErrorInRawResults"
+  } ]
+}, {
+  "@id" : "_:genid37",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Restriction" ],
+  "http://www.w3.org/2002/07/owl#onProperty" : [ {
+    "@id" : "http://www.semanticweb.org/hafiznoman/ontologies/2023/6/untitled-ontology-36/hasImplementationSoftware"
+  } ],
+  "http://www.w3.org/2002/07/owl#someValuesFrom" : [ {
+    "@id" : "http://www.semanticweb.org/hafiznoman/ontologies/2023/6/untitled-ontology-36/SoftwareForSolver"
+  } ]
+}, {
+  "@id" : "_:genid38",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Restriction" ],
+  "http://www.w3.org/2002/07/owl#onProperty" : [ {
+    "@id" : "http://www.semanticweb.org/hafiznoman/ontologies/2023/6/untitled-ontology-36/hasInput"
+  } ],
+  "http://www.w3.org/2002/07/owl#someValuesFrom" : [ {
+    "@id" : "http://w3id.org/MUSICODE/Onto4OLAE/InputForSimulation"
+  } ]
+}, {
+  "@id" : "_:genid39",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Restriction" ],
+  "http://www.w3.org/2002/07/owl#onProperty" : [ {
+    "@id" : "http://www.semanticweb.org/hafiznoman/ontologies/2023/6/untitled-ontology-36/hasParameter"
+  } ],
+  "http://www.w3.org/2002/07/owl#someValuesFrom" : [ {
+    "@id" : "http://www.semanticweb.org/hafiznoman/ontologies/2023/6/untitled-ontology-36/ParameterForSolver"
+  } ]
+}, {
+  "@id" : "_:genid4",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Axiom" ],
+  "http://emmo.info/emmo#EMMO_705f27ae_954c_4f13_98aa_18473fc52b25" : [ {
+    "@language" : "en",
+    "@value" : "From latin Labor, meaning \"work, fatigue, effort\""
+  } ],
+  "http://www.w3.org/2002/07/owl#annotatedProperty" : [ {
+    "@id" : "http://www.w3.org/2004/02/skos/core#prefLabel"
+  } ],
+  "http://www.w3.org/2002/07/owl#annotatedSource" : [ {
+    "@id" : "http://emmo.info/emmo#EMMO_472a0ca2_58bf_4618_b561_6fe68bd9fd49"
+  } ],
+  "http://www.w3.org/2002/07/owl#annotatedTarget" : [ {
+    "@language" : "en",
+    "@value" : "Elaboration"
+  } ]
+}, {
+  "@id" : "_:genid40",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Restriction" ],
+  "http://www.w3.org/2002/07/owl#onProperty" : [ {
+    "@id" : "http://www.semanticweb.org/hafiznoman/ontologies/2023/6/untitled-ontology-36/hasRawResults"
+  } ],
+  "http://www.w3.org/2002/07/owl#someValuesFrom" : [ {
+    "@id" : "http://w3id.org/MUSICODE/Onto4OLAE/RawMeasurementResult"
+  } ]
+}, {
+  "@id" : "_:genid41",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Restriction" ],
+  "http://www.w3.org/2002/07/owl#onProperty" : [ {
+    "@id" : "http://www.semanticweb.org/hafiznoman/ontologies/2023/6/untitled-ontology-36/hasAgent"
+  } ],
+  "http://www.w3.org/2002/07/owl#someValuesFrom" : [ {
+    "@id" : "http://www.w3.org/ns/prov#Agent"
+  } ]
+}, {
+  "@id" : "_:genid42",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Restriction" ],
+  "http://www.w3.org/2002/07/owl#onProperty" : [ {
+    "@id" : "http://www.semanticweb.org/hafiznoman/ontologies/2023/6/untitled-ontology-36/hasConsideredGeometry"
+  } ],
+  "http://www.w3.org/2002/07/owl#someValuesFrom" : [ {
+    "@id" : "http://www.semanticweb.org/hafiznoman/ontologies/2023/6/untitled-ontology-36/MaterialGeometry"
+  } ]
+}, {
+  "@id" : "_:genid43",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Restriction" ],
+  "http://www.w3.org/2002/07/owl#onProperty" : [ {
+    "@id" : "http://www.semanticweb.org/hafiznoman/ontologies/2023/6/untitled-ontology-36/hasConsideredMaterial"
+  } ],
+  "http://www.w3.org/2002/07/owl#someValuesFrom" : [ {
+    "@id" : "http://emmo.info/emmo#EMMO_5b2222df_4da6_442f_8244_96e9e45887d1"
+  } ]
+}, {
+  "@id" : "_:genid44",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Restriction" ],
+  "http://www.w3.org/2002/07/owl#onProperty" : [ {
+    "@id" : "http://www.semanticweb.org/hafiznoman/ontologies/2023/6/untitled-ontology-36/hasConsideredTimeInterval"
+  } ],
+  "http://www.w3.org/2002/07/owl#someValuesFrom" : [ {
+    "@id" : "http://semanticscience.org/resource/SIO_000417"
+  } ]
+}, {
+  "@id" : "_:genid45",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Restriction" ],
+  "http://www.w3.org/2002/07/owl#onProperty" : [ {
+    "@id" : "http://www.semanticweb.org/hafiznoman/ontologies/2023/6/untitled-ontology-36/hasMethod"
+  } ],
+  "http://www.w3.org/2002/07/owl#someValuesFrom" : [ {
+    "@id" : "http://w3id.org/nfdi4ing/metadata4ing#Method"
+  } ]
+}, {
+  "@id" : "_:genid46",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Restriction" ],
+  "http://www.w3.org/2002/07/owl#onProperty" : [ {
+    "@id" : "http://www.semanticweb.org/hafiznoman/ontologies/2023/6/untitled-ontology-36/hasInferredResults"
+  } ],
+  "http://www.w3.org/2002/07/owl#someValuesFrom" : [ {
+    "@id" : "http://w3id.org/MUSICODE/Onto4OLAE/InferredMeasurementResult"
+  } ]
+}, {
+  "@id" : "_:genid47",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Restriction" ],
+  "http://www.w3.org/2002/07/owl#onProperty" : [ {
+    "@id" : "http://www.semanticweb.org/hafiznoman/ontologies/2023/6/untitled-ontology-36/isAssosiatedWith"
+  } ],
+  "http://www.w3.org/2002/07/owl#someValuesFrom" : [ {
+    "@id" : "https://schema.org/ResearchProject"
+  } ]
+}, {
+  "@id" : "_:genid48",
+  "@type" : [ "http://www.w3.org/2002/07/owl#AllDisjointClasses" ],
+  "http://purl.org/dc/elements/1.1/identifier" : [ {
+    "@value" : ":arc6de1b1005"
+  } ],
+  "http://www.w3.org/2002/07/owl#members" : [ {
+    "@list" : [ {
+      "@id" : "http://semanticscience.org/resource/SIO_000428"
+    }, {
+      "@id" : "http://semanticscience.org/resource/SIO_000429"
+    }, {
+      "@id" : "http://semanticscience.org/resource/SIO_000430"
+    }, {
+      "@id" : "http://semanticscience.org/resource/SIO_000431"
+    }, {
+      "@id" : "http://semanticscience.org/resource/SIO_000432"
+    }, {
+      "@id" : "http://semanticscience.org/resource/SIO_000433"
+    }, {
+      "@id" : "http://semanticscience.org/resource/SIO_000434"
+    }, {
+      "@id" : "http://semanticscience.org/resource/SIO_000435"
+    } ]
+  } ]
+}, {
+  "@id" : "_:genid5",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Axiom" ],
+  "http://emmo.info/emmo#EMMO_705f27ae_954c_4f13_98aa_18473fc52b25" : [ {
+    "@language" : "en",
+    "@value" : "Old English tōl, from a Germanic base meaning ‘prepare’."
+  } ],
+  "http://www.w3.org/2002/07/owl#annotatedProperty" : [ {
+    "@id" : "http://www.w3.org/2004/02/skos/core#prefLabel"
+  } ],
+  "http://www.w3.org/2002/07/owl#annotatedSource" : [ {
+    "@id" : "http://emmo.info/emmo#EMMO_5c68497d_2544_4cd4_897b_1ea783c9f6fe"
+  } ],
+  "http://www.w3.org/2002/07/owl#annotatedTarget" : [ {
+    "@language" : "en",
+    "@value" : "Tool"
+  } ]
+}, {
+  "@id" : "_:genid6",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Axiom" ],
+  "http://emmo.info/emmo#EMMO_705f27ae_954c_4f13_98aa_18473fc52b25" : [ {
+    "@language" : "en",
+    "@value" : "From Latin systema, from Greek sustēma, from sun- ‘with’ + histanai ‘set up’."
+  } ],
+  "http://www.w3.org/2002/07/owl#annotatedProperty" : [ {
+    "@id" : "http://www.w3.org/2004/02/skos/core#prefLabel"
+  } ],
+  "http://www.w3.org/2002/07/owl#annotatedSource" : [ {
+    "@id" : "http://emmo.info/emmo#EMMO_65a007dc_2550_46b0_b394_3346c67fbb69"
+  } ],
+  "http://www.w3.org/2002/07/owl#annotatedTarget" : [ {
+    "@language" : "en",
+    "@value" : "HolisticSystem"
+  } ]
+}, {
+  "@id" : "_:genid7",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Axiom" ],
+  "http://emmo.info/emmo#EMMO_c84c6752_6d64_48cc_9500_e54a3c34898d" : [ {
+    "@language" : "en",
+    "@value" : "https://en.wikipedia.org/wiki/Phase_(matter)"
+  } ],
+  "http://www.w3.org/2002/07/owl#annotatedProperty" : [ {
+    "@id" : "http://www.w3.org/2000/01/rdf-schema#comment"
+  } ],
+  "http://www.w3.org/2002/07/owl#annotatedSource" : [ {
+    "@id" : "http://emmo.info/emmo#EMMO_668fbd5b_6f1b_405c_9c6b_d6067bd0595a"
+  } ],
+  "http://www.w3.org/2002/07/owl#annotatedTarget" : [ {
+    "@language" : "en",
+    "@value" : "In the physical sciences, a phase is a region of space (a thermodynamic system), throughout which all physical properties of a material are essentially uniform. Examples of physical properties include density, index of refraction, magnetization and chemical composition. A simple description is that a phase is a region of material that is chemically uniform, physically distinct, and (often) mechanically separable. In a system consisting of ice and water in a glass jar, the ice cubes are one phase, the water is a second phase, and the humid air is a third phase over the ice and water. The glass of the jar is another separate phase.\n\nThe term phase is sometimes used as a synonym for state of matter, but there can be several immiscible phases of the same state of matter. Also, the term phase is sometimes used to refer to a set of equilibrium states demarcated in terms of state variables such as pressure and temperature by a phase boundary on a phase diagram. Because phase boundaries relate to changes in the organization of matter, such as a change from liquid to solid or a more subtle change from one crystal structure to another, this latter usage is similar to the use of \"phase\" as a synonym for state of matter. However, the state of matter and phase diagram usages are not commensurate with the formal definition given above and the intended meaning must be determined in part from the context in which the term is used."
+  } ]
+}, {
+  "@id" : "_:genid8",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Axiom" ],
+  "http://purl.org/dc/terms/source" : [ {
+    "@value" : "International Electrotechnical Commission (IEC), IEC 60050 - International Electrotechnical Vocabulary, retrieved from: https://www.electropedia.org"
+  } ],
+  "http://www.w3.org/2002/07/owl#annotatedProperty" : [ {
+    "@id" : "http://emmo.info/emmo#EMMO_967080e5_2f42_4eb2_a3a9_c58143e835f9"
+  } ],
+  "http://www.w3.org/2002/07/owl#annotatedSource" : [ {
+    "@id" : "http://emmo.info/emmo#EMMO_6a490979_2226_47bb_a2b2_a7951c04cfc7"
+  } ],
+  "http://www.w3.org/2002/07/owl#annotatedTarget" : [ {
+    "@language" : "en",
+    "@value" : "substance that decreases the concentration of hydrogen cations H+ when dissolved."
+  } ]
+}, {
+  "@id" : "_:genid9",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Axiom" ],
+  "http://emmo.info/emmo#EMMO_705f27ae_954c_4f13_98aa_18473fc52b25" : [ {
+    "@language" : "en",
+    "@value" : "From Old French asembler, based on Latin ad- ‘to’ + simul ‘together’."
+  } ],
+  "http://www.w3.org/2002/07/owl#annotatedProperty" : [ {
+    "@id" : "http://www.w3.org/2004/02/skos/core#prefLabel"
+  } ],
+  "http://www.w3.org/2002/07/owl#annotatedSource" : [ {
+    "@id" : "http://emmo.info/emmo#EMMO_912ac3a2_a124_4233_92dd_06c9aebea46c"
+  } ],
+  "http://www.w3.org/2002/07/owl#annotatedTarget" : [ {
+    "@language" : "en",
+    "@value" : "Assemblying"
+  } ]
+}, {
+  "@id" : "http://emmo.info/emmo#EMMO_01354ac2_cce1_4b7d_8b4a_7322d6cb10bc",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
+  "http://www.w3.org/2000/01/rdf-schema#subClassOf" : [ {
+    "@id" : "http://emmo.info/emmo#EMMO_02c4890b_aef3_4173_9669_94d1f6baf611"
+  } ],
+  "http://www.w3.org/2004/02/skos/core#prefLabel" : [ {
+    "@language" : "en",
+    "@value" : "IterativeCoupledModelsSimulation"
+  } ]
+}, {
+  "@id" : "http://emmo.info/emmo#EMMO_02c0621e_a527_4790_8a0f_2bb51973c819",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
+  "http://emmo.info/emmo#EMMO_967080e5_2f42_4eb2_a3a9_c58143e835f9" : [ {
+    "@language" : "en",
+    "@value" : "A 'Mathematical' entity that is made of a 'Numeral' and a 'MeasurementUnit' defined by a physical law, connected to a physical entity through a model perspective. Measurement is done according to the same model."
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#comment" : [ {
+    "@language" : "en",
+    "@value" : "In the same system of quantities, dim ρB = ML−3 is the quantity dimension of mass concentration of component B, and ML−3 is also the quantity dimension of mass density, ρ.\nISO 80000-1"
+  }, {
+    "@language" : "en",
+    "@value" : "Measured or simulated 'physical propertiy'-s are always defined by a physical law, connected to a physical entity through a model perspective and measurement is done according to the same model.\n\nSystems of units suggests that this is the correct approach, since except for the fundamental units (length, time, charge) every other unit is derived by mathematical relations between these fundamental units, implying a physical laws or definitions."
+  }, {
+    "@language" : "en",
+    "@value" : "Measurement units of quantities of the same quantity dimension may be designated by the same name and symbol even when the quantities are not of the same kind. \n\nFor example, joule per kelvin and J/K are respectively the name and symbol of both a measurement unit of heat capacity and a measurement unit of entropy, which are generally not considered to be quantities of the same kind. \n\nHowever, in some cases special measurement unit names are restricted to be used with quantities of specific kind only. \n\nFor example, the measurement unit ‘second to the power minus one’ (1/s) is called hertz (Hz) when used for frequencies and becquerel (Bq) when used for activities of radionuclides. \n\nAs another example, the joule (J) is used as a unit of energy, but never as a unit of moment of force, i.e. the newton metre (N · m)."
+  }, {
+    "@language" : "en",
+    "@value" : "— quantities of the same kind have the same quantity dimension,\n— quantities of different quantity dimensions are always of different kinds, and\n— quantities having the same quantity dimension are not necessarily of the same kind.\nISO 80000-1"
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#subClassOf" : [ {
+    "@id" : "http://emmo.info/emmo#EMMO_54ee6b5e_5261_44a8_86eb_5717e7fdb9d0"
+  } ],
+  "http://www.w3.org/2004/02/skos/core#prefLabel" : [ {
+    "@language" : "en",
+    "@value" : "PhysicalQuantity"
+  } ]
+}, {
+  "@id" : "http://emmo.info/emmo#EMMO_02c4890b_aef3_4173_9669_94d1f6baf611",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
+  "http://www.w3.org/2000/01/rdf-schema#subClassOf" : [ {
+    "@id" : "http://emmo.info/emmo#EMMO_7d56ec24_499d_487a_af7d_a91aaa787bfe"
+  } ],
+  "http://www.w3.org/2004/02/skos/core#prefLabel" : [ {
+    "@language" : "en",
+    "@value" : "Coupled"
+  } ]
+}, {
+  "@id" : "http://emmo.info/emmo#EMMO_038e37a3_1684_4980_b5e4_67ab34cd5bdb",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
+  "http://emmo.info/emmo#EMMO_967080e5_2f42_4eb2_a3a9_c58143e835f9" : [ {
+    "@language" : "en",
+    "@value" : "A 'physical' that stands for a real world object that takes active part of a functional process."
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#subClassOf" : [ {
+    "@id" : "http://emmo.info/emmo#EMMO_13191289_6c2b_4741_93e1_82d53bd0e703"
+  } ],
+  "http://www.w3.org/2004/02/skos/core#prefLabel" : [ {
+    "@language" : "en",
+    "@value" : "ActiveParticipant"
+  } ]
+}, {
+  "@id" : "http://emmo.info/emmo#EMMO_084b4f77_6df7_4c6a_b705_2528aba5cdda",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
+  "http://www.w3.org/2000/01/rdf-schema#subClassOf" : [ {
+    "@id" : "http://emmo.info/emmo#EMMO_5dd63d84_57f5_4b79_b760_fe940c06680d"
+  } ],
+  "http://www.w3.org/2004/02/skos/core#prefLabel" : [ {
+    "@language" : "en",
+    "@value" : "MaterialRelationComputation"
+  } ]
+}, {
+  "@id" : "http://emmo.info/emmo#EMMO_0f6f0120_c079_4d95_bb11_4ddee05e530e",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
+  "http://emmo.info/emmo#EMMO_967080e5_2f42_4eb2_a3a9_c58143e835f9" : [ {
+    "@language" : "en",
+    "@value" : "Result of a measurement.\n\nA MeasurementResult is in EMMO expressed as a single MeasurendQuantitativeProperty and a MeasuredUncertainty"
+  } ],
+  "http://emmo.info/emmo#EMMO_bb49844b_45d7_4f0d_8cae_8e552cbc20d6" : [ {
+    "@language" : "en",
+    "@value" : "measurement result"
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#comment" : [ {
+    "@language" : "en",
+    "@value" : "A measurement result generally contains “relevant information” about the set of measured quantity properties, such that some may be more representative of the measured quantity than others. This may be expressed in the form of a probability density function (pdf)."
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#subClassOf" : [ {
+    "@id" : "http://emmo.info/emmo#EMMO_2a888cdf_ec4a_4ec5_af1c_0343372fc978"
+  } ],
+  "http://www.w3.org/2004/02/skos/core#prefLabel" : [ {
+    "@language" : "en",
+    "@value" : "MeasurementResult"
+  } ]
+}, {
+  "@id" : "http://emmo.info/emmo#EMMO_13191289_6c2b_4741_93e1_82d53bd0e703",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
+  "http://emmo.info/emmo#EMMO_967080e5_2f42_4eb2_a3a9_c58143e835f9" : [ {
+    "@language" : "en",
+    "@value" : "An object which is an holistic spatial part of a process."
+  } ],
+  "http://emmo.info/emmo#EMMO_b432d2d5_25f4_4165_99c5_5935a7763c1a" : [ {
+    "@language" : "en",
+    "@value" : "A student during an examination."
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#subClassOf" : [ {
+    "@id" : "http://emmo.info/emmo#EMMO_90ae56e4_d197_49b6_be1a_0049e4756606"
+  } ],
+  "http://www.w3.org/2004/02/skos/core#prefLabel" : [ {
+    "@language" : "en",
+    "@value" : "Participant"
+  } ]
+}, {
+  "@id" : "http://emmo.info/emmo#EMMO_1eed0732_e3f1_4b2c_a9c4_b4e75eeb5895",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
+  "http://emmo.info/emmo#EMMO_967080e5_2f42_4eb2_a3a9_c58143e835f9" : [ {
+    "@language" : "en",
+    "@value" : "A 'Variable' is a symbolic object that stands for a numerical defined 'Mathematical' object like e.g. a number, a vector, a matrix."
+  } ],
+  "http://emmo.info/emmo#EMMO_b432d2d5_25f4_4165_99c5_5935a7763c1a" : [ {
+    "@language" : "en",
+    "@value" : "x\nk"
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#subClassOf" : [ {
+    "@id" : "http://emmo.info/emmo#EMMO_54ee6b5e_5261_44a8_86eb_5717e7fdb9d0"
+  } ],
+  "http://www.w3.org/2004/02/skos/core#prefLabel" : [ {
+    "@language" : "en",
+    "@value" : "Variable"
+  } ]
+}, {
+  "@id" : "http://emmo.info/emmo#EMMO_21205421_5783_4d3e_81e5_10c5d894a88a",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
+  "http://emmo.info/emmo#EMMO_967080e5_2f42_4eb2_a3a9_c58143e835f9" : [ {
+    "@value" : "Any constitutionally or isotopically distinct atom, molecule, ion, ion pair, radical, radical ion, complex, conformer etc., identifiable as a separately distinguishable entity."
+  } ],
+  "http://emmo.info/emmo#EMMO_b432d2d5_25f4_4165_99c5_5935a7763c1a" : [ {
+    "@value" : "Hydrogen molecule is an adequate definition of a certain molecular entity for some purposes, whereas for others it is necessary to distinguish the electronic state and/or vibrational state and/or nuclear spin, etc. of the hydrogen molecule."
+  }, {
+    "@value" : "Methane, may mean a single molecule of CH4 (molecular entity) or a molar amount, specified or not (chemical species), participating in a reaction. The degree of precision necessary to describe a molecular entity depends on the context."
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#comment" : [ {
+    "@value" : "Molecular entity is used as a general term for singular entities, irrespective of their nature, while chemical species stands for sets or ensembles of molecular entities.\n\nNote that the name of a compound may refer to the respective molecular entity or to the chemical species,"
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#subClassOf" : [ {
+    "@id" : "http://emmo.info/emmo#EMMO_47338839_6cca_4a8e_b565_3c4d5517e2c0"
+  } ],
+  "http://www.w3.org/2004/02/skos/core#altLabel" : [ {
+    "@value" : "ChemicalEntity"
+  } ],
+  "http://www.w3.org/2004/02/skos/core#prefLabel" : [ {
+    "@language" : "en",
+    "@value" : "MolecularEntity"
+  } ]
+}, {
+  "@id" : "http://emmo.info/emmo#EMMO_23b9d75b_2fdb_4bef_b839_202c026f88f9",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
+  "http://www.w3.org/2000/01/rdf-schema#subClassOf" : [ {
+    "@id" : "http://emmo.info/emmo#EMMO_8b0923ab_b500_477b_9ce9_8b3a3e4dc4f2"
+  } ],
+  "http://www.w3.org/2004/02/skos/core#prefLabel" : [ {
+    "@language" : "en",
+    "@value" : "StateOfAggregation"
+  } ]
+}, {
+  "@id" : "http://emmo.info/emmo#EMMO_2a888cdf_ec4a_4ec5_af1c_0343372fc978",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
+  "http://emmo.info/emmo#EMMO_967080e5_2f42_4eb2_a3a9_c58143e835f9" : [ {
+    "@language" : "en",
+    "@value" : "A 'Property' that is determined by each 'Observer' following a well defined 'Observation' procedure through a specific perception channel."
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#comment" : [ {
+    "@language" : "en",
+    "@value" : "The word objective does not mean that each observation will provide the same results. It means that the observation followed a well defined procedure."
+  }, {
+    "@language" : "en",
+    "@value" : "This class refers to what is commonly known as physical property, i.e. a measurable property of physical system, whether is quantifiable or not."
+  } ],
+  "http://www.w3.org/2004/02/skos/core#prefLabel" : [ {
+    "@language" : "en",
+    "@value" : "ObjectiveProperty"
+  } ]
+}, {
+  "@id" : "http://emmo.info/emmo#EMMO_4207e895_8b83_4318_996a_72cfb32acd94",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
+  "http://emmo.info/emmo#EMMO_967080e5_2f42_4eb2_a3a9_c58143e835f9" : [ {
+    "@language" : "en",
+    "@value" : "A matter individual that stands for a real world object representing an amount of a physical substance (or mixture of substances) in different states of matter or phases."
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#comment" : [ {
+    "@language" : "en",
+    "@value" : "A instance of a material (e.g. nitrogen) can represent different states of matter. The fact that the individual also belongs to other classes (e.g. Gas) would reveal the actual form in which the material is found."
+  }, {
+    "@language" : "en",
+    "@value" : "Material usually means some definite kind, quality, or quantity of matter, especially as intended for use."
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#subClassOf" : [ {
+    "@id" : "http://emmo.info/emmo#EMMO_5b2222df_4da6_442f_8244_96e9e45887d1"
+  } ],
+  "http://www.w3.org/2004/02/skos/core#prefLabel" : [ {
+    "@language" : "en",
+    "@value" : "Material"
+  } ]
+}, {
+  "@id" : "http://emmo.info/emmo#EMMO_4299e344_a321_4ef2_a744_bacfcce80afc",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
+  "http://emmo.info/emmo#EMMO_967080e5_2f42_4eb2_a3a9_c58143e835f9" : [ {
+    "@language" : "en",
+    "@value" : "An elaboration that has no elaboration proper parts, according to a specific type."
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#subClassOf" : [ {
+    "@id" : "http://emmo.info/emmo#EMMO_472a0ca2_58bf_4618_b561_6fe68bd9fd49"
+  } ],
+  "http://www.w3.org/2004/02/skos/core#prefLabel" : [ {
+    "@language" : "en",
+    "@value" : "ElementaryWork"
+  } ]
+}, {
+  "@id" : "http://emmo.info/emmo#EMMO_436b11bd_1756_4821_9f14_c9ed6b67552e",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
+  "http://emmo.info/emmo#EMMO_967080e5_2f42_4eb2_a3a9_c58143e835f9" : [ {
+    "@value" : "A chemical substance composed of atoms with the same number of protons in the atomic nucleus."
+  } ],
+  "http://emmo.info/emmo#EMMO_fe015383_afb3_44a6_ae86_043628697aa2" : [ {
+    "@value" : "https://doi.org/10.1351/goldbook.C01022"
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#subClassOf" : [ {
+    "@id" : "http://emmo.info/emmo#EMMO_df96cbb6_b5ee_4222_8eab_b3675df24bea"
+  } ],
+  "http://www.w3.org/2004/02/skos/core#altLabel" : [ {
+    "@language" : "en",
+    "@value" : "PureSubstance"
+  } ],
+  "http://www.w3.org/2004/02/skos/core#prefLabel" : [ {
+    "@value" : "ElementalSubstance"
+  } ]
+}, {
+  "@id" : "http://emmo.info/emmo#EMMO_43cd9d34_466b_4914_9b07_7c0142590723",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
+  "http://emmo.info/emmo#EMMO_50c298c2_55a2_4068_b3ac_4e948c33181f" : [ {
+    "@value" : "https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=114-01-17"
+  } ],
+  "http://emmo.info/emmo#EMMO_967080e5_2f42_4eb2_a3a9_c58143e835f9" : [ {
+    "@language" : "en",
+    "@value" : "substance that increases the concentration of hydrogen cations H+ when dissolved."
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#subClassOf" : [ {
+    "@id" : "http://emmo.info/emmo#EMMO_df96cbb6_b5ee_4222_8eab_b3675df24bea"
+  } ],
+  "http://www.w3.org/2004/02/skos/core#altLabel" : [ {
+    "@language" : "en",
+    "@value" : "AcidicSubstance"
+  } ],
+  "http://www.w3.org/2004/02/skos/core#prefLabel" : [ {
+    "@language" : "en",
+    "@value" : "Acid"
+  } ]
+}, {
+  "@id" : "http://emmo.info/emmo#EMMO_43e9a05d_98af_41b4_92f6_00f79a09bfce",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
+  "http://emmo.info/emmo#EMMO_967080e5_2f42_4eb2_a3a9_c58143e835f9" : [ {
+    "@language" : "en",
+    "@value" : "A whole that is identified according to a criteria based on its temporal evolution that is satisfied throughout its time extension."
+  } ],
+  "http://emmo.info/emmo#EMMO_c7b62dd7_063a_4c2a_8504_42f7264ba83f" : [ {
+    "@language" : "en",
+    "@value" : "A process can be defined only according to an entity type. The minimum process is an entity made of two entities of the same type that are temporally related."
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#comment" : [ {
+    "@language" : "en",
+    "@value" : "Following the common definition of process, the reader may think that every whole should be a process, since every 4D object always has a time dimension. However, in the EMMO we restrict the meaning of the word process to items whose evolution in time have a particular meaning for the ontologist (i.e. every 4D object unfolds in time, but not every 4D time unfolding may be of interest for the ontologist and categorized as a process).\n\nFor this reason, the definition of every specific process subclass requires the introduction of a primitive concept."
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#subClassOf" : [ {
+    "@id" : "http://emmo.info/emmo#EMMO_e04884d9_eda6_487e_93d5_7722d7eda96b"
+  } ],
+  "http://www.w3.org/2004/02/skos/core#altLabel" : [ {
+    "@language" : "en",
+    "@value" : "Occurrent"
+  }, {
+    "@language" : "en",
+    "@value" : "Perdurant"
+  } ],
+  "http://www.w3.org/2004/02/skos/core#prefLabel" : [ {
+    "@language" : "en",
+    "@value" : "Process"
+  } ]
+}, {
+  "@id" : "http://emmo.info/emmo#EMMO_463bcfda_867b_41d9_a967_211d4d437cfb",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
+  "http://emmo.info/emmo#EMMO_967080e5_2f42_4eb2_a3a9_c58143e835f9" : [ {
+    "@language" : "en",
+    "@value" : "An 'observation' that results in a quantitative comparison of a 'property' of an 'object' with a standard reference based on a well defined mesurement procedure."
+  } ],
+  "http://emmo.info/emmo#EMMO_bb49844b_45d7_4f0d_8cae_8e552cbc20d6" : [ {
+    "@language" : "en",
+    "@value" : "measurement"
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#comment" : [ {
+    "@language" : "en",
+    "@value" : "A measurement always implies a causal interaction between the object and the observer."
+  }, {
+    "@language" : "en",
+    "@value" : "A measurement is the process of experimentally obtaining one or more measurement results that can reasonably be attributed to a quantity."
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#subClassOf" : [ {
+    "@id" : "http://emmo.info/emmo#EMMO_bafc17b5_9be4_4823_8bbe_ab4e90b6738c"
+  } ],
+  "http://www.w3.org/2004/02/skos/core#prefLabel" : [ {
+    "@language" : "en",
+    "@value" : "Measurement"
+  } ]
+}, {
+  "@id" : "http://emmo.info/emmo#EMMO_472a0ca2_58bf_4618_b561_6fe68bd9fd49",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
+  "http://emmo.info/emmo#EMMO_967080e5_2f42_4eb2_a3a9_c58143e835f9" : [ {
+    "@language" : "en",
+    "@value" : "The process in which an agent works with some entities according to some operative rules."
+  } ],
+  "http://emmo.info/emmo#EMMO_b432d2d5_25f4_4165_99c5_5935a7763c1a" : [ {
+    "@language" : "en",
+    "@value" : "The process in which a control unit of a CPU (the agent) orchestrates some cached binary data according to a list of instructions (e.g. a program).\nThe process in which a librarian order books alphabetically on a shelf.\nThe execution of an algorithm."
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#subClassOf" : [ {
+    "@id" : "http://emmo.info/emmo#EMMO_bafc17b5_9be4_4823_8bbe_ab4e90b6738c"
+  } ],
+  "http://www.w3.org/2004/02/skos/core#altLabel" : [ {
+    "@language" : "en",
+    "@value" : "Job"
+  }, {
+    "@language" : "en",
+    "@value" : "Task"
+  }, {
+    "@language" : "en",
+    "@value" : "Work"
+  } ],
+  "http://www.w3.org/2004/02/skos/core#prefLabel" : [ {
+    "@language" : "en",
+    "@value" : "Elaboration"
+  } ]
+}, {
+  "@id" : "http://emmo.info/emmo#EMMO_47338839_6cca_4a8e_b565_3c4d5517e2c0",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
+  "http://www.w3.org/2000/01/rdf-schema#comment" : [ {
+    "@value" : "A chemical entity comprises the two different ways to represents matter: as single recognizable particle entity (molecular entity) and as a composition of particle entities (substance).\n\nThis distinction is not well assessed in actual chemical nomenclature, in which an element name refers to both the pure elemental substance or the atom.\n\nIn the EMMO we force the adoption of a more strict categorization based on mereotopology.\n\nThe class Material hosts the subclasses for which a substance can be identified without necessarily considering its nature of molecule/atom or substance (e.g. hydrocarbon is the class of both hydrocarbon molecules or gases)."
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#subClassOf" : [ {
+    "@id" : "http://emmo.info/emmo#EMMO_5b2222df_4da6_442f_8244_96e9e45887d1"
+  } ],
+  "http://www.w3.org/2004/02/skos/core#prefLabel" : [ {
+    "@language" : "en",
+    "@value" : "ChemicalEntity"
+  } ]
+}, {
+  "@id" : "http://emmo.info/emmo#EMMO_4ce76d7f_03f8_45b6_9003_90052a79bfaa",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
+  "http://emmo.info/emmo#EMMO_967080e5_2f42_4eb2_a3a9_c58143e835f9" : [ {
+    "@language" : "en",
+    "@value" : "A 'Mathematical' that has no unknown value, i.e. all its 'Variable\"-s parts refers to a 'Number' (for scalars that have a built-in datatype) or to another 'Numerical' (for complex numerical data structures that should rely on external implementations)."
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#subClassOf" : [ {
+    "@id" : "http://emmo.info/emmo#EMMO_54ee6b5e_5261_44a8_86eb_5717e7fdb9d0"
+  } ],
+  "http://www.w3.org/2004/02/skos/core#prefLabel" : [ {
+    "@language" : "en",
+    "@value" : "Numerical"
+  } ]
+}, {
+  "@id" : "http://emmo.info/emmo#EMMO_4e659c69_ca2d_4569_8a96_f99857a1fa32",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
+  "http://www.w3.org/2000/01/rdf-schema#subClassOf" : [ {
+    "@id" : "http://emmo.info/emmo#EMMO_e2b11f6a_4191_427e_9844_2e0ac88dfc8b"
+  } ],
+  "http://www.w3.org/2004/02/skos/core#prefLabel" : [ {
+    "@language" : "en",
+    "@value" : "InorganicCompound"
+  } ]
+}, {
+  "@id" : "http://emmo.info/emmo#EMMO_50c298c2_55a2_4068_b3ac_4e948c33181f",
+  "@type" : [ "http://www.w3.org/2002/07/owl#AnnotationProperty" ]
+}, {
+  "@id" : "http://emmo.info/emmo#EMMO_54ee6b5e_5261_44a8_86eb_5717e7fdb9d0",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
+  "http://emmo.info/emmo#EMMO_967080e5_2f42_4eb2_a3a9_c58143e835f9" : [ {
+    "@language" : "en",
+    "@value" : "The class of general mathematical symbolic objects respecting mathematical syntactic rules."
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#comment" : [ {
+    "@value" : "A mathematical object in this branch is not representing a concept but an actual graphical object built using mathematcal symbols arranged in some way, according to math conventions."
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#subClassOf" : [ {
+    "@id" : "http://emmo.info/emmo#EMMO_d8d2144e_5c8d_455d_a643_5caf4d8d9df8"
+  } ],
+  "http://www.w3.org/2004/02/skos/core#prefLabel" : [ {
+    "@language" : "en",
+    "@value" : "Mathematical"
+  } ]
+}, {
+  "@id" : "http://emmo.info/emmo#EMMO_5b2222df_4da6_442f_8244_96e9e45887d1",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
+  "http://emmo.info/emmo#EMMO_967080e5_2f42_4eb2_a3a9_c58143e835f9" : [ {
+    "@language" : "en",
+    "@value" : "A 'Physical' that possesses some 'Lepton' or 'Quark' parts in each of its temporal parts."
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#subClassOf" : [ {
+    "@id" : "http://emmo.info/emmo#EMMO_98ada9d8_f1c8_4f13_99b5_d890f5354152"
+  } ],
+  "http://www.w3.org/2004/02/skos/core#prefLabel" : [ {
+    "@language" : "en",
+    "@value" : "Matter"
+  } ]
+}, {
+  "@id" : "http://emmo.info/emmo#EMMO_5c68497d_2544_4cd4_897b_1ea783c9f6fe",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
+  "http://emmo.info/emmo#EMMO_967080e5_2f42_4eb2_a3a9_c58143e835f9" : [ {
+    "@language" : "en",
+    "@value" : "An object that enables or facilitate an agent in the execution of a process that modifies the surrounding environment."
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#subClassOf" : [ {
+    "@id" : "http://emmo.info/emmo#EMMO_13191289_6c2b_4741_93e1_82d53bd0e703"
+  } ],
+  "http://www.w3.org/2004/02/skos/core#prefLabel" : [ {
+    "@language" : "en",
+    "@value" : "Tool"
+  } ]
+}, {
+  "@id" : "http://emmo.info/emmo#EMMO_5dd63d84_57f5_4b79_b760_fe940c06680d",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
+  "http://emmo.info/emmo#EMMO_967080e5_2f42_4eb2_a3a9_c58143e835f9" : [ {
+    "@language" : "en",
+    "@value" : "A functional icon that imitates the behaviour of the object through mathematical evaluations of some mathematical construct."
+  } ],
+  "http://emmo.info/emmo#EMMO_c7b62dd7_063a_4c2a_8504_42f7264ba83f" : [ {
+    "@language" : "en",
+    "@value" : "The equation that describes the velocity of a uniform accelerated body v = v0 + a*t is a functional icon. In general every analitical solution of a mathematical model can be considered an icon. A functional icon expresses its similarity with the object when is part of a process the makes it imitate the behavior of the object. In the case of v = v0 + a*t, plotting the velocity over time or listing their values at certain instants is when the icon expresses it functionality."
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#subClassOf" : [ {
+    "@id" : "http://emmo.info/emmo#EMMO_eff42cb3_208e_4768_9a39_f8b6b3c3d7a2"
+  } ],
+  "http://www.w3.org/2004/02/skos/core#prefLabel" : [ {
+    "@language" : "en",
+    "@value" : "PhysicsMathematicalComputation"
+  } ]
+}, {
+  "@id" : "http://emmo.info/emmo#EMMO_64963ed6_39c9_4258_85e0_6466c4b5420c",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
+  "http://emmo.info/emmo#EMMO_967080e5_2f42_4eb2_a3a9_c58143e835f9" : [ {
+    "@language" : "en",
+    "@value" : "An elaboration that has at least two elaborations as proper parts."
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#subClassOf" : [ {
+    "@id" : "http://emmo.info/emmo#EMMO_472a0ca2_58bf_4618_b561_6fe68bd9fd49"
+  } ],
+  "http://www.w3.org/2004/02/skos/core#prefLabel" : [ {
+    "@language" : "en",
+    "@value" : "Workflow"
+  } ]
+}, {
+  "@id" : "http://emmo.info/emmo#EMMO_65a007dc_2550_46b0_b394_3346c67fbb69",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
+  "http://emmo.info/emmo#EMMO_967080e5_2f42_4eb2_a3a9_c58143e835f9" : [ {
+    "@language" : "en",
+    "@value" : "An object that is made of a set of sub objects working together as parts of a mechanism or an interconnecting network (natural or artificial); a complex whole."
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#comment" : [ {
+    "@language" : "en",
+    "@value" : "A system is conceived as an aggregate of things that 'work' (or interact) together. While a system extends in time through distinct temporal parts (like every other 4D object), this elucdation focuses on a timescale in which the obejct shows a persistence in time."
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#subClassOf" : [ {
+    "@id" : "http://emmo.info/emmo#EMMO_90ae56e4_d197_49b6_be1a_0049e4756606"
+  } ],
+  "http://www.w3.org/2004/02/skos/core#prefLabel" : [ {
+    "@language" : "en",
+    "@value" : "HolisticSystem"
+  } ]
+}, {
+  "@id" : "http://emmo.info/emmo#EMMO_668fbd5b_6f1b_405c_9c6b_d6067bd0595a",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
+  "http://emmo.info/emmo#EMMO_967080e5_2f42_4eb2_a3a9_c58143e835f9" : [ {
+    "@language" : "en",
+    "@value" : "A matter object throughout which all physical properties of a material are essentially uniform."
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#comment" : [ {
+    "@language" : "en",
+    "@value" : "In the physical sciences, a phase is a region of space (a thermodynamic system), throughout which all physical properties of a material are essentially uniform. Examples of physical properties include density, index of refraction, magnetization and chemical composition. A simple description is that a phase is a region of material that is chemically uniform, physically distinct, and (often) mechanically separable. In a system consisting of ice and water in a glass jar, the ice cubes are one phase, the water is a second phase, and the humid air is a third phase over the ice and water. The glass of the jar is another separate phase.\n\nThe term phase is sometimes used as a synonym for state of matter, but there can be several immiscible phases of the same state of matter. Also, the term phase is sometimes used to refer to a set of equilibrium states demarcated in terms of state variables such as pressure and temperature by a phase boundary on a phase diagram. Because phase boundaries relate to changes in the organization of matter, such as a change from liquid to solid or a more subtle change from one crystal structure to another, this latter usage is similar to the use of \"phase\" as a synonym for state of matter. However, the state of matter and phase diagram usages are not commensurate with the formal definition given above and the intended meaning must be determined in part from the context in which the term is used."
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#subClassOf" : [ {
+    "@id" : "http://emmo.info/emmo#EMMO_8b0923ab_b500_477b_9ce9_8b3a3e4dc4f2"
+  } ],
+  "http://www.w3.org/2004/02/skos/core#prefLabel" : [ {
+    "@language" : "en",
+    "@value" : "PhaseOfMatter"
+  } ]
+}, {
+  "@id" : "http://emmo.info/emmo#EMMO_6a490979_2226_47bb_a2b2_a7951c04cfc7",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
+  "http://emmo.info/emmo#EMMO_50c298c2_55a2_4068_b3ac_4e948c33181f" : [ {
+    "@value" : "https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=114-01-18"
+  } ],
+  "http://emmo.info/emmo#EMMO_967080e5_2f42_4eb2_a3a9_c58143e835f9" : [ {
+    "@language" : "en",
+    "@value" : "substance that decreases the concentration of hydrogen cations H+ when dissolved."
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#subClassOf" : [ {
+    "@id" : "http://emmo.info/emmo#EMMO_df96cbb6_b5ee_4222_8eab_b3675df24bea"
+  } ],
+  "http://www.w3.org/2004/02/skos/core#altLabel" : [ {
+    "@language" : "en",
+    "@value" : "AlkalineSubstance"
+  } ],
+  "http://www.w3.org/2004/02/skos/core#prefLabel" : [ {
+    "@language" : "en",
+    "@value" : "Base"
+  } ]
+}, {
+  "@id" : "http://emmo.info/emmo#EMMO_704630b8_fee3_49b9_baca_40e2dd276370",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
+  "http://www.w3.org/2000/01/rdf-schema#subClassOf" : [ {
+    "@id" : "http://emmo.info/emmo#EMMO_e2b11f6a_4191_427e_9844_2e0ac88dfc8b"
+  } ],
+  "http://www.w3.org/2004/02/skos/core#prefLabel" : [ {
+    "@language" : "en",
+    "@value" : "OrganicCompound"
+  } ]
+}, {
+  "@id" : "http://emmo.info/emmo#EMMO_705f27ae_954c_4f13_98aa_18473fc52b25",
+  "@type" : [ "http://www.w3.org/2002/07/owl#AnnotationProperty" ]
+}, {
+  "@id" : "http://emmo.info/emmo#EMMO_70fe84ff_99b6_4206_a9fc_9a8931836d84",
+  "@type" : [ "http://www.w3.org/2002/07/owl#AnnotationProperty" ]
+}, {
+  "@id" : "http://emmo.info/emmo#EMMO_71d1c8f0_c6e3_44b5_a4b6_1b74ff35698a",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
+  "http://emmo.info/emmo#EMMO_967080e5_2f42_4eb2_a3a9_c58143e835f9" : [ {
+    "@language" : "en",
+    "@value" : "A manufacturing process whose product is the result of the combination of more substances."
+  } ],
+  "http://emmo.info/emmo#EMMO_b432d2d5_25f4_4165_99c5_5935a7763c1a" : [ {
+    "@language" : "en",
+    "@value" : "Synthesis of materials, the preparation of a cake."
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#subClassOf" : [ {
+    "@id" : "http://emmo.info/emmo#EMMO_a4d66059_5dd3_4b90_b4cb_10960559441b"
+  } ],
+  "http://www.w3.org/2004/02/skos/core#prefLabel" : [ {
+    "@language" : "en",
+    "@value" : "ContinuumManufacturing"
+  } ]
+}, {
+  "@id" : "http://emmo.info/emmo#EMMO_7d56ec24_499d_487a_af7d_a91aaa787bfe",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
+  "http://www.w3.org/2000/01/rdf-schema#subClassOf" : [ {
+    "@id" : "http://emmo.info/emmo#EMMO_9335cf09_431f_4613_9dab_ce4ceaca965b"
+  } ],
+  "http://www.w3.org/2004/02/skos/core#prefLabel" : [ {
+    "@language" : "en",
+    "@value" : "MultiSimulation"
+  } ]
+}, {
+  "@id" : "http://emmo.info/emmo#EMMO_8681074a_e225_4e38_b586_e85b0f43ce38",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
+  "http://emmo.info/emmo#EMMO_967080e5_2f42_4eb2_a3a9_c58143e835f9" : [ {
+    "@language" : "en",
+    "@value" : "A language object that follows syntactic rules of a programming language."
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#subClassOf" : [ {
+    "@id" : "http://emmo.info/emmo#EMMO_d8d2144e_5c8d_455d_a643_5caf4d8d9df8"
+  } ],
+  "http://www.w3.org/2004/02/skos/core#prefLabel" : [ {
+    "@language" : "en",
+    "@value" : "Software"
+  } ]
+}, {
+  "@id" : "http://emmo.info/emmo#EMMO_8786cb47_8e1f_4968_9b15_f6d41fc51252",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
+  "http://emmo.info/emmo#EMMO_967080e5_2f42_4eb2_a3a9_c58143e835f9" : [ {
+    "@language" : "en",
+    "@value" : "A manufacturing process aimed to the production of a device made of specific components."
+  } ],
+  "http://emmo.info/emmo#EMMO_b432d2d5_25f4_4165_99c5_5935a7763c1a" : [ {
+    "@language" : "en",
+    "@value" : "Assemblying a bicycle, building a car."
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#subClassOf" : [ {
+    "@id" : "http://emmo.info/emmo#EMMO_a4d66059_5dd3_4b90_b4cb_10960559441b"
+  } ],
+  "http://www.w3.org/2004/02/skos/core#prefLabel" : [ {
+    "@language" : "en",
+    "@value" : "DiscreteManufacturing"
+  } ]
+}, {
+  "@id" : "http://emmo.info/emmo#EMMO_8b0923ab_b500_477b_9ce9_8b3a3e4dc4f2",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
+  "http://emmo.info/emmo#EMMO_967080e5_2f42_4eb2_a3a9_c58143e835f9" : [ {
+    "@language" : "en",
+    "@value" : "A state that is a collection of sufficiently large number of other parts such that:\n- it is the bearer of qualities that can exists only by the fact that it is a sum of parts\n- the smallest partition dV of the state volume in which we are interested in, contains enough parts to be statistically consistent: n [#/m3] x dV [m3] >> 1"
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#comment" : [ {
+    "@language" : "en",
+    "@value" : "A continuum is made of a sufficient number of parts that it continues to exists as continuum individual even after the loss of one of them i.e. a continuum is a redundant."
+  }, {
+    "@language" : "en",
+    "@value" : "A continuum is not necessarily small (i.e. composed by the minimum amount of sates to fulfill the definition).\n\nA single continuum individual can be the whole fluid in a pipe."
+  }, {
+    "@language" : "en",
+    "@value" : "A continuum is the bearer of properties that are generated by the interactions of parts such as viscosity and thermal or electrical conductivity."
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#subClassOf" : [ {
+    "@id" : "http://emmo.info/emmo#EMMO_5b2222df_4da6_442f_8244_96e9e45887d1"
+  } ],
+  "http://www.w3.org/2004/02/skos/core#prefLabel" : [ {
+    "@language" : "en",
+    "@value" : "Continuum"
+  } ]
+}, {
+  "@id" : "http://emmo.info/emmo#EMMO_90ae56e4_d197_49b6_be1a_0049e4756606",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
+  "http://emmo.info/emmo#EMMO_967080e5_2f42_4eb2_a3a9_c58143e835f9" : [ {
+    "@language" : "en",
+    "@value" : "A whole that is identified according to a criteria based on its spatial configuration that is satisfied throughout its time extension."
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#comment" : [ {
+    "@language" : "en",
+    "@value" : "A continuant (here called object) is usually defined as a whole whose all possible temporal parts are always satisfying a specific criterion (wich is the classical definition of continuants).\nHowever that's not possible in general, since we will finally end to temporal parts whose temporal extension is so small that the connectivity relations that define the object will no longer hold. That's the case when the temporal interval is lower than the interval that characterize the causality interactions between the object parts.\nIn other terms, if the time span of a temporal part is lower than the inverse of the frequency of interactions between the constituents, then the constituents in such temporal part are not connected. The object is no more an object, neither an item, but simply a collection of fundamental parts.\nTo overcome this issue, we can identify an minimum holistic temporal part (a lower time interval value), below which a specific definition for an object type does not hold anymore, that is called a fundamental."
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#subClassOf" : [ {
+    "@id" : "http://emmo.info/emmo#EMMO_e04884d9_eda6_487e_93d5_7722d7eda96b"
+  } ],
+  "http://www.w3.org/2004/02/skos/core#altLabel" : [ {
+    "@language" : "en",
+    "@value" : "Continuant"
+  }, {
+    "@language" : "en",
+    "@value" : "Endurant"
+  } ],
+  "http://www.w3.org/2004/02/skos/core#prefLabel" : [ {
+    "@language" : "en",
+    "@value" : "Object"
+  } ]
+}, {
+  "@id" : "http://emmo.info/emmo#EMMO_912ac3a2_a124_4233_92dd_06c9aebea46c",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
+  "http://emmo.info/emmo#EMMO_967080e5_2f42_4eb2_a3a9_c58143e835f9" : [ {
+    "@language" : "en",
+    "@value" : "The act of connecting together the parts of something"
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#subClassOf" : [ {
+    "@id" : "http://emmo.info/emmo#EMMO_bafc17b5_9be4_4823_8bbe_ab4e90b6738c"
+  } ],
+  "http://www.w3.org/2004/02/skos/core#prefLabel" : [ {
+    "@language" : "en",
+    "@value" : "Assemblying"
+  } ]
+}, {
+  "@id" : "http://emmo.info/emmo#EMMO_9335cf09_431f_4613_9dab_ce4ceaca965b",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
+  "http://emmo.info/emmo#EMMO_967080e5_2f42_4eb2_a3a9_c58143e835f9" : [ {
+    "@language" : "en",
+    "@value" : "A estimation of a property using a functional icon."
+  } ],
+  "http://emmo.info/emmo#EMMO_b432d2d5_25f4_4165_99c5_5935a7763c1a" : [ {
+    "@language" : "en",
+    "@value" : "I calculate the electrical conductivity of an Ar-He plasma with the Chapman-Enskog method and use the value as property for it."
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#subClassOf" : [ {
+    "@id" : "http://emmo.info/emmo#EMMO_eff42cb3_208e_4768_9a39_f8b6b3c3d7a2"
+  } ],
+  "http://www.w3.org/2004/02/skos/core#altLabel" : [ {
+    "@language" : "en",
+    "@value" : "Modelling"
+  } ],
+  "http://www.w3.org/2004/02/skos/core#prefLabel" : [ {
+    "@language" : "en",
+    "@value" : "Simulation"
+  } ]
+}, {
+  "@id" : "http://emmo.info/emmo#EMMO_9471e8ff_ca96_4acd_9364_6e63489ae2b3",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
+  "http://www.w3.org/2000/01/rdf-schema#subClassOf" : [ {
+    "@id" : "http://emmo.info/emmo#EMMO_9335cf09_431f_4613_9dab_ce4ceaca965b"
+  } ],
+  "http://www.w3.org/2004/02/skos/core#prefLabel" : [ {
+    "@language" : "en",
+    "@value" : "ElementarySimulation"
+  } ]
+}, {
+  "@id" : "http://emmo.info/emmo#EMMO_967080e5_2f42_4eb2_a3a9_c58143e835f9",
+  "@type" : [ "http://www.w3.org/2002/07/owl#AnnotationProperty" ]
+}, {
+  "@id" : "http://emmo.info/emmo#EMMO_98ada9d8_f1c8_4f13_99b5_d890f5354152",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
+  "http://www.w3.org/2004/02/skos/core#prefLabel" : [ {
+    "@language" : "en",
+    "@value" : "Physicalistic"
+  } ]
+}, {
+  "@id" : "http://emmo.info/emmo#EMMO_a15cea10_9946_4d2b_95c5_cfc333fd2abb",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
+  "http://emmo.info/emmo#EMMO_70fe84ff_99b6_4206_a9fc_9a8931836d84" : [ {
+    "@language" : "en",
+    "@value" : "The union of hadron and lepton, or fermion and bosons."
+  } ],
+  "http://emmo.info/emmo#EMMO_967080e5_2f42_4eb2_a3a9_c58143e835f9" : [ {
+    "@language" : "en",
+    "@value" : "A well defined physical entity, elementary or composite, usually treated as a singular unit, that is found at scales spanning from the elementary particles to molecules, as fundamental constituents of larger scale substances (as the etymology of \"particle\" suggests)."
+  } ],
+  "http://emmo.info/emmo#EMMO_c84c6752_6d64_48cc_9500_e54a3c34898d" : [ {
+    "@language" : "en",
+    "@value" : "https://en.wikipedia.org/wiki/Vector_boson"
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#comment" : [ {
+    "@value" : "The scope of the particle definition goes from the elementary particles to molecules, as fundamental constituents of substances."
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#subClassOf" : [ {
+    "@id" : "http://emmo.info/emmo#EMMO_98ada9d8_f1c8_4f13_99b5_d890f5354152"
+  } ],
+  "http://www.w3.org/2004/02/skos/core#altLabel" : [ {
+    "@language" : "en",
+    "@value" : "Particle"
+  } ],
+  "http://www.w3.org/2004/02/skos/core#prefLabel" : [ {
+    "@language" : "en",
+    "@value" : "PhysicalParticle"
+  } ]
+}, {
+  "@id" : "http://emmo.info/emmo#EMMO_a4d66059_5dd3_4b90_b4cb_10960559441b",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
+  "http://emmo.info/emmo#EMMO_967080e5_2f42_4eb2_a3a9_c58143e835f9" : [ {
+    "@language" : "en",
+    "@value" : "The process of transforming an precursor object (e.g. raw materials) into a product by the use of manual labor, machinery or chemical/biological processes."
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#subClassOf" : [ {
+    "@id" : "http://emmo.info/emmo#EMMO_bafc17b5_9be4_4823_8bbe_ab4e90b6738c"
+  } ],
+  "http://www.w3.org/2004/02/skos/core#prefLabel" : [ {
+    "@language" : "en",
+    "@value" : "Manufacturing"
+  } ]
+}, {
+  "@id" : "http://emmo.info/emmo#EMMO_a7c3542a_fe8a_480e_b6a9_364497d576d4",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
+  "http://emmo.info/emmo#EMMO_50c298c2_55a2_4068_b3ac_4e948c33181f" : [ {
+    "@language" : "en",
+    "@value" : "https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=114-01-05"
+  } ],
+  "http://emmo.info/emmo#EMMO_967080e5_2f42_4eb2_a3a9_c58143e835f9" : [ {
+    "@language" : "en",
+    "@value" : "Substance dissolved into another substance."
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#subClassOf" : [ {
+    "@id" : "http://emmo.info/emmo#EMMO_df96cbb6_b5ee_4222_8eab_b3675df24bea"
+  } ],
+  "http://www.w3.org/2004/02/skos/core#prefLabel" : [ {
+    "@language" : "en",
+    "@value" : "Solute"
+  } ]
+}, {
+  "@id" : "http://emmo.info/emmo#EMMO_ae15fb4f_8e4d_41de_a0f9_3997f89ba6a2",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
+  "http://emmo.info/emmo#EMMO_967080e5_2f42_4eb2_a3a9_c58143e835f9" : [ {
+    "@language" : "en",
+    "@value" : "A 'varaible' that stand for a well known constant."
+  } ],
+  "http://emmo.info/emmo#EMMO_b432d2d5_25f4_4165_99c5_5935a7763c1a" : [ {
+    "@language" : "en",
+    "@value" : "π refers to the constant number ~3.14"
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#subClassOf" : [ {
+    "@id" : "http://emmo.info/emmo#EMMO_1eed0732_e3f1_4b2c_a9c4_b4e75eeb5895"
+  } ],
+  "http://www.w3.org/2004/02/skos/core#prefLabel" : [ {
+    "@language" : "en",
+    "@value" : "Constant"
+  } ]
+}, {
+  "@id" : "http://emmo.info/emmo#EMMO_b432d2d5_25f4_4165_99c5_5935a7763c1a",
+  "@type" : [ "http://www.w3.org/2002/07/owl#AnnotationProperty" ]
+}, {
+  "@id" : "http://emmo.info/emmo#EMMO_b9695e87_8261_412e_83cd_a86459426a28",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
+  "http://emmo.info/emmo#EMMO_967080e5_2f42_4eb2_a3a9_c58143e835f9" : [ {
+    "@language" : "en",
+    "@value" : "A superclass made as the disjoint union of all the form under which matter can exist."
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#comment" : [ {
+    "@language" : "en",
+    "@value" : "In physics, a state of matter is one of the distinct forms in which matter can exist. Four states of matter are observable in everyday life: solid, liquid, gas, and plasma.\n\nhttps://en.wikipedia.org/wiki/State_of_matter"
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#subClassOf" : [ {
+    "@id" : "http://emmo.info/emmo#EMMO_8b0923ab_b500_477b_9ce9_8b3a3e4dc4f2"
+  } ],
+  "http://www.w3.org/2004/02/skos/core#prefLabel" : [ {
+    "@language" : "en",
+    "@value" : "StateOfMatter"
+  } ]
+}, {
+  "@id" : "http://emmo.info/emmo#EMMO_bafc17b5_9be4_4823_8bbe_ab4e90b6738c",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
+  "http://emmo.info/emmo#EMMO_967080e5_2f42_4eb2_a3a9_c58143e835f9" : [ {
+    "@language" : "en",
+    "@value" : "A process occurring with the active participation of an agent that drives the process according to a specific objective (intention)."
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#subClassOf" : [ {
+    "@id" : "http://emmo.info/emmo#EMMO_43e9a05d_98af_41b4_92f6_00f79a09bfce"
+  } ],
+  "http://www.w3.org/2004/02/skos/core#altLabel" : [ {
+    "@language" : "en",
+    "@value" : "Project"
+  } ],
+  "http://www.w3.org/2004/02/skos/core#prefLabel" : [ {
+    "@language" : "en",
+    "@value" : "IntentionalProcess"
+  } ]
+}, {
+  "@id" : "http://emmo.info/emmo#EMMO_bb49844b_45d7_4f0d_8cae_8e552cbc20d6",
+  "@type" : [ "http://www.w3.org/2002/07/owl#AnnotationProperty" ]
+}, {
+  "@id" : "http://emmo.info/emmo#EMMO_c0afb341_7d31_4883_a307_ae4606df2a1b",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
+  "http://emmo.info/emmo#EMMO_967080e5_2f42_4eb2_a3a9_c58143e835f9" : [ {
+    "@language" : "en",
+    "@value" : "The agent that is participates and drives a manufacturing process."
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#subClassOf" : [ {
+    "@id" : "http://emmo.info/emmo#EMMO_13191289_6c2b_4741_93e1_82d53bd0e703"
+  } ],
+  "http://www.w3.org/2004/02/skos/core#prefLabel" : [ {
+    "@language" : "en",
+    "@value" : "Manufacturer"
+  } ]
+}, {
+  "@id" : "http://emmo.info/emmo#EMMO_c7b62dd7_063a_4c2a_8504_42f7264ba83f",
+  "@type" : [ "http://www.w3.org/2002/07/owl#AnnotationProperty" ]
+}, {
+  "@id" : "http://emmo.info/emmo#EMMO_c84c6752_6d64_48cc_9500_e54a3c34898d",
+  "@type" : [ "http://www.w3.org/2002/07/owl#AnnotationProperty" ]
+}, {
+  "@id" : "http://emmo.info/emmo#EMMO_ceaaf9f7_fd11_424b_8fda_9afa186af186",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
+  "http://emmo.info/emmo#EMMO_967080e5_2f42_4eb2_a3a9_c58143e835f9" : [ {
+    "@language" : "en",
+    "@value" : "An object which is an holistic spatial part of a object."
+  } ],
+  "http://emmo.info/emmo#EMMO_b432d2d5_25f4_4165_99c5_5935a7763c1a" : [ {
+    "@language" : "en",
+    "@value" : "A tire is a constituent of a car."
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#subClassOf" : [ {
+    "@id" : "http://emmo.info/emmo#EMMO_90ae56e4_d197_49b6_be1a_0049e4756606"
+  } ],
+  "http://www.w3.org/2004/02/skos/core#altLabel" : [ {
+    "@language" : "en",
+    "@value" : "ObjectPart"
+  } ],
+  "http://www.w3.org/2004/02/skos/core#prefLabel" : [ {
+    "@language" : "en",
+    "@value" : "Constituent"
+  } ]
+}, {
+  "@id" : "http://emmo.info/emmo#EMMO_d0bcf2ca_cd55_4f34_8fc2_2decc4c6087a",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
+  "http://www.w3.org/2000/01/rdf-schema#subClassOf" : [ {
+    "@id" : "http://emmo.info/emmo#EMMO_9335cf09_431f_4613_9dab_ce4ceaca965b"
+  } ],
+  "http://www.w3.org/2004/02/skos/core#altLabel" : [ {
+    "@language" : "en",
+    "@value" : "StandaloneModelSimulation"
+  } ],
+  "http://www.w3.org/2004/02/skos/core#prefLabel" : [ {
+    "@value" : "SingleAppSimulation"
+  } ]
+}, {
+  "@id" : "http://emmo.info/emmo#EMMO_d1d436e7_72fc_49cd_863b_7bfb4ba5276a",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
+  "http://emmo.info/emmo#EMMO_b432d2d5_25f4_4165_99c5_5935a7763c1a" : [ {
+    "@language" : "en",
+    "@value" : "viscosity in the Navier-Stokes equation"
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#comment" : [ {
+    "@language" : "en",
+    "@value" : "A 'variable' whose value is assumed to be known independently from the equation, but whose value is not explicitated in the equation."
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#subClassOf" : [ {
+    "@id" : "http://emmo.info/emmo#EMMO_1eed0732_e3f1_4b2c_a9c4_b4e75eeb5895"
+  } ],
+  "http://www.w3.org/2004/02/skos/core#prefLabel" : [ {
+    "@language" : "en",
+    "@value" : "Parameter"
+  } ]
+}, {
+  "@id" : "http://emmo.info/emmo#EMMO_d8d2144e_5c8d_455d_a643_5caf4d8d9df8",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
+  "http://www.w3.org/2004/02/skos/core#prefLabel" : [ {
+    "@language" : "en",
+    "@value" : "Language"
+  } ]
+}, {
+  "@id" : "http://emmo.info/emmo#EMMO_df96cbb6_b5ee_4222_8eab_b3675df24bea",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
+  "http://emmo.info/emmo#EMMO_967080e5_2f42_4eb2_a3a9_c58143e835f9" : [ {
+    "@value" : "Matter of constant composition best characterized by the entities (molecules, formula units, atoms) it is composed of."
+  } ],
+  "http://emmo.info/emmo#EMMO_fe015383_afb3_44a6_ae86_043628697aa2" : [ {
+    "@value" : "https://doi.org/10.1351/goldbook.C01039"
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#comment" : [ {
+    "@value" : "A substance is always composed of more than one molecular entity. It lays in the continuum or mesoscopic domain."
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#subClassOf" : [ {
+    "@id" : "http://emmo.info/emmo#EMMO_47338839_6cca_4a8e_b565_3c4d5517e2c0"
+  } ],
+  "http://www.w3.org/2004/02/skos/core#prefLabel" : [ {
+    "@language" : "en",
+    "@value" : "ChemicalSubstance"
+  } ]
+}, {
+  "@id" : "http://emmo.info/emmo#EMMO_e04884d9_eda6_487e_93d5_7722d7eda96b",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
+  "http://www.w3.org/2004/02/skos/core#prefLabel" : [ {
+    "@language" : "en",
+    "@value" : "Persistence"
+  } ]
+}, {
+  "@id" : "http://emmo.info/emmo#EMMO_e2b11f6a_4191_427e_9844_2e0ac88dfc8b",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
+  "http://emmo.info/emmo#EMMO_967080e5_2f42_4eb2_a3a9_c58143e835f9" : [ {
+    "@value" : "A chemical substance composed of many identical molecules (or molecular entities) composed of atoms from more than one element held together by chemical bonds."
+  } ],
+  "http://emmo.info/emmo#EMMO_c84c6752_6d64_48cc_9500_e54a3c34898d" : [ {
+    "@value" : "https://en.wikipedia.org/wiki/Chemical_compound"
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#subClassOf" : [ {
+    "@id" : "http://emmo.info/emmo#EMMO_df96cbb6_b5ee_4222_8eab_b3675df24bea"
+  } ],
+  "http://www.w3.org/2004/02/skos/core#prefLabel" : [ {
+    "@language" : "en",
+    "@value" : "ChemicalCompound"
+  } ]
+}, {
+  "@id" : "http://emmo.info/emmo#EMMO_e9dd942e_db98_4aad_b9c3_931dff6f13b0",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
+  "http://emmo.info/emmo#EMMO_50c298c2_55a2_4068_b3ac_4e948c33181f" : [ {
+    "@value" : "https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=114-01-06"
+  } ],
+  "http://emmo.info/emmo#EMMO_967080e5_2f42_4eb2_a3a9_c58143e835f9" : [ {
+    "@language" : "en",
+    "@value" : "Substance into which another substance is dissolved."
+  } ],
+  "http://emmo.info/emmo#EMMO_c84c6752_6d64_48cc_9500_e54a3c34898d" : [ {
+    "@language" : "en",
+    "@value" : "https://en.wikipedia.org/wiki/Solvent"
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#subClassOf" : [ {
+    "@id" : "http://emmo.info/emmo#EMMO_df96cbb6_b5ee_4222_8eab_b3675df24bea"
+  } ],
+  "http://www.w3.org/2004/02/skos/core#prefLabel" : [ {
+    "@language" : "en",
+    "@value" : "Solvent"
+  } ]
+}, {
+  "@id" : "http://emmo.info/emmo#EMMO_ec2c8ac8_98c5_4c74_b85b_ff8e8ca6655c",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
+  "http://emmo.info/emmo#EMMO_967080e5_2f42_4eb2_a3a9_c58143e835f9" : [ {
+    "@language" : "en",
+    "@value" : "A Miixture is a material made up of two or more different substances which are physically (not chemically) combined."
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#subClassOf" : [ {
+    "@id" : "http://emmo.info/emmo#EMMO_8b0923ab_b500_477b_9ce9_8b3a3e4dc4f2"
+  } ],
+  "http://www.w3.org/2004/02/skos/core#prefLabel" : [ {
+    "@language" : "en",
+    "@value" : "Mixture"
+  } ]
+}, {
+  "@id" : "http://emmo.info/emmo#EMMO_ec502e30_b9ec_4216_90c6_f67d2df75627",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
+  "http://www.w3.org/2000/01/rdf-schema#subClassOf" : [ {
+    "@id" : "http://emmo.info/emmo#EMMO_7d56ec24_499d_487a_af7d_a91aaa787bfe"
+  } ],
+  "http://www.w3.org/2004/02/skos/core#prefLabel" : [ {
+    "@language" : "en",
+    "@value" : "LinkedModelsSimulation"
+  } ]
+}, {
+  "@id" : "http://emmo.info/emmo#EMMO_ec7464a9_d99d_45f8_965b_4e9230ea8356",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
+  "http://www.w3.org/2000/01/rdf-schema#comment" : [ {
+    "@language" : "en",
+    "@value" : "A material that is synthesized within a manufacturing process."
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#subClassOf" : [ {
+    "@id" : "http://w3id.org/MUSICODE/Onto4OLAE/Manufactured"
+  } ],
+  "http://www.w3.org/2004/02/skos/core#prefLabel" : [ {
+    "@language" : "en",
+    "@value" : "ManufacturedMaterial"
+  } ]
+}, {
+  "@id" : "http://emmo.info/emmo#EMMO_eff42cb3_208e_4768_9a39_f8b6b3c3d7a2",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
+  "http://emmo.info/emmo#EMMO_967080e5_2f42_4eb2_a3a9_c58143e835f9" : [ {
+    "@language" : "en",
+    "@value" : "An elaboration that deals with quantitative symbols (i.e. symbols associated with a quantitative oriented language)."
+  } ],
+  "http://emmo.info/emmo#EMMO_b432d2d5_25f4_4165_99c5_5935a7763c1a" : [ {
+    "@language" : "en",
+    "@value" : "A matematician that calculates 2+2.\nA computation machine that calculate the average value of a dataset."
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#subClassOf" : [ {
+    "@id" : "http://emmo.info/emmo#EMMO_472a0ca2_58bf_4618_b561_6fe68bd9fd49"
+  } ],
+  "http://www.w3.org/2004/02/skos/core#prefLabel" : [ {
+    "@language" : "en",
+    "@value" : "Computation"
+  } ]
+}, {
+  "@id" : "http://emmo.info/emmo#EMMO_f13672a3_59cc_40ed_8def_65009a8f74e6",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
+  "http://www.w3.org/2000/01/rdf-schema#subClassOf" : [ {
+    "@id" : "http://emmo.info/emmo#EMMO_5b2222df_4da6_442f_8244_96e9e45887d1"
+  } ],
+  "http://www.w3.org/2004/02/skos/core#prefLabel" : [ {
+    "@language" : "en",
+    "@value" : "AntiMatter"
+  } ]
+}, {
+  "@id" : "http://emmo.info/emmo#EMMO_f76884f7_964e_488e_9bb7_1b2453e9e817",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
+  "http://emmo.info/emmo#EMMO_967080e5_2f42_4eb2_a3a9_c58143e835f9" : [ {
+    "@language" : "en",
+    "@value" : "A constituent of a system."
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#subClassOf" : [ {
+    "@id" : "http://emmo.info/emmo#EMMO_ceaaf9f7_fd11_424b_8fda_9afa186af186"
+  } ],
+  "http://www.w3.org/2004/02/skos/core#prefLabel" : [ {
+    "@language" : "en",
+    "@value" : "Component"
+  } ]
+}, {
+  "@id" : "http://emmo.info/emmo#EMMO_f7dbce66_2822_4855_9f42_1da71aa9e923",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
+  "http://emmo.info/emmo#EMMO_967080e5_2f42_4eb2_a3a9_c58143e835f9" : [ {
+    "@language" : "en",
+    "@value" : "The process that makes a product work as intended when in use."
+  } ],
+  "http://emmo.info/emmo#EMMO_b432d2d5_25f4_4165_99c5_5935a7763c1a" : [ {
+    "@language" : "en",
+    "@value" : "- The light-emitting process of a diode.\n- The car crash process for a crash box in a car.\n- The discharging process of a battery."
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#subClassOf" : [ {
+    "@id" : "http://emmo.info/emmo#EMMO_bafc17b5_9be4_4823_8bbe_ab4e90b6738c"
+  } ],
+  "http://www.w3.org/2004/02/skos/core#prefLabel" : [ {
+    "@language" : "en",
+    "@value" : "FunctionalProcess"
+  } ]
+}, {
+  "@id" : "http://emmo.info/emmo#EMMO_fbcc3aad_c58a_4185_bcc9_859db779b226",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
+  "http://www.w3.org/2000/01/rdf-schema#subClassOf" : [ {
+    "@id" : "http://emmo.info/emmo#EMMO_02c4890b_aef3_4173_9669_94d1f6baf611"
+  } ],
+  "http://www.w3.org/2004/02/skos/core#prefLabel" : [ {
+    "@language" : "en",
+    "@value" : "TightlyCoupledModelsSimulation"
+  } ]
+}, {
+  "@id" : "http://emmo.info/emmo#EMMO_fe015383_afb3_44a6_ae86_043628697aa2",
+  "@type" : [ "http://www.w3.org/2002/07/owl#AnnotationProperty" ]
+}, {
+  "@id" : "http://emmo.info/emmo#EMMO_fe7e56ce_118b_4243_9aad_20eb9f4f31f6",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
+  "http://emmo.info/emmo#EMMO_967080e5_2f42_4eb2_a3a9_c58143e835f9" : [ {
+    "@language" : "en",
+    "@value" : "The dependent variable for which an equation has been written."
+  } ],
+  "http://emmo.info/emmo#EMMO_b432d2d5_25f4_4165_99c5_5935a7763c1a" : [ {
+    "@language" : "en",
+    "@value" : "Velocity, for the Navier-Stokes equation."
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#subClassOf" : [ {
+    "@id" : "http://emmo.info/emmo#EMMO_1eed0732_e3f1_4b2c_a9c4_b4e75eeb5895"
+  } ],
+  "http://www.w3.org/2004/02/skos/core#prefLabel" : [ {
+    "@language" : "en",
+    "@value" : "Unknown"
+  } ]
+}, {
+  "@id" : "http://purl.obolibrary.org/obo/BFO_0000017",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
+  "http://www.w3.org/2004/02/skos/core#definition" : [ {
+    "@value" : "To say that b is a realizable entity is to say that b is a specifically dependent continuant that inheres in some independent continuant which is not a spatial region and is of a type instances of which are realized in processes of a correlated type. (axiom label in BFO2 Reference: [058-002])"
+  } ],
+  "http://www.w3.org/2004/02/skos/core#editorialNote" : [ {
+    "@language" : "en",
+    "@value" : "changed by m4i: added german labels, added skos:prefLabel"
+  } ],
+  "http://www.w3.org/2004/02/skos/core#prefLabel" : [ {
+    "@language" : "de",
+    "@value" : "realisierbare Entität"
+  }, {
+    "@language" : "en",
+    "@value" : "realizable entity"
+  } ]
+}, {
+  "@id" : "http://purl.org/dc/elements/1.1/identifier",
+  "@type" : [ "http://www.w3.org/2002/07/owl#AnnotationProperty" ]
+}, {
+  "@id" : "http://purl.org/dc/terms/description",
+  "@type" : [ "http://www.w3.org/2002/07/owl#AnnotationProperty" ]
+}, {
+  "@id" : "http://purl.org/dc/terms/source",
+  "@type" : [ "http://www.w3.org/2002/07/owl#AnnotationProperty" ]
+}, {
+  "@id" : "http://schema.org/comment",
+  "@type" : [ "http://www.w3.org/2002/07/owl#AnnotationProperty" ]
+}, {
+  "@id" : "http://semanticscience.org/resource/SIO_000015",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
+  "http://www.w3.org/2004/02/skos/core#prefLabel" : [ {
+    "@value" : "informationContentEntity"
+  } ]
+}, {
+  "@id" : "http://semanticscience.org/resource/SIO_000031",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
+  "http://purl.org/dc/elements/1.1/identifier" : [ {
+    "@value" : "SIO_000031"
+  } ],
+  "http://purl.org/dc/terms/description" : [ {
+    "@language" : "en",
+    "@value" : "A start date is a time instant pertaining to the date of the beginning of a process."
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#isDefinedBy" : [ {
+    "@id" : "http://semanticscience.org/ontology/sio.owl"
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#subClassOf" : [ {
+    "@id" : "http://semanticscience.org/resource/SIO_000418"
+  } ],
+  "http://www.w3.org/2004/02/skos/core#prefLabel" : [ {
+    "@language" : "en",
+    "@value" : "startDate"
+  } ]
+}, {
+  "@id" : "http://semanticscience.org/resource/SIO_000032",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
+  "http://purl.org/dc/elements/1.1/identifier" : [ {
+    "@value" : "SIO_000032"
+  } ],
+  "http://purl.org/dc/terms/description" : [ {
+    "@language" : "en",
+    "@value" : "An end date is a time instant pertaining to date of the end of a process."
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#isDefinedBy" : [ {
+    "@id" : "http://semanticscience.org/ontology/sio.owl"
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#subClassOf" : [ {
+    "@id" : "http://semanticscience.org/resource/SIO_000418"
+  } ],
+  "http://www.w3.org/2004/02/skos/core#prefLabel" : [ {
+    "@language" : "en",
+    "@value" : "endDate"
+  } ]
+}, {
+  "@id" : "http://semanticscience.org/resource/SIO_000052",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
+  "http://www.w3.org/2004/02/skos/core#prefLabel" : [ {
+    "@value" : "Quantity"
+  } ]
+}, {
+  "@id" : "http://semanticscience.org/resource/SIO_000078",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
+  "http://purl.org/dc/elements/1.1/identifier" : [ {
+    "@value" : "SIO_000078"
+  } ],
+  "http://purl.org/dc/terms/description" : [ {
+    "@language" : "en",
+    "@value" : "A language entity implements some language specification for the visual interpretation and is part of some document."
+  } ],
+  "http://semanticscience.org/resource/subset" : [ {
+    "@value" : "nlp+"
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#isDefinedBy" : [ {
+    "@id" : "http://semanticscience.org/ontology/sio.owl"
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#subClassOf" : [ {
+    "@id" : "http://semanticscience.org/resource/SIO_000015"
+  }, {
+    "@id" : "_:genid17"
+  } ],
+  "http://www.w3.org/2004/02/skos/core#prefLabel" : [ {
+    "@language" : "en",
+    "@value" : "languageEntity"
+  } ]
+}, {
+  "@id" : "http://semanticscience.org/resource/SIO_000087",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
+  "http://purl.org/dc/elements/1.1/identifier" : [ {
+    "@value" : "SIO_000087"
+  } ],
+  "http://purl.org/dc/terms/description" : [ {
+    "@language" : "en",
+    "@value" : "A publication is a document that has been made available by a publisher."
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#isDefinedBy" : [ {
+    "@id" : "http://semanticscience.org/ontology/sio.owl"
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#subClassOf" : [ {
+    "@id" : "http://semanticscience.org/resource/SIO_000148"
+  } ],
+  "http://www.w3.org/2004/02/skos/core#prefLabel" : [ {
+    "@language" : "en",
+    "@value" : "publication"
+  } ]
+}, {
+  "@id" : "http://semanticscience.org/resource/SIO_000116",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
+  "http://purl.org/dc/elements/1.1/identifier" : [ {
+    "@value" : "SIO_000116"
+  } ],
+  "http://purl.org/dc/terms/description" : [ {
+    "@language" : "en",
+    "@value" : "A name is a label used to identify an entity."
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#isDefinedBy" : [ {
+    "@id" : "http://semanticscience.org/ontology/sio.owl"
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#subClassOf" : [ {
+    "@id" : "http://semanticscience.org/resource/SIO_000179"
+  }, {
+    "@id" : "_:genid18"
+  } ],
+  "http://www.w3.org/2004/02/skos/core#prefLabel" : [ {
+    "@language" : "en",
+    "@value" : "name"
+  } ]
+}, {
+  "@id" : "http://semanticscience.org/resource/SIO_000136",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
+  "http://purl.org/dc/elements/1.1/identifier" : [ {
+    "@value" : "SIO_000136"
+  } ],
+  "http://purl.org/dc/terms/description" : [ {
+    "@language" : "en",
+    "@value" : "A description is language entity in which elements of a language (formal or natural) are used to characterize an entity."
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#isDefinedBy" : [ {
+    "@id" : "http://semanticscience.org/ontology/sio.owl"
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#subClassOf" : [ {
+    "@id" : "http://semanticscience.org/resource/SIO_000078"
+  } ],
+  "http://www.w3.org/2004/02/skos/core#prefLabel" : [ {
+    "@language" : "en",
+    "@value" : "description"
+  } ]
+}, {
+  "@id" : "http://semanticscience.org/resource/SIO_000148",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
+  "http://purl.org/dc/elements/1.1/identifier" : [ {
+    "@value" : "SIO_000148"
+  } ],
+  "http://purl.org/dc/terms/description" : [ {
+    "@language" : "en",
+    "@value" : "A document is a bounded physical or digital representation of a body of information designed with the capacity (and usually intent) to communicate."
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#isDefinedBy" : [ {
+    "@id" : "http://semanticscience.org/ontology/sio.owl"
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#subClassOf" : [ {
+    "@id" : "http://semanticscience.org/resource/SIO_000651"
+  } ],
+  "http://www.w3.org/2004/02/skos/core#prefLabel" : [ {
+    "@language" : "en",
+    "@value" : "document"
+  } ]
+}, {
+  "@id" : "http://semanticscience.org/resource/SIO_000179",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
+  "http://purl.org/dc/elements/1.1/identifier" : [ {
+    "@value" : "SIO_000179"
+  } ],
+  "http://purl.org/dc/terms/description" : [ {
+    "@language" : "en",
+    "@value" : "a label is a term that is associated with some entity"
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#isDefinedBy" : [ {
+    "@id" : "http://semanticscience.org/ontology/sio.owl"
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#subClassOf" : [ {
+    "@id" : "http://semanticscience.org/resource/SIO_000275"
+  } ],
+  "http://www.w3.org/2004/02/skos/core#prefLabel" : [ {
+    "@language" : "en",
+    "@value" : "label"
+  } ]
+}, {
+  "@id" : "http://semanticscience.org/resource/SIO_000258",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
+  "http://purl.org/dc/elements/1.1/identifier" : [ {
+    "@value" : "SIO_000258"
+  } ],
+  "http://purl.org/dc/terms/description" : [ {
+    "@language" : "en",
+    "@value" : "A dimensional quantity is a quantity that has an associated unit."
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#isDefinedBy" : [ {
+    "@id" : "http://semanticscience.org/ontology/sio.owl"
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#subClassOf" : [ {
+    "@id" : "http://semanticscience.org/resource/SIO_000052"
+  } ],
+  "http://www.w3.org/2004/02/skos/core#prefLabel" : [ {
+    "@language" : "en",
+    "@value" : "dimensional quantity"
+  } ]
+}, {
+  "@id" : "http://semanticscience.org/resource/SIO_000275",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
+  "http://purl.org/dc/elements/1.1/identifier" : [ {
+    "@value" : "SIO_000275"
+  } ],
+  "http://purl.org/dc/terms/description" : [ {
+    "@language" : "en",
+    "@value" : "A term is a word or phrase used to denote one or more entities."
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#isDefinedBy" : [ {
+    "@id" : "http://semanticscience.org/ontology/sio.owl"
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#subClassOf" : [ {
+    "@id" : "http://semanticscience.org/resource/SIO_000078"
+  } ],
+  "http://www.w3.org/2004/02/skos/core#prefLabel" : [ {
+    "@language" : "en",
+    "@value" : "term"
+  } ]
+}, {
+  "@id" : "http://semanticscience.org/resource/SIO_000300",
+  "@type" : [ "http://www.w3.org/2002/07/owl#DatatypeProperty" ]
+}, {
+  "@id" : "http://semanticscience.org/resource/SIO_000391",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
+  "http://purl.org/dc/elements/1.1/identifier" : [ {
+    "@value" : "SIO_000391"
+  } ],
+  "http://purl.org/dc/terms/description" : [ {
+    "@language" : "en",
+    "@value" : "time measurement is a measurement value of the duration of some interval of time or a particular instant of time (against some frame of reference)."
+  } ],
+  "http://schema.org/comment" : [ {
+    "@value" : "Time intervals are specified as date/datetime ranges."
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#isDefinedBy" : [ {
+    "@id" : "http://semanticscience.org/ontology/sio.owl"
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#subClassOf" : [ {
+    "@id" : "http://semanticscience.org/resource/SIO_000258"
+  } ],
+  "http://www.w3.org/2004/02/skos/core#example" : [ {
+    "@language" : "en",
+    "@value" : "the duration of my life; the duration of a surgical procedure, the moment of death"
+  } ],
+  "http://www.w3.org/2004/02/skos/core#prefLabel" : [ {
+    "@language" : "en",
+    "@value" : "time measurement"
+  } ]
+}, {
+  "@id" : "http://semanticscience.org/resource/SIO_000417",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
+  "http://purl.org/dc/elements/1.1/identifier" : [ {
+    "@value" : "SIO_000417"
+  } ],
+  "http://purl.org/dc/terms/description" : [ {
+    "@language" : "en",
+    "@value" : "A time internval is a contiguous temporal region having some duration."
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#isDefinedBy" : [ {
+    "@id" : "http://semanticscience.org/ontology/sio.owl"
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#subClassOf" : [ {
+    "@id" : "http://semanticscience.org/resource/SIO_000391"
+  } ],
+  "http://www.w3.org/2004/02/skos/core#prefLabel" : [ {
+    "@language" : "en",
+    "@value" : "timeInterval"
+  } ]
+}, {
+  "@id" : "http://semanticscience.org/resource/SIO_000418",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
+  "http://purl.org/dc/elements/1.1/identifier" : [ {
+    "@value" : "SIO_000418"
+  } ],
+  "http://purl.org/dc/terms/description" : [ {
+    "@language" : "en",
+    "@value" : "A time instant is a temporal region which occurs instantaneously, e.g. having no duration."
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#isDefinedBy" : [ {
+    "@id" : "http://semanticscience.org/ontology/sio.owl"
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#subClassOf" : [ {
+    "@id" : "http://semanticscience.org/resource/SIO_000391"
+  } ],
+  "http://www.w3.org/2004/02/skos/core#example" : [ {
+    "@language" : "en",
+    "@value" : "at this moment; the moment at which a finger is detached in an industrial accident; the moment at which a child is born; the moment of death"
+  } ],
+  "http://www.w3.org/2004/02/skos/core#prefLabel" : [ {
+    "@language" : "en",
+    "@value" : "timeInstant"
+  } ]
+}, {
+  "@id" : "http://semanticscience.org/resource/SIO_000428",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
+  "http://purl.org/dc/elements/1.1/identifier" : [ {
+    "@value" : "SIO_000428"
+  } ],
+  "http://purl.org/dc/terms/description" : [ {
+    "@language" : "en",
+    "@value" : "A year is a period of time taken by a planet to make one revolution around the sun."
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#isDefinedBy" : [ {
+    "@id" : "http://semanticscience.org/ontology/sio.owl"
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#subClassOf" : [ {
+    "@id" : "http://semanticscience.org/resource/SIO_000417"
+  } ],
+  "http://www.w3.org/2004/02/skos/core#prefLabel" : [ {
+    "@language" : "en",
+    "@value" : "year"
+  } ]
+}, {
+  "@id" : "http://semanticscience.org/resource/SIO_000429",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
+  "http://purl.org/dc/elements/1.1/identifier" : [ {
+    "@value" : "SIO_000429"
+  } ],
+  "http://purl.org/dc/terms/description" : [ {
+    "@language" : "en",
+    "@value" : "A month is a period of time that divides the year."
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#isDefinedBy" : [ {
+    "@id" : "http://semanticscience.org/ontology/sio.owl"
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#subClassOf" : [ {
+    "@id" : "http://semanticscience.org/resource/SIO_000417"
+  } ],
+  "http://www.w3.org/2004/02/skos/core#prefLabel" : [ {
+    "@language" : "en",
+    "@value" : "month"
+  } ]
+}, {
+  "@id" : "http://semanticscience.org/resource/SIO_000430",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
+  "http://purl.org/dc/elements/1.1/identifier" : [ {
+    "@value" : "SIO_000430"
+  } ],
+  "http://purl.org/dc/terms/description" : [ {
+    "@language" : "en",
+    "@value" : "A day is a period of 24 hours."
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#isDefinedBy" : [ {
+    "@id" : "http://semanticscience.org/ontology/sio.owl"
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#subClassOf" : [ {
+    "@id" : "http://semanticscience.org/resource/SIO_000417"
+  } ],
+  "http://www.w3.org/2004/02/skos/core#prefLabel" : [ {
+    "@language" : "en",
+    "@value" : "day"
+  } ]
+}, {
+  "@id" : "http://semanticscience.org/resource/SIO_000431",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
+  "http://purl.org/dc/elements/1.1/identifier" : [ {
+    "@value" : "SIO_000431"
+  } ],
+  "http://purl.org/dc/terms/description" : [ {
+    "@language" : "en",
+    "@value" : "A century is a period of one hundred years."
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#isDefinedBy" : [ {
+    "@id" : "http://semanticscience.org/ontology/sio.owl"
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#subClassOf" : [ {
+    "@id" : "http://semanticscience.org/resource/SIO_000417"
+  } ],
+  "http://www.w3.org/2004/02/skos/core#prefLabel" : [ {
+    "@language" : "en",
+    "@value" : "century"
+  } ]
+}, {
+  "@id" : "http://semanticscience.org/resource/SIO_000432",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
+  "http://purl.org/dc/elements/1.1/identifier" : [ {
+    "@value" : "SIO_000432"
+  } ],
+  "http://purl.org/dc/terms/description" : [ {
+    "@language" : "en",
+    "@value" : "A millenium is a period of 1000 years"
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#isDefinedBy" : [ {
+    "@id" : "http://semanticscience.org/ontology/sio.owl"
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#subClassOf" : [ {
+    "@id" : "http://semanticscience.org/resource/SIO_000417"
+  } ],
+  "http://www.w3.org/2004/02/skos/core#prefLabel" : [ {
+    "@language" : "en",
+    "@value" : "millennium"
+  } ]
+}, {
+  "@id" : "http://semanticscience.org/resource/SIO_000433",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
+  "http://purl.org/dc/elements/1.1/identifier" : [ {
+    "@value" : "SIO_000433"
+  } ],
+  "http://purl.org/dc/terms/description" : [ {
+    "@language" : "en",
+    "@value" : "An hour is a period of 60 minutes."
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#isDefinedBy" : [ {
+    "@id" : "http://semanticscience.org/ontology/sio.owl"
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#subClassOf" : [ {
+    "@id" : "http://semanticscience.org/resource/SIO_000417"
+  } ],
+  "http://www.w3.org/2004/02/skos/core#prefLabel" : [ {
+    "@language" : "en",
+    "@value" : "hour"
+  } ]
+}, {
+  "@id" : "http://semanticscience.org/resource/SIO_000434",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
+  "http://purl.org/dc/elements/1.1/identifier" : [ {
+    "@value" : "SIO_000434"
+  } ],
+  "http://purl.org/dc/terms/description" : [ {
+    "@language" : "en",
+    "@value" : "A minute is a period of 60 seconds."
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#isDefinedBy" : [ {
+    "@id" : "http://semanticscience.org/ontology/sio.owl"
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#subClassOf" : [ {
+    "@id" : "http://semanticscience.org/resource/SIO_000417"
+  } ],
+  "http://www.w3.org/2004/02/skos/core#prefLabel" : [ {
+    "@language" : "en",
+    "@value" : "minute"
+  } ]
+}, {
+  "@id" : "http://semanticscience.org/resource/SIO_000435",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
+  "http://purl.org/dc/elements/1.1/identifier" : [ {
+    "@value" : "SIO_000435"
+  } ],
+  "http://purl.org/dc/terms/description" : [ {
+    "@language" : "en",
+    "@value" : "A second (symbol: s) is the base unit of time in the International System of Units (SI) and is the second division of the hour by sixty, the first division by 60 being the minute."
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#isDefinedBy" : [ {
+    "@id" : "http://semanticscience.org/ontology/sio.owl"
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#subClassOf" : [ {
+    "@id" : "http://semanticscience.org/resource/SIO_000417"
+  } ],
+  "http://www.w3.org/2004/02/skos/core#prefLabel" : [ {
+    "@language" : "en",
+    "@value" : "second"
+  } ]
+}, {
+  "@id" : "http://semanticscience.org/resource/SIO_000651",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
+  "http://purl.org/dc/elements/1.1/identifier" : [ {
+    "@value" : "SIO_000651"
+  } ],
+  "http://purl.org/dc/terms/description" : [ {
+    "@language" : "en",
+    "@value" : "A textual entity is language entity that is manifested as a sequence of one or more distinct characters."
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#isDefinedBy" : [ {
+    "@id" : "http://semanticscience.org/ontology/sio.owl"
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#subClassOf" : [ {
+    "@id" : "http://semanticscience.org/resource/SIO_000078"
+  } ],
+  "http://www.w3.org/2004/02/skos/core#prefLabel" : [ {
+    "@language" : "en",
+    "@value" : "textualEntity"
+  } ]
+}, {
+  "@id" : "http://semanticscience.org/resource/SIO_000669",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
+  "http://purl.org/dc/elements/1.1/identifier" : [ {
+    "@value" : "SIO_000669"
+  } ],
+  "http://purl.org/dc/terms/description" : [ {
+    "@language" : "en",
+    "@value" : "A start time is a time instant pertaining to the time at which a process begins."
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#isDefinedBy" : [ {
+    "@id" : "http://semanticscience.org/ontology/sio.owl"
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#subClassOf" : [ {
+    "@id" : "http://semanticscience.org/resource/SIO_000418"
+  } ],
+  "http://www.w3.org/2004/02/skos/core#prefLabel" : [ {
+    "@language" : "en",
+    "@value" : "startTime"
+  } ]
+}, {
+  "@id" : "http://semanticscience.org/resource/SIO_000670",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
+  "http://purl.org/dc/elements/1.1/identifier" : [ {
+    "@value" : "SIO_000670"
+  } ],
+  "http://purl.org/dc/terms/description" : [ {
+    "@language" : "en",
+    "@value" : "An end time is a time instant pertaining to the time at which a process ends."
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#isDefinedBy" : [ {
+    "@id" : "http://semanticscience.org/ontology/sio.owl"
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#subClassOf" : [ {
+    "@id" : "http://semanticscience.org/resource/SIO_000418"
+  } ],
+  "http://www.w3.org/2004/02/skos/core#prefLabel" : [ {
+    "@language" : "en",
+    "@value" : "endTime"
+  } ]
+}, {
+  "@id" : "http://semanticscience.org/resource/SIO_001083",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
+  "http://purl.org/dc/elements/1.1/identifier" : [ {
+    "@value" : "SIO_001083"
+  } ],
+  "http://purl.org/dc/terms/description" : [ {
+    "@language" : "en",
+    "@value" : "A date of database submission refers to the moment in time in which some information was submitted/received to a database system."
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#isDefinedBy" : [ {
+    "@id" : "http://semanticscience.org/ontology/sio.owl"
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#subClassOf" : [ {
+    "@id" : "http://semanticscience.org/resource/SIO_000418"
+  } ],
+  "http://www.w3.org/2004/02/skos/core#prefLabel" : [ {
+    "@language" : "en",
+    "@value" : "dateOfDatabaseSubmission"
+  } ]
+}, {
+  "@id" : "http://semanticscience.org/resource/SIO_001314",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
+  "http://purl.org/dc/elements/1.1/identifier" : [ {
+    "@value" : "SIO_001314"
+  } ],
+  "http://purl.org/dc/terms/description" : [ {
+    "@value" : "the date at which an information content entity was made public."
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#isDefinedBy" : [ {
+    "@id" : "http://semanticscience.org/ontology/sio.owl"
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#subClassOf" : [ {
+    "@id" : "http://semanticscience.org/resource/SIO_000418"
+  } ],
+  "http://www.w3.org/2004/02/skos/core#prefLabel" : [ {
+    "@language" : "en",
+    "@value" : "dateOfIssue"
+  } ]
+}, {
+  "@id" : "http://semanticscience.org/resource/SIO_001354",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
+  "http://purl.org/dc/elements/1.1/identifier" : [ {
+    "@value" : "SIO_001354"
+  } ],
+  "http://purl.org/dc/terms/description" : [ {
+    "@language" : "en",
+    "@value" : "A week is a period of 7 consecutive days."
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#isDefinedBy" : [ {
+    "@id" : "http://semanticscience.org/ontology/sio.owl"
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#subClassOf" : [ {
+    "@id" : "http://semanticscience.org/resource/SIO_000417"
+  } ],
+  "http://www.w3.org/2004/02/skos/core#prefLabel" : [ {
+    "@language" : "en",
+    "@value" : "week"
+  } ]
+}, {
+  "@id" : "http://semanticscience.org/resource/subset",
+  "@type" : [ "http://www.w3.org/2002/07/owl#AnnotationProperty" ]
+}, {
+  "@id" : "http://w3id.org/MUSICODE/Onto4OLAE/Atoms",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
+  "http://www.w3.org/2000/01/rdf-schema#subClassOf" : [ {
+    "@id" : "http://w3id.org/MUSICODE/Onto4OLAE/ModelEntity"
+  } ]
+}, {
+  "@id" : "http://w3id.org/MUSICODE/Onto4OLAE/Beads",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
+  "http://www.w3.org/2000/01/rdf-schema#subClassOf" : [ {
+    "@id" : "http://w3id.org/MUSICODE/Onto4OLAE/ModelEntity"
+  } ]
+}, {
+  "@id" : "http://w3id.org/MUSICODE/Onto4OLAE/Device",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
+  "http://www.w3.org/2000/01/rdf-schema#subClassOf" : [ {
+    "@id" : "http://w3id.org/MUSICODE/Onto4OLAE/Manufactured"
+  } ],
+  "http://www.w3.org/2004/02/skos/core#prefLabel" : [ {
+    "@language" : "en",
+    "@value" : "Device"
+  } ]
+}, {
+  "@id" : "http://w3id.org/MUSICODE/Onto4OLAE/Electrons",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
+  "http://www.w3.org/2000/01/rdf-schema#subClassOf" : [ {
+    "@id" : "http://w3id.org/MUSICODE/Onto4OLAE/ModelEntity"
+  } ]
+}, {
+  "@id" : "http://w3id.org/MUSICODE/Onto4OLAE/ExperimentalMaterialCharacterization",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
+  "http://www.w3.org/2000/01/rdf-schema#subClassOf" : [ {
+    "@id" : "http://emmo.info/emmo#EMMO_463bcfda_867b_41d9_a967_211d4d437cfb"
+  } ],
+  "http://www.w3.org/2004/02/skos/core#definition" : [ {
+    "@language" : "en",
+    "@value" : "The determination of the material properties through tests conducted on suitably designed specimens."
+  } ],
+  "http://www.w3.org/2004/02/skos/core#prefLabel" : [ {
+    "@language" : "en",
+    "@value" : "ExperimentalMaterialCharacterization"
+  } ]
+}, {
+  "@id" : "http://w3id.org/MUSICODE/Onto4OLAE/Fabrication",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
+  "http://www.w3.org/2000/01/rdf-schema#comment" : [ {
+    "@language" : "en",
+    "@value" : "Fabrication processes may include cutting, bending, welding, machining, or other techniques to shape and construct the desired end product.\nAs fabrication may only focus on constructing or shaping individual components, manugacturing on the other hand encompasses the entire production process."
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#subClassOf" : [ {
+    "@id" : "http://emmo.info/emmo#EMMO_8786cb47_8e1f_4968_9b15_f6d41fc51252"
+  } ],
+  "http://www.w3.org/2004/02/skos/core#definition" : [ {
+    "@language" : "en",
+    "@value" : "A fabrication process involves shaping, assembling, or modifying materials to create a product. Working with raw materials or starting components and transforming them into finished products is commonly involved in this process."
+  } ],
+  "http://www.w3.org/2004/02/skos/core#prefLabel" : [ {
+    "@language" : "en",
+    "@value" : "Fabrication"
+  } ]
+}, {
+  "@id" : "http://w3id.org/MUSICODE/Onto4OLAE/FiniteVolume",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
+  "http://www.w3.org/2000/01/rdf-schema#subClassOf" : [ {
+    "@id" : "http://w3id.org/MUSICODE/Onto4OLAE/ModelEntity"
+  } ]
+}, {
+  "@id" : "http://w3id.org/MUSICODE/Onto4OLAE/Fullerene",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
+  "http://www.w3.org/2000/01/rdf-schema#comment" : [ {
+    "@language" : "en",
+    "@value" : "C60 is one of the most well-known and studied fullerenes, which contains 60 carbon atoms arranged in a sphere with pentagonal and hexagonal faces."
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#subClassOf" : [ {
+    "@id" : "http://emmo.info/emmo#EMMO_704630b8_fee3_49b9_baca_40e2dd276370"
+  } ],
+  "http://www.w3.org/2004/02/skos/core#definition" : [ {
+    "@language" : "en",
+    "@value" : "Fullerenes are a class of carbon-based molecules containing hollow cage-like structures formed by carbon atoms."
+  } ],
+  "http://www.w3.org/2004/02/skos/core#prefLabel" : [ {
+    "@language" : "en",
+    "@value" : "Fullerene"
+  } ]
+}, {
+  "@id" : "http://w3id.org/MUSICODE/Onto4OLAE/InferredMeasurementResult",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
+  "http://www.w3.org/2000/01/rdf-schema#subClassOf" : [ {
+    "@id" : "http://www.semanticweb.org/hafiznoman/ontologies/2023/6/untitled-ontology-36/SimulationMeasurementResult"
+  } ],
+  "http://www.w3.org/2004/02/skos/core#definition" : [ {
+    "@language" : "en",
+    "@value" : "Inferred measurement results are those that are derived or indirectly obtained from other measured quantities or data.\nThe inferred measurement result is estimated or calculated based on correlations, models, or relationships between measured variables rather than directly measuring the desired parameter or property."
+  } ],
+  "http://www.w3.org/2004/02/skos/core#prefLabel" : [ {
+    "@language" : "en",
+    "@value" : "InferredMeasurementResult"
+  } ]
+}, {
+  "@id" : "http://w3id.org/MUSICODE/Onto4OLAE/InputForSimulation",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
+  "http://www.w3.org/2000/01/rdf-schema#subClassOf" : [ {
+    "@id" : "http://w3id.org/MUSICODE/Onto4OLAE/IntentionalProcessInput"
+  } ],
+  "http://www.w3.org/2004/02/skos/core#definition" : [ {
+    "@language" : "en",
+    "@value" : "Input for simulation refers to the parameters, data or variables that are provided to the simulation model to depict the conditions, characteristics, or behaviors of the system being simulated."
+  } ],
+  "http://www.w3.org/2004/02/skos/core#prefLabel" : [ {
+    "@language" : "en",
+    "@value" : "InputForSimulation"
+  } ]
+}, {
+  "@id" : "http://w3id.org/MUSICODE/Onto4OLAE/IntentionalProcessInput",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
+  "http://www.w3.org/2000/01/rdf-schema#comment" : [ {
+    "@language" : "en",
+    "@value" : "Raw materials, energy, labor, tools, data, and other elements that are required for the process to start and move closer to its goal are all examples of inputs."
+  } ],
+  "http://www.w3.org/2004/02/skos/core#definition" : [ {
+    "@language" : "en",
+    "@value" : "The resources, materials, or information needed to start or complete a process are referred to as inputs in the context of a process."
+  } ],
+  "http://www.w3.org/2004/02/skos/core#prefLabel" : [ {
+    "@language" : "en",
+    "@value" : "IntentionalProcessInput"
+  } ]
+}, {
+  "@id" : "http://w3id.org/MUSICODE/Onto4OLAE/LooselyCoupledModelsSimulation",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
+  "http://www.w3.org/2000/01/rdf-schema#subClassOf" : [ {
+    "@id" : "http://emmo.info/emmo#EMMO_02c4890b_aef3_4173_9669_94d1f6baf611"
+  } ]
+}, {
+  "@id" : "http://w3id.org/MUSICODE/Onto4OLAE/Manufactured",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
+  "http://www.w3.org/2000/01/rdf-schema#subClassOf" : [ {
+    "@id" : "http://emmo.info/emmo#EMMO_90ae56e4_d197_49b6_be1a_0049e4756606"
+  } ]
+}, {
+  "@id" : "http://w3id.org/MUSICODE/Onto4OLAE/MetalOrganic",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
+  "http://www.w3.org/2000/01/rdf-schema#comment" : [ {
+    "@language" : "en",
+    "@value" : "In addition to having a porous crystalline structure, these compounds possess diverse chemical properties such as a high surface area and tunable porosity."
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#subClassOf" : [ {
+    "@id" : "http://emmo.info/emmo#EMMO_704630b8_fee3_49b9_baca_40e2dd276370"
+  } ],
+  "http://www.w3.org/2004/02/skos/core#definition" : [ {
+    "@language" : "en",
+    "@value" : "Metal-organic compounds, also known as metal-organic frameworks (MOFs), are hybrid materials consisting of metal ions or clusters coordinated with organic ligands."
+  } ],
+  "http://www.w3.org/2004/02/skos/core#prefLabel" : [ {
+    "@language" : "en",
+    "@value" : "Metal Organic"
+  } ]
+}, {
+  "@id" : "http://w3id.org/MUSICODE/Onto4OLAE/ModelEntity",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
+  "http://www.w3.org/2000/01/rdf-schema#subClassOf" : [ {
+    "@id" : "http://emmo.info/emmo#EMMO_ec502e30_b9ec_4216_90c6_f67d2df75627"
+  } ]
+}, {
+  "@id" : "http://w3id.org/MUSICODE/Onto4OLAE/Non-Fullerene",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
+  "http://www.w3.org/2000/01/rdf-schema#comment" : [ {
+    "@language" : "en",
+    "@value" : "Non-fullerene acceptors (NFAs) are distinguished by their molecular structure, characterized by fused aromatic units attached to electron-accepting groups."
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#subClassOf" : [ {
+    "@id" : "http://emmo.info/emmo#EMMO_704630b8_fee3_49b9_baca_40e2dd276370"
+  } ],
+  "http://www.w3.org/2004/02/skos/core#definition" : [ {
+    "@language" : "en",
+    "@value" : "A non-fullerene is a type of material that is used as an acceptor in combination with a polymer donor material in organic photovoltaics (OPVs)."
+  } ],
+  "http://www.w3.org/2004/02/skos/core#prefLabel" : [ {
+    "@language" : "en",
+    "@value" : "Non-Fullerene"
+  } ]
+}, {
+  "@id" : "http://w3id.org/MUSICODE/Onto4OLAE/Output",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
+  "http://www.w3.org/2000/01/rdf-schema#comment" : [ {
+    "@value" : "An outcome of a process"
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#subClassOf" : [ {
+    "@id" : "http://www.w3.org/2002/07/owl#Thing"
+  } ]
+}, {
+  "@id" : "http://w3id.org/MUSICODE/Onto4OLAE/Polymer",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
+  "http://www.w3.org/2000/01/rdf-schema#comment" : [ {
+    "@language" : "en",
+    "@value" : "Polymers can be made up of thousands or even millions of repeating units"
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#subClassOf" : [ {
+    "@id" : "http://emmo.info/emmo#EMMO_704630b8_fee3_49b9_baca_40e2dd276370"
+  } ],
+  "http://www.w3.org/2004/02/skos/core#definition" : [ {
+    "@language" : "en",
+    "@value" : "Polymers are large molecules made up of repeating subunits called monomers. A long chain or network is formed when monomers chemically bond together through a process called polymerization."
+  } ],
+  "http://www.w3.org/2004/02/skos/core#prefLabel" : [ {
+    "@language" : "en",
+    "@value" : "Polymer"
+  } ]
+}, {
+  "@id" : "http://w3id.org/MUSICODE/Onto4OLAE/RawMeasurementResult",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
+  "http://www.w3.org/2000/01/rdf-schema#comment" : [ {
+    "@language" : "en",
+    "@value" : "Raw measurement results serve as the basis for further analysis, processing, and interpretation."
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#subClassOf" : [ {
+    "@id" : "http://www.semanticweb.org/hafiznoman/ontologies/2023/6/untitled-ontology-36/SimulationMeasurementResult"
+  }, {
+    "@id" : "_:genid19"
+  } ],
+  "http://www.w3.org/2004/02/skos/core#definition" : [ {
+    "@language" : "en",
+    "@value" : "An instrument or sensor's raw measurement result is the direct measurement or observation obtained without any further processing.\nIt consists of raw data collected by the measuring device, typically in its most basic, unfiltered form."
+  } ],
+  "http://www.w3.org/2004/02/skos/core#prefLabel" : [ {
+    "@language" : "en",
+    "@value" : "RawMeasurementResult"
+  } ]
+}, {
+  "@id" : "http://w3id.org/MUSICODE/Onto4OLAE/SmallMolecule",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
+  "http://www.w3.org/2000/01/rdf-schema#subClassOf" : [ {
+    "@id" : "http://emmo.info/emmo#EMMO_704630b8_fee3_49b9_baca_40e2dd276370"
+  } ],
+  "http://www.w3.org/2004/02/skos/core#prefLabel" : [ {
+    "@language" : "en",
+    "@value" : "Small Molecule"
+  } ]
+}, {
+  "@id" : "http://w3id.org/Onto4POLIS",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Ontology" ],
+  "http://www.w3.org/2002/07/owl#versionIRI" : [ {
+    "@id" : "http://w3id.org/Onto4POLIS/1.0.0"
+  } ]
+}, {
+  "@id" : "http://w3id.org/Onto4POLIS#2DGeometry",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
+  "http://www.w3.org/2000/01/rdf-schema#subClassOf" : [ {
+    "@id" : "http://www.semanticweb.org/hafiznoman/ontologies/2023/6/untitled-ontology-36/MaterialGeometry"
+  } ],
+  "http://www.w3.org/2004/02/skos/core#prefLabel" : [ {
+    "@value" : "2DGeometry"
+  } ]
+}, {
+  "@id" : "http://w3id.org/Onto4POLIS#3DGeometry",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
+  "http://www.w3.org/2000/01/rdf-schema#subClassOf" : [ {
+    "@id" : "http://www.semanticweb.org/hafiznoman/ontologies/2023/6/untitled-ontology-36/MaterialGeometry"
+  } ],
+  "http://www.w3.org/2004/02/skos/core#prefLabel" : [ {
+    "@value" : "3DGeometry"
+  } ]
+}, {
+  "@id" : "http://w3id.org/nfdi4ing/metadata4ing#Method",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
+  "http://www.w3.org/2000/01/rdf-schema#subClassOf" : [ {
+    "@id" : "http://purl.obolibrary.org/obo/BFO_0000017"
+  } ],
+  "http://www.w3.org/2004/02/skos/core#definition" : [ {
+    "@language" : "en",
+    "@value" : "Abstract description of a method for analysis, generation and transformation of data and material objects like, e.g., 'Fourier Transform Infrared Spectroscopy' or 'Molecular Dynamics Simulation'. Note that while values for relevant parameters should be provided, m4i:Method does not refer to the actual execution of the process that is described (use m4i:ProcessingStep for that), but rather a description of the underlying principle."
+  } ],
+  "http://www.w3.org/2004/02/skos/core#prefLabel" : [ {
+    "@language" : "de",
+    "@value" : "Methode"
+  }, {
+    "@language" : "en",
+    "@value" : "method"
+  } ]
+}, {
+  "@id" : "http://www.semanticweb.org/hafiznoman/ontologies/2023/6/untitled-ontology-36/Algorithm",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
+  "http://www.w3.org/2000/01/rdf-schema#subClassOf" : [ {
+    "@id" : "http://www.semanticweb.org/hafiznoman/ontologies/2023/6/untitled-ontology-36/SimulationComponent"
+  } ],
+  "http://www.w3.org/2004/02/skos/core#definition" : [ {
+    "@value" : "An algorithm is a general concept that refers to a set of step-by-step instructions or rules for solving a problem or accomplishing a task. It represents an abstract, generic procedure that can be applied to various situations."
+  } ],
+  "http://www.w3.org/2004/02/skos/core#prefLabel" : [ {
+    "@value" : "Algorithm"
+  } ]
+}, {
+  "@id" : "http://www.semanticweb.org/hafiznoman/ontologies/2023/6/untitled-ontology-36/BoundaryCondition",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
+  "http://www.w3.org/2000/01/rdf-schema#subClassOf" : [ {
+    "@id" : "http://www.semanticweb.org/hafiznoman/ontologies/2023/6/untitled-ontology-36/MathematicalCondition"
+  } ],
+  "http://www.w3.org/2004/02/skos/core#prefLabel" : [ {
+    "@value" : "BoundaryCondition"
+  } ],
+  "http://www.w3.org/ns/prov#definition" : [ {
+    "@value" : "A boundary condition refers to the specifications or constraints applied to the boundaries or interfaces of a simulation system"
+  } ]
+}, {
+  "@id" : "http://www.semanticweb.org/hafiznoman/ontologies/2023/6/untitled-ontology-36/CloseSource",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
+  "http://www.w3.org/2000/01/rdf-schema#subClassOf" : [ {
+    "@id" : "https://purl.org/tema/Accessibiliy"
+  } ],
+  "http://www.w3.org/2004/02/skos/core#definition" : [ {
+    "@value" : "\"Close source\" refers to software that is distributed without its source code being accessible. There is no free source code available for modification, redistribution, or inspection for such proprietary software"
+  } ],
+  "http://www.w3.org/2004/02/skos/core#prefLabel" : [ {
+    "@value" : "CloseSource"
+  } ]
+}, {
+  "@id" : "http://www.semanticweb.org/hafiznoman/ontologies/2023/6/untitled-ontology-36/ComplexGeometry",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
+  "http://www.w3.org/2000/01/rdf-schema#subClassOf" : [ {
+    "@id" : "http://www.semanticweb.org/hafiznoman/ontologies/2023/6/untitled-ontology-36/MaterialGeometry"
+  } ],
+  "http://www.w3.org/2004/02/skos/core#prefLabel" : [ {
+    "@value" : "ComplexGeometry"
+  } ]
+}, {
+  "@id" : "http://www.semanticweb.org/hafiznoman/ontologies/2023/6/untitled-ontology-36/ErrorMeasurement",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
+  "http://www.w3.org/2000/01/rdf-schema#subClassOf" : [ {
+    "@id" : "http://emmo.info/emmo#EMMO_463bcfda_867b_41d9_a967_211d4d437cfb"
+  } ],
+  "http://www.w3.org/2004/02/skos/core#prefLabel" : [ {
+    "@value" : "ErrorMeasurement"
+  } ]
+}, {
+  "@id" : "http://www.semanticweb.org/hafiznoman/ontologies/2023/6/untitled-ontology-36/EstimatedErrorInRawResults",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
+  "http://www.w3.org/2000/01/rdf-schema#subClassOf" : [ {
+    "@id" : "http://www.semanticweb.org/hafiznoman/ontologies/2023/6/untitled-ontology-36/ErrorMeasurement"
+  } ],
+  "http://www.w3.org/2004/02/skos/core#prefLabel" : [ {
+    "@value" : "EstimatedErrorInRawResults"
+  } ]
+}, {
+  "@id" : "http://www.semanticweb.org/hafiznoman/ontologies/2023/6/untitled-ontology-36/FieldVariables",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
+  "http://www.w3.org/2000/01/rdf-schema#subClassOf" : [ {
+    "@id" : "http://www.semanticweb.org/hafiznoman/ontologies/2023/6/untitled-ontology-36/ParameterForSimulationModel"
+  } ],
+  "http://www.w3.org/2004/02/skos/core#definition" : [ {
+    "@value" : "Field variables in a simulation model can be defined as variables that represent the properties, characteristics, or attributes of a simulated system that vary across space or time."
+  } ],
+  "http://www.w3.org/2004/02/skos/core#prefLabel" : [ {
+    "@value" : "FieldVariables"
+  } ]
+}, {
+  "@id" : "http://www.semanticweb.org/hafiznoman/ontologies/2023/6/untitled-ontology-36/Galvanostatic",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
+  "http://www.w3.org/2000/01/rdf-schema#subClassOf" : [ {
+    "@id" : "http://www.semanticweb.org/hafiznoman/ontologies/2023/6/untitled-ontology-36/SimulationSolverBoundaryCondition"
+  } ],
+  "http://www.w3.org/2004/02/skos/core#prefLabel" : [ {
+    "@value" : "Galvanostatic"
+  } ]
+}, {
+  "@id" : "http://www.semanticweb.org/hafiznoman/ontologies/2023/6/untitled-ontology-36/Geometry",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
+  "http://www.w3.org/2004/02/skos/core#definition" : [ {
+    "@value" : "Geometry is a branch of mathematics that deals with the study of shapes, sizes, positions, and properties of objects in space."
+  } ],
+  "http://www.w3.org/2004/02/skos/core#prefLabel" : [ {
+    "@value" : "Geometry"
+  } ]
+}, {
+  "@id" : "http://www.semanticweb.org/hafiznoman/ontologies/2023/6/untitled-ontology-36/InitialCondition",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
+  "http://www.w3.org/2000/01/rdf-schema#subClassOf" : [ {
+    "@id" : "http://www.semanticweb.org/hafiznoman/ontologies/2023/6/untitled-ontology-36/MathematicalCondition"
+  } ]
+}, {
+  "@id" : "http://www.semanticweb.org/hafiznoman/ontologies/2023/6/untitled-ontology-36/InternalAccessibility",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
+  "http://www.w3.org/2000/01/rdf-schema#subClassOf" : [ {
+    "@id" : "https://purl.org/tema/Accessibiliy"
+  } ],
+  "http://www.w3.org/2004/02/skos/core#definition" : [ {
+    "@value" : "Internal accessibility refers to making software components, interfaces, and resources accessible and usable within the development process."
+  } ],
+  "http://www.w3.org/2004/02/skos/core#prefLabel" : [ {
+    "@value" : "InternalAccessibility"
+  } ]
+}, {
+  "@id" : "http://www.semanticweb.org/hafiznoman/ontologies/2023/6/untitled-ontology-36/MaterialGeometry",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
+  "http://www.w3.org/2000/01/rdf-schema#subClassOf" : [ {
+    "@id" : "http://www.semanticweb.org/hafiznoman/ontologies/2023/6/untitled-ontology-36/Geometry"
+  } ],
+  "http://www.w3.org/2004/02/skos/core#definition" : [ {
+    "@value" : "Geometry, in the context of materials, refers to the spatial arrangement, shape, and structure of material entities or components."
+  } ],
+  "http://www.w3.org/2004/02/skos/core#prefLabel" : [ {
+    "@value" : "MaterialGeometry"
+  } ]
+}, {
+  "@id" : "http://www.semanticweb.org/hafiznoman/ontologies/2023/6/untitled-ontology-36/MathematicalCondition",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Class" ]
+}, {
+  "@id" : "http://www.semanticweb.org/hafiznoman/ontologies/2023/6/untitled-ontology-36/MathematicalModel",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
+  "http://www.w3.org/2000/01/rdf-schema#comment" : [ {
+    "@value" : "A mathematical model is a representation of a system or phenomenon using mathematical equations, formulas, or algorithms."
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#subClassOf" : [ {
+    "@id" : "http://www.semanticweb.org/hafiznoman/ontologies/2023/6/untitled-ontology-36/Model"
+  } ],
+  "http://www.w3.org/2004/02/skos/core#prefLabel" : [ {
+    "@value" : "MathematicalModel"
+  } ]
+}, {
+  "@id" : "http://www.semanticweb.org/hafiznoman/ontologies/2023/6/untitled-ontology-36/Model",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
+  "http://www.w3.org/2000/01/rdf-schema#comment" : [ {
+    "@value" : "In the context of simulation, a model serves as a computational or mathematical representation of the system being studied."
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#subClassOf" : [ {
+    "@id" : "http://www.semanticweb.org/hafiznoman/ontologies/2023/6/untitled-ontology-36/SimulationComponent"
+  }, {
+    "@id" : "_:genid20"
+  }, {
+    "@id" : "_:genid26"
+  }, {
+    "@id" : "_:genid27"
+  }, {
+    "@id" : "_:genid28"
+  }, {
+    "@id" : "_:genid29"
+  } ],
+  "http://www.w3.org/2004/02/skos/core#definition" : [ {
+    "@value" : "A model is a representation or abstraction of a real-world system, phenomenon, or process that is designed to mimic or simulate its behavior and characteristics."
+  } ],
+  "http://www.w3.org/2004/02/skos/core#prefLabel" : [ {
+    "@value" : "Model"
+  } ]
+}, {
+  "@id" : "http://www.semanticweb.org/hafiznoman/ontologies/2023/6/untitled-ontology-36/OpenSource",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
+  "http://www.w3.org/2000/01/rdf-schema#subClassOf" : [ {
+    "@id" : "https://purl.org/tema/Accessibiliy"
+  } ],
+  "http://www.w3.org/2004/02/skos/core#definition" : [ {
+    "@value" : "Open source accessibility refers to making software projects and resources openly accessible to the broader community."
+  } ],
+  "http://www.w3.org/2004/02/skos/core#prefLabel" : [ {
+    "@value" : "OpenSource"
+  } ]
+}, {
+  "@id" : "http://www.semanticweb.org/hafiznoman/ontologies/2023/6/untitled-ontology-36/POLIS",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
+  "http://www.w3.org/2000/01/rdf-schema#comment" : [ {
+    "@value" : "The Cluster of Excellence POLiS develops the necessary new battery materials and technology concepts for efficient and sustainable storage of electrical energy."
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#subClassOf" : [ {
+    "@id" : "https://schema.org/ResearchProject"
+  } ],
+  "http://www.w3.org/2004/02/skos/core#definition" : [ {
+    "@value" : "Post Lithium storage cluster of excellence"
+  } ],
+  "http://www.w3.org/2004/02/skos/core#prefLabel" : [ {
+    "@value" : "POLIS"
+  } ]
+}, {
+  "@id" : "http://www.semanticweb.org/hafiznoman/ontologies/2023/6/untitled-ontology-36/ParameterForSimulationModel",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
+  "http://www.w3.org/2000/01/rdf-schema#subClassOf" : [ {
+    "@id" : "http://emmo.info/emmo#EMMO_d1d436e7_72fc_49cd_863b_7bfb4ba5276a"
+  } ]
+}, {
+  "@id" : "http://www.semanticweb.org/hafiznoman/ontologies/2023/6/untitled-ontology-36/ParameterForSolver",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
+  "http://www.w3.org/2000/01/rdf-schema#subClassOf" : [ {
+    "@id" : "http://emmo.info/emmo#EMMO_d1d436e7_72fc_49cd_863b_7bfb4ba5276a"
+  } ],
+  "http://www.w3.org/2004/02/skos/core#definition" : [ {
+    "@value" : "Parameters for solver refer to the variables or inputs that are provided to the solver algorithm or numerical computation method in order to perform the simulation."
+  } ],
+  "http://www.w3.org/2004/02/skos/core#prefLabel" : [ {
+    "@value" : "ParameterForSolver"
+  } ]
+}, {
+  "@id" : "http://www.semanticweb.org/hafiznoman/ontologies/2023/6/untitled-ontology-36/PhysicalModel",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
+  "http://www.w3.org/2000/01/rdf-schema#comment" : [ {
+    "@value" : "It involves creating a physical replica or simulation of the system to observe and analyze its behavior under controlled conditions."
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#subClassOf" : [ {
+    "@id" : "http://www.semanticweb.org/hafiznoman/ontologies/2023/6/untitled-ontology-36/Model"
+  } ],
+  "http://www.w3.org/2004/02/skos/core#definition" : [ {
+    "@value" : "The term \"physical model\" refers to an object, prototype, or scaled-down replica that depicts a system or phenomenon."
+  } ],
+  "http://www.w3.org/2004/02/skos/core#prefLabel" : [ {
+    "@value" : "PhysicalModel"
+  } ]
+}, {
+  "@id" : "http://www.semanticweb.org/hafiznoman/ontologies/2023/6/untitled-ontology-36/Potentiostatic",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
+  "http://www.w3.org/2000/01/rdf-schema#subClassOf" : [ {
+    "@id" : "http://www.semanticweb.org/hafiznoman/ontologies/2023/6/untitled-ontology-36/SimulationSolverBoundaryCondition"
+  } ],
+  "http://www.w3.org/2004/02/skos/core#prefLabel" : [ {
+    "@value" : "Potentiostatic"
+  } ]
+}, {
+  "@id" : "http://www.semanticweb.org/hafiznoman/ontologies/2023/6/untitled-ontology-36/PublicationLink",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
+  "http://www.w3.org/2000/01/rdf-schema#subClassOf" : [ {
+    "@id" : "http://semanticscience.org/resource/SIO_000087"
+  } ]
+}, {
+  "@id" : "http://www.semanticweb.org/hafiznoman/ontologies/2023/6/untitled-ontology-36/ResearchTask",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
+  "http://www.w3.org/2000/01/rdf-schema#comment" : [ {
+    "@value" : "Research tasks in simulation typically involve testing hypotheses, validating models, analyzing complex systems, or exploring specific phenomena through simulation."
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#subClassOf" : [ {
+    "@id" : "http://www.semanticweb.org/hafiznoman/ontologies/2023/6/untitled-ontology-36/Task"
+  } ],
+  "http://www.w3.org/2004/02/skos/core#definition" : [ {
+    "@value" : "The term research task refers to an investigation or objective that leads to the advancement of knowledge or understanding within a particular field."
+  } ],
+  "http://www.w3.org/2004/02/skos/core#prefLabel" : [ {
+    "@value" : "ResearchTask"
+  } ]
+}, {
+  "@id" : "http://www.semanticweb.org/hafiznoman/ontologies/2023/6/untitled-ontology-36/ResearchUnitA",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
+  "http://www.w3.org/2000/01/rdf-schema#subClassOf" : [ {
+    "@id" : "http://www.semanticweb.org/hafiznoman/ontologies/2023/6/untitled-ontology-36/POLIS"
+  } ],
+  "http://www.w3.org/2004/02/skos/core#prefLabel" : [ {
+    "@value" : "ResearchUnitA"
+  } ]
+}, {
+  "@id" : "http://www.semanticweb.org/hafiznoman/ontologies/2023/6/untitled-ontology-36/ResearchUnitB",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
+  "http://www.w3.org/2000/01/rdf-schema#subClassOf" : [ {
+    "@id" : "http://www.semanticweb.org/hafiznoman/ontologies/2023/6/untitled-ontology-36/POLIS"
+  } ],
+  "http://www.w3.org/2004/02/skos/core#prefLabel" : [ {
+    "@value" : "ResearchUnitB"
+  } ]
+}, {
+  "@id" : "http://www.semanticweb.org/hafiznoman/ontologies/2023/6/untitled-ontology-36/ResearchUnitC",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
+  "http://www.w3.org/2000/01/rdf-schema#subClassOf" : [ {
+    "@id" : "http://www.semanticweb.org/hafiznoman/ontologies/2023/6/untitled-ontology-36/POLIS"
+  } ],
+  "http://www.w3.org/2004/02/skos/core#prefLabel" : [ {
+    "@value" : "ResearchUnitC"
+  } ]
+}, {
+  "@id" : "http://www.semanticweb.org/hafiznoman/ontologies/2023/6/untitled-ontology-36/ResearchUnitD",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
+  "http://www.w3.org/2000/01/rdf-schema#subClassOf" : [ {
+    "@id" : "http://www.semanticweb.org/hafiznoman/ontologies/2023/6/untitled-ontology-36/POLIS"
+  } ],
+  "http://www.w3.org/2004/02/skos/core#prefLabel" : [ {
+    "@value" : "ResearchUnitD"
+  } ]
+}, {
+  "@id" : "http://www.semanticweb.org/hafiznoman/ontologies/2023/6/untitled-ontology-36/ResearchUnitX",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
+  "http://www.w3.org/2000/01/rdf-schema#subClassOf" : [ {
+    "@id" : "http://www.semanticweb.org/hafiznoman/ontologies/2023/6/untitled-ontology-36/POLIS"
+  } ],
+  "http://www.w3.org/2004/02/skos/core#prefLabel" : [ {
+    "@value" : "ResearchUnitX"
+  } ]
+}, {
+  "@id" : "http://www.semanticweb.org/hafiznoman/ontologies/2023/6/untitled-ontology-36/SimulationComponent",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
+  "http://schema.org/comment" : [ {
+    "@value" : "The class \"SimulationComponent\" represents a general concept of components used in simulations."
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#subClassOf" : [ {
+    "@id" : "http://emmo.info/emmo#EMMO_f76884f7_964e_488e_9bb7_1b2453e9e817"
+  } ],
+  "http://www.w3.org/2004/02/skos/core#definition" : [ {
+    "@value" : "A constituent of a simulation system."
+  } ],
+  "http://www.w3.org/2004/02/skos/core#prefLabel" : [ {
+    "@value" : "SimulationComponent"
+  } ]
+}, {
+  "@id" : "http://www.semanticweb.org/hafiznoman/ontologies/2023/6/untitled-ontology-36/SimulationMeasurementResult",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
+  "http://www.w3.org/2000/01/rdf-schema#subClassOf" : [ {
+    "@id" : "http://emmo.info/emmo#EMMO_0f6f0120_c079_4d95_bb11_4ddee05e530e"
+  } ]
+}, {
+  "@id" : "http://www.semanticweb.org/hafiznoman/ontologies/2023/6/untitled-ontology-36/SimulationModelBoundaryCondition",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
+  "http://www.w3.org/2000/01/rdf-schema#subClassOf" : [ {
+    "@id" : "http://www.semanticweb.org/hafiznoman/ontologies/2023/6/untitled-ontology-36/BoundaryCondition"
+  } ]
+}, {
+  "@id" : "http://www.semanticweb.org/hafiznoman/ontologies/2023/6/untitled-ontology-36/SimulationSolverBoundaryCondition",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
+  "http://www.w3.org/2000/01/rdf-schema#subClassOf" : [ {
+    "@id" : "http://www.semanticweb.org/hafiznoman/ontologies/2023/6/untitled-ontology-36/BoundaryCondition"
+  } ],
+  "http://www.w3.org/2004/02/skos/core#prefLabel" : [ {
+    "@value" : "SolverBoundaryCondition"
+  } ]
+}, {
+  "@id" : "http://www.semanticweb.org/hafiznoman/ontologies/2023/6/untitled-ontology-36/SoftwareForSolver",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
+  "http://www.w3.org/2000/01/rdf-schema#subClassOf" : [ {
+    "@id" : "http://emmo.info/emmo#EMMO_8681074a_e225_4e38_b586_e85b0f43ce38"
+  }, {
+    "@id" : "_:genid30"
+  }, {
+    "@id" : "_:genid34"
+  } ],
+  "http://www.w3.org/2004/02/skos/core#definition" : [ {
+    "@value" : "Software for solver is a dedicated computer program or tool that facilitates the solution of simulation problems by implementing numerical algorithms, mathematical models, or optimization techniques."
+  } ],
+  "http://www.w3.org/2004/02/skos/core#prefLabel" : [ {
+    "@value" : "SoftwareForSolver"
+  } ]
+}, {
+  "@id" : "http://www.semanticweb.org/hafiznoman/ontologies/2023/6/untitled-ontology-36/Solver",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
+  "http://www.w3.org/2000/01/rdf-schema#comment" : [ {
+    "@value" : "It takes a problem formulation, applies the algorithmic procedures, and provides a solution or approximation to the problem."
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#subClassOf" : [ {
+    "@id" : "http://www.semanticweb.org/hafiznoman/ontologies/2023/6/untitled-ontology-36/Algorithm"
+  }, {
+    "@id" : "_:genid35"
+  }, {
+    "@id" : "_:genid36"
+  }, {
+    "@id" : "_:genid37"
+  }, {
+    "@id" : "_:genid38"
+  }, {
+    "@id" : "_:genid39"
+  }, {
+    "@id" : "_:genid40"
+  } ],
+  "http://www.w3.org/2004/02/skos/core#definition" : [ {
+    "@value" : "A solver is a specific implementation or realization of an algorithm tailored to address a particular problem within the context of simulation."
+  } ],
+  "http://www.w3.org/2004/02/skos/core#prefLabel" : [ {
+    "@value" : "Solver"
+  } ]
+}, {
+  "@id" : "http://www.semanticweb.org/hafiznoman/ontologies/2023/6/untitled-ontology-36/Task",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
+  "http://www.w3.org/2000/01/rdf-schema#subClassOf" : [ {
+    "@id" : "http://www.semanticweb.org/hafiznoman/ontologies/2023/6/untitled-ontology-36/SimulationComponent"
+  }, {
+    "@id" : "_:genid41"
+  }, {
+    "@id" : "_:genid42"
+  }, {
+    "@id" : "_:genid43"
+  }, {
+    "@id" : "_:genid44"
+  }, {
+    "@id" : "_:genid45"
+  } ],
+  "http://www.w3.org/2004/02/skos/core#definition" : [ {
+    "@value" : "The term task refers to an activity or assignment requiring effort and undertaken to reach a specific outcome within a specific domain or context."
+  } ],
+  "http://www.w3.org/2004/02/skos/core#prefLabel" : [ {
+    "@value" : "Task"
+  } ]
+}, {
+  "@id" : "http://www.semanticweb.org/hafiznoman/ontologies/2023/6/untitled-ontology-36/ToolForSimulation",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
+  "http://www.w3.org/2000/01/rdf-schema#subClassOf" : [ {
+    "@id" : "http://emmo.info/emmo#EMMO_5c68497d_2544_4cd4_897b_1ea783c9f6fe"
+  }, {
+    "@id" : "_:genid46"
+  } ]
+}, {
+  "@id" : "http://www.semanticweb.org/hafiznoman/ontologies/2023/6/untitled-ontology-36/UseCase",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
+  "http://www.w3.org/2000/01/rdf-schema#comment" : [ {
+    "@value" : "An example of a use case simulation is when it is used to solve a particular challenge or complete a particular task."
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#subClassOf" : [ {
+    "@id" : "http://www.semanticweb.org/hafiznoman/ontologies/2023/6/untitled-ontology-36/Task"
+  } ],
+  "http://www.w3.org/2004/02/skos/core#definition" : [ {
+    "@value" : "A use case emphasizes on the practical application of simulation in real-world scenarios."
+  } ],
+  "http://www.w3.org/2004/02/skos/core#prefLabel" : [ {
+    "@value" : "UseCase"
+  } ]
+}, {
+  "@id" : "http://www.semanticweb.org/hafiznoman/ontologies/2023/6/untitled-ontology-36/WorkPackageX.1",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
+  "http://www.w3.org/2000/01/rdf-schema#subClassOf" : [ {
+    "@id" : "http://www.semanticweb.org/hafiznoman/ontologies/2023/6/untitled-ontology-36/ResearchUnitX"
+  } ],
+  "http://www.w3.org/2004/02/skos/core#prefLabel" : [ {
+    "@value" : "WorkPackageX.1"
+  } ]
+}, {
+  "@id" : "http://www.semanticweb.org/hafiznoman/ontologies/2023/6/untitled-ontology-36/WorkPackageX.2",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
+  "http://www.w3.org/2000/01/rdf-schema#subClassOf" : [ {
+    "@id" : "http://www.semanticweb.org/hafiznoman/ontologies/2023/6/untitled-ontology-36/ResearchUnitX"
+  } ],
+  "http://www.w3.org/2004/02/skos/core#prefLabel" : [ {
+    "@value" : "WorkPackageX.2"
+  } ]
+}, {
+  "@id" : "http://www.semanticweb.org/hafiznoman/ontologies/2023/6/untitled-ontology-36/WorkPackageX.3",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
+  "http://www.w3.org/2000/01/rdf-schema#subClassOf" : [ {
+    "@id" : "http://www.semanticweb.org/hafiznoman/ontologies/2023/6/untitled-ontology-36/ResearchUnitX"
+  } ],
+  "http://www.w3.org/2004/02/skos/core#prefLabel" : [ {
+    "@value" : "WorkPackageX.3"
+  } ]
+}, {
+  "@id" : "http://www.semanticweb.org/hafiznoman/ontologies/2023/6/untitled-ontology-36/WorkPackageX.4",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
+  "http://www.w3.org/2000/01/rdf-schema#subClassOf" : [ {
+    "@id" : "http://www.semanticweb.org/hafiznoman/ontologies/2023/6/untitled-ontology-36/ResearchUnitX"
+  } ],
+  "http://www.w3.org/2004/02/skos/core#prefLabel" : [ {
+    "@value" : "WorkPackageX.4"
+  } ]
+}, {
+  "@id" : "http://www.semanticweb.org/hafiznoman/ontologies/2023/6/untitled-ontology-36/WorkPackageX.5",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
+  "http://www.w3.org/2000/01/rdf-schema#subClassOf" : [ {
+    "@id" : "http://www.semanticweb.org/hafiznoman/ontologies/2023/6/untitled-ontology-36/ResearchUnitX"
+  } ],
+  "http://www.w3.org/2004/02/skos/core#prefLabel" : [ {
+    "@value" : "WorkPackageX.5"
+  } ]
+}, {
+  "@id" : "http://www.semanticweb.org/hafiznoman/ontologies/2023/6/untitled-ontology-36/determine",
+  "@type" : [ "http://www.w3.org/2002/07/owl#ObjectProperty" ],
+  "http://www.w3.org/2000/01/rdf-schema#subPropertyOf" : [ {
+    "@id" : "http://www.w3.org/2002/07/owl#topObjectProperty"
+  } ]
+}, {
+  "@id" : "http://www.semanticweb.org/hafiznoman/ontologies/2023/6/untitled-ontology-36/hasAccessCondition",
+  "@type" : [ "http://www.w3.org/2002/07/owl#ObjectProperty" ]
+}, {
+  "@id" : "http://www.semanticweb.org/hafiznoman/ontologies/2023/6/untitled-ontology-36/hasAgent",
+  "@type" : [ "http://www.w3.org/2002/07/owl#ObjectProperty" ]
+}, {
+  "@id" : "http://www.semanticweb.org/hafiznoman/ontologies/2023/6/untitled-ontology-36/hasBoundaryCondition",
+  "@type" : [ "http://www.w3.org/2002/07/owl#ObjectProperty" ],
+  "http://www.w3.org/2000/01/rdf-schema#subPropertyOf" : [ {
+    "@id" : "http://www.w3.org/2002/07/owl#topObjectProperty"
+  } ]
+}, {
+  "@id" : "http://www.semanticweb.org/hafiznoman/ontologies/2023/6/untitled-ontology-36/hasConsideredGeometry",
+  "@type" : [ "http://www.w3.org/2002/07/owl#ObjectProperty" ],
+  "http://www.w3.org/2000/01/rdf-schema#subPropertyOf" : [ {
+    "@id" : "http://www.w3.org/2002/07/owl#topObjectProperty"
+  } ]
+}, {
+  "@id" : "http://www.semanticweb.org/hafiznoman/ontologies/2023/6/untitled-ontology-36/hasConsideredMaterial",
+  "@type" : [ "http://www.w3.org/2002/07/owl#ObjectProperty" ],
+  "http://www.w3.org/2000/01/rdf-schema#subPropertyOf" : [ {
+    "@id" : "http://www.w3.org/2002/07/owl#topObjectProperty"
+  } ]
+}, {
+  "@id" : "http://www.semanticweb.org/hafiznoman/ontologies/2023/6/untitled-ontology-36/hasConsideredTimeInterval",
+  "@type" : [ "http://www.w3.org/2002/07/owl#ObjectProperty" ]
+}, {
+  "@id" : "http://www.semanticweb.org/hafiznoman/ontologies/2023/6/untitled-ontology-36/hasCorrespondingPublication",
+  "@type" : [ "http://www.w3.org/2002/07/owl#ObjectProperty" ]
+}, {
+  "@id" : "http://www.semanticweb.org/hafiznoman/ontologies/2023/6/untitled-ontology-36/hasEmployedTool",
+  "@type" : [ "http://www.w3.org/2002/07/owl#ObjectProperty" ]
+}, {
+  "@id" : "http://www.semanticweb.org/hafiznoman/ontologies/2023/6/untitled-ontology-36/hasError",
+  "@type" : [ "http://www.w3.org/2002/07/owl#ObjectProperty" ],
+  "http://www.w3.org/2000/01/rdf-schema#subPropertyOf" : [ {
+    "@id" : "http://www.w3.org/2002/07/owl#topObjectProperty"
+  } ]
+}, {
+  "@id" : "http://www.semanticweb.org/hafiznoman/ontologies/2023/6/untitled-ontology-36/hasGranularityLevel",
+  "@type" : [ "http://www.w3.org/2002/07/owl#ObjectProperty" ],
+  "http://www.w3.org/2000/01/rdf-schema#subPropertyOf" : [ {
+    "@id" : "http://www.w3.org/2002/07/owl#topObjectProperty"
+  } ]
+}, {
+  "@id" : "http://www.semanticweb.org/hafiznoman/ontologies/2023/6/untitled-ontology-36/hasImplementationSoftware",
+  "@type" : [ "http://www.w3.org/2002/07/owl#ObjectProperty" ]
+}, {
+  "@id" : "http://www.semanticweb.org/hafiznoman/ontologies/2023/6/untitled-ontology-36/hasInferredResults",
+  "@type" : [ "http://www.w3.org/2002/07/owl#ObjectProperty" ],
+  "http://www.w3.org/2000/01/rdf-schema#subPropertyOf" : [ {
+    "@id" : "http://www.w3.org/2002/07/owl#topObjectProperty"
+  } ]
+}, {
+  "@id" : "http://www.semanticweb.org/hafiznoman/ontologies/2023/6/untitled-ontology-36/hasInput",
+  "@type" : [ "http://www.w3.org/2002/07/owl#ObjectProperty" ],
+  "http://www.w3.org/2000/01/rdf-schema#subPropertyOf" : [ {
+    "@id" : "http://www.w3.org/2002/07/owl#topObjectProperty"
+  } ]
+}, {
+  "@id" : "http://www.semanticweb.org/hafiznoman/ontologies/2023/6/untitled-ontology-36/hasMethod",
+  "@type" : [ "http://www.w3.org/2002/07/owl#ObjectProperty" ]
+}, {
+  "@id" : "http://www.semanticweb.org/hafiznoman/ontologies/2023/6/untitled-ontology-36/hasParameter",
+  "@type" : [ "http://www.w3.org/2002/07/owl#ObjectProperty" ]
+}, {
+  "@id" : "http://www.semanticweb.org/hafiznoman/ontologies/2023/6/untitled-ontology-36/hasRawResults",
+  "@type" : [ "http://www.w3.org/2002/07/owl#ObjectProperty" ],
+  "http://www.w3.org/2000/01/rdf-schema#subPropertyOf" : [ {
+    "@id" : "http://www.w3.org/2002/07/owl#topObjectProperty"
+  } ]
+}, {
+  "@id" : "http://www.semanticweb.org/hafiznoman/ontologies/2023/6/untitled-ontology-36/isAssosiatedWith",
+  "@type" : [ "http://www.w3.org/2002/07/owl#ObjectProperty" ],
+  "http://www.w3.org/2000/01/rdf-schema#subPropertyOf" : [ {
+    "@id" : "http://www.w3.org/2002/07/owl#topObjectProperty"
+  } ]
+}, {
+  "@id" : "http://www.semanticweb.org/hafiznoman/ontologies/2023/6/untitled-ontology-36/isRealizedThrough",
+  "@type" : [ "http://www.w3.org/2002/07/owl#ObjectProperty" ],
+  "http://www.w3.org/2000/01/rdf-schema#subPropertyOf" : [ {
+    "@id" : "http://www.w3.org/2002/07/owl#topObjectProperty"
+  } ]
+}, {
+  "@id" : "http://www.semanticweb.org/hafiznoman/ontologies/2023/6/untitled-ontology-36/stabilityCriteria",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
+  "http://www.w3.org/2000/01/rdf-schema#subClassOf" : [ {
+    "@id" : "http://www.semanticweb.org/hafiznoman/ontologies/2023/6/untitled-ontology-36/MathematicalCondition"
+  } ]
+}, {
+  "@id" : "http://www.w3.org/2001/XMLSchema#dateTime",
+  "http://www.w3.org/2004/02/skos/core#prefLabel" : [ {
+    "@value" : "quantity"
+  } ]
+}, {
+  "@id" : "http://www.w3.org/2004/02/skos/core#altLabel",
+  "@type" : [ "http://www.w3.org/2002/07/owl#AnnotationProperty" ]
+}, {
+  "@id" : "http://www.w3.org/2004/02/skos/core#definition",
+  "@type" : [ "http://www.w3.org/2002/07/owl#AnnotationProperty" ]
+}, {
+  "@id" : "http://www.w3.org/2004/02/skos/core#editorialNote",
+  "@type" : [ "http://www.w3.org/2002/07/owl#AnnotationProperty" ]
+}, {
+  "@id" : "http://www.w3.org/2004/02/skos/core#example",
+  "@type" : [ "http://www.w3.org/2002/07/owl#AnnotationProperty" ]
+}, {
+  "@id" : "http://www.w3.org/2004/02/skos/core#prefLabel",
+  "@type" : [ "http://www.w3.org/2002/07/owl#AnnotationProperty" ]
+}, {
+  "@id" : "http://www.w3.org/ns/prov#Agent",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
+  "http://www.w3.org/2000/01/rdf-schema#isDefinedBy" : [ {
+    "@id" : "http://www.w3.org/ns/prov-o#"
+  } ],
+  "http://www.w3.org/2004/02/skos/core#prefLabel" : [ {
+    "@value" : ""
+  }, {
+    "@value" : "Agent"
+  } ],
+  "http://www.w3.org/ns/prov#category" : [ {
+    "@value" : "starting-point"
+  } ],
+  "http://www.w3.org/ns/prov#component" : [ {
+    "@value" : "agents-responsibility"
+  } ],
+  "http://www.w3.org/ns/prov#definition" : [ {
+    "@language" : "en",
+    "@value" : "An agent is something that bears some form of responsibility for an activity taking place, for the existence of an entity, or for another agent's activity. "
+  } ],
+  "http://www.w3.org/ns/prov#dm" : [ {
+    "@type" : "http://www.w3.org/2001/XMLSchema#anyURI",
+    "@value" : "http://www.w3.org/TR/2013/REC-prov-dm-20130430/#term-agent"
+  } ],
+  "http://www.w3.org/ns/prov#n" : [ {
+    "@type" : "http://www.w3.org/2001/XMLSchema#anyURI",
+    "@value" : "http://www.w3.org/TR/2013/REC-prov-n-20130430/#expression-Agent"
+  } ]
+}, {
+  "@id" : "http://www.w3.org/ns/prov#Organization",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
+  "http://www.w3.org/2000/01/rdf-schema#isDefinedBy" : [ {
+    "@id" : "http://www.w3.org/ns/prov-o#"
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#subClassOf" : [ {
+    "@id" : "http://www.w3.org/ns/prov#Agent"
+  } ],
+  "http://www.w3.org/2004/02/skos/core#prefLabel" : [ {
+    "@value" : "Organization"
+  } ],
+  "http://www.w3.org/ns/prov#category" : [ {
+    "@value" : "expanded"
+  } ],
+  "http://www.w3.org/ns/prov#component" : [ {
+    "@value" : "agents-responsibility"
+  } ],
+  "http://www.w3.org/ns/prov#definition" : [ {
+    "@value" : "An organization is a social or legal institution such as a company, society, etc."
+  } ],
+  "http://www.w3.org/ns/prov#dm" : [ {
+    "@type" : "http://www.w3.org/2001/XMLSchema#anyURI",
+    "@value" : "http://www.w3.org/TR/2013/REC-prov-dm-20130430/#term-agent"
+  } ],
+  "http://www.w3.org/ns/prov#n" : [ {
+    "@type" : "http://www.w3.org/2001/XMLSchema#anyURI",
+    "@value" : "http://www.w3.org/TR/2013/REC-prov-n-20130430/#expression-types"
+  } ]
+}, {
+  "@id" : "http://www.w3.org/ns/prov#Person",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
+  "http://www.w3.org/2000/01/rdf-schema#isDefinedBy" : [ {
+    "@id" : "http://www.w3.org/ns/prov-o#"
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#subClassOf" : [ {
+    "@id" : "http://www.w3.org/ns/prov#Agent"
+  }, {
+    "@id" : "_:genid47"
+  } ],
+  "http://www.w3.org/2004/02/skos/core#prefLabel" : [ {
+    "@value" : "Person"
+  } ],
+  "http://www.w3.org/ns/prov#category" : [ {
+    "@value" : "expanded"
+  } ],
+  "http://www.w3.org/ns/prov#component" : [ {
+    "@value" : "agents-responsibility"
+  } ],
+  "http://www.w3.org/ns/prov#definition" : [ {
+    "@language" : "en",
+    "@value" : "Person agents are people."
+  } ],
+  "http://www.w3.org/ns/prov#dm" : [ {
+    "@type" : "http://www.w3.org/2001/XMLSchema#anyURI",
+    "@value" : "http://www.w3.org/TR/2013/REC-prov-dm-20130430/#term-agent"
+  } ],
+  "http://www.w3.org/ns/prov#n" : [ {
+    "@type" : "http://www.w3.org/2001/XMLSchema#anyURI",
+    "@value" : "http://www.w3.org/TR/2013/REC-prov-n-20130430/#expression-types"
+  } ]
+}, {
+  "@id" : "http://www.w3.org/ns/prov#SoftwareAgent",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
+  "http://www.w3.org/2000/01/rdf-schema#isDefinedBy" : [ {
+    "@id" : "http://www.w3.org/ns/prov-o#"
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#subClassOf" : [ {
+    "@id" : "http://www.w3.org/ns/prov#Agent"
+  } ],
+  "http://www.w3.org/2004/02/skos/core#prefLabel" : [ {
+    "@value" : "SoftwareAgent"
+  } ],
+  "http://www.w3.org/ns/prov#category" : [ {
+    "@value" : "expanded"
+  } ],
+  "http://www.w3.org/ns/prov#component" : [ {
+    "@value" : "agents-responsibility"
+  } ],
+  "http://www.w3.org/ns/prov#definition" : [ {
+    "@language" : "en",
+    "@value" : "A software agent is running software."
+  } ],
+  "http://www.w3.org/ns/prov#dm" : [ {
+    "@type" : "http://www.w3.org/2001/XMLSchema#anyURI",
+    "@value" : "http://www.w3.org/TR/2013/REC-prov-dm-20130430/#term-agent"
+  } ],
+  "http://www.w3.org/ns/prov#n" : [ {
+    "@type" : "http://www.w3.org/2001/XMLSchema#anyURI",
+    "@value" : "http://www.w3.org/TR/2013/REC-prov-n-20130430/#expression-types"
+  } ]
+}, {
+  "@id" : "http://www.w3.org/ns/prov#category",
+  "@type" : [ "http://www.w3.org/2002/07/owl#AnnotationProperty" ]
+}, {
+  "@id" : "http://www.w3.org/ns/prov#component",
+  "@type" : [ "http://www.w3.org/2002/07/owl#AnnotationProperty" ]
+}, {
+  "@id" : "http://www.w3.org/ns/prov#definition",
+  "@type" : [ "http://www.w3.org/2002/07/owl#AnnotationProperty" ]
+}, {
+  "@id" : "http://www.w3.org/ns/prov#dm",
+  "@type" : [ "http://www.w3.org/2002/07/owl#AnnotationProperty" ]
+}, {
+  "@id" : "http://www.w3.org/ns/prov#n",
+  "@type" : [ "http://www.w3.org/2002/07/owl#AnnotationProperty" ]
+}, {
+  "@id" : "https://big-map.github.io/BattINFO/ontology/electrochemistry#EMMO_03a0ccc9_21fe_46a1_a143_50147fbe3200",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
+  "http://www.w3.org/2000/01/rdf-schema#subClassOf" : [ {
+    "@id" : "http://emmo.info/emmo#EMMO_ceaaf9f7_fd11_424b_8fda_9afa186af186"
+  } ],
+  "http://www.w3.org/2004/02/skos/core#prefLabel" : [ {
+    "@language" : "en",
+    "@value" : "ElectrolyteConstituent"
+  } ]
+}, {
+  "@id" : "https://big-map.github.io/BattINFO/ontology/electrochemistry#EMMO_6f21a5fa_3b16_47ab_af2a_51e3e14ed964",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
+  "http://www.w3.org/2000/01/rdf-schema#subClassOf" : [ {
+    "@id" : "http://emmo.info/emmo#EMMO_ceaaf9f7_fd11_424b_8fda_9afa186af186"
+  }, {
+    "@id" : "http://emmo.info/emmo#EMMO_ec7464a9_d99d_45f8_965b_4e9230ea8356"
+  } ],
+  "http://www.w3.org/2004/02/skos/core#prefLabel" : [ {
+    "@language" : "en",
+    "@value" : "ElectrodeConstituent"
+  } ]
+}, {
+  "@id" : "https://purl.org/tema/Accessibiliy",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
+  "http://www.w3.org/2004/02/skos/core#definition" : [ {
+    "@value" : "\"accessibility\" refers to the extent to which software or digital products are usable, inclusive, and available to individuals"
+  }, {
+    "@value" : "Accessibiliy"
+  } ]
+}, {
+  "@id" : "https://schema.org/Project",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
+  "http://www.w3.org/2000/01/rdf-schema#comment" : [ {
+    "@language" : "en",
+    "@value" : "An enterprise (potentially individual but typically collaborative), planned to achieve a particular aim"
+  }, {
+    "@language" : "de",
+    "@value" : "Ein typischerweise kollektives Unterfangen zum Erreichen eines vorab geplanten Ziels"
+  } ],
+  "http://www.w3.org/2004/02/skos/core#editorialNote" : [ {
+    "@language" : "en",
+    "@value" : "changed by m4i: added German definition, added language tag to English definition, shortened definition"
+  }, {
+    "@language" : "en",
+    "@value" : "changed by m4i: use of skos:prefLabel instead of rdfs:label, added German label, added language tag to English label"
+  } ],
+  "http://www.w3.org/2004/02/skos/core#prefLabel" : [ {
+    "@language" : "en",
+    "@value" : "Project"
+  }, {
+    "@language" : "de",
+    "@value" : "Projekt"
+  } ]
+}, {
+  "@id" : "https://schema.org/ResearchProject",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
+  "http://www.w3.org/2000/01/rdf-schema#comment" : [ {
+    "@language" : "en",
+    "@value" : "A research project"
+  }, {
+    "@language" : "de",
+    "@value" : "ein Forschungsprojekt"
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#subClassOf" : [ {
+    "@id" : "https://schema.org/Project"
+  } ],
+  "http://www.w3.org/2004/02/skos/core#editorialNote" : [ {
+    "@language" : "en",
+    "@value" : "changed by m4i: added German definition, added language tag to English definition"
+  }, {
+    "@language" : "en",
+    "@value" : "changed by m4i: changed label to \"research project\" (no CamelCase)"
+  }, {
+    "@language" : "en",
+    "@value" : "changed by m4i: use of skos:prefLabel instead of rdfs:label, added German label, added language tag to English label"
+  } ],
+  "http://www.w3.org/2004/02/skos/core#prefLabel" : [ {
+    "@language" : "de",
+    "@value" : "Forschungsprojekt"
+  }, {
+    "@language" : "en",
+    "@value" : "ResearchProject"
+  } ]
+} ]
