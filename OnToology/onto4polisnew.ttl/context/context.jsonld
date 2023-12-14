@@ -1,0 +1,1051 @@
+{
+  "@context" : {
+    "ConductoBesterRawMeasurementResult" : {
+      "@id" : "http://w3id.org/Onto4POLIS/ConductoBesterRawMeasurementResult"
+    },
+    "ResearchProject" : {
+      "@id" : "https://schema.org/ResearchProject"
+    },
+    "SimulationSolverBoundaryCondition" : {
+      "@id" : "http://w3id.org/Onto4POLIS/SimulationSolverBoundaryCondition"
+    },
+    "UseCase" : {
+      "@id" : "http://www.semanticweb.org/hafiznoman/ontologies/2023/6/untitled-ontology-36/UseCase"
+    },
+    "abstract" : {
+      "@id" : "http://purl.org/dc/terms/abstract"
+    },
+    "EMMO_43cd9d34_466b_4914_9b07_7c0142590723" : {
+      "@id" : "http://emmo.info/emmo#EMMO_43cd9d34_466b_4914_9b07_7c0142590723"
+    },
+    "EMMO_71d1c8f0_c6e3_44b5_a4b6_1b74ff35698a" : {
+      "@id" : "http://emmo.info/emmo#EMMO_71d1c8f0_c6e3_44b5_a4b6_1b74ff35698a"
+    },
+    "EMMO_912ac3a2_a124_4233_92dd_06c9aebea46c" : {
+      "@id" : "http://emmo.info/emmo#EMMO_912ac3a2_a124_4233_92dd_06c9aebea46c"
+    },
+    "n" : {
+      "@id" : "http://www.w3.org/ns/prov#n"
+    },
+    "ResistorNetworkInferredMeasurementResult" : {
+      "@id" : "http://w3id.org/Onto4POLIS/ResistorNetworkInferredMeasurementResult"
+    },
+    "ConductoBesterInferredMeasurementResult" : {
+      "@id" : "http://w3id.org/Onto4POLIS/ConductoBesterInferredMeasurementResult"
+    },
+    "SIO_000428" : {
+      "@id" : "http://semanticscience.org/resource/SIO_000428"
+    },
+    "OpenSource" : {
+      "@id" : "http://w3id.org/Onto4POLIS/OpenSource"
+    },
+    "EmploysTool" : {
+      "@id" : "http://w3id.org/Onto4POLIS/EmploysTool",
+      "@type" : "@id"
+    },
+    "EMMO_ae15fb4f_8e4d_41de_a0f9_3997f89ba6a2" : {
+      "@id" : "http://emmo.info/emmo#EMMO_ae15fb4f_8e4d_41de_a0f9_3997f89ba6a2"
+    },
+    "hasPublicationLink" : {
+      "@id" : "http://w3id.org/Onto4POLIS/hasPublicationLink"
+    },
+    "EMMO_fe015383_afb3_44a6_ae86_043628697aa2" : {
+      "@id" : "http://emmo.info/emmo#EMMO_fe015383_afb3_44a6_ae86_043628697aa2"
+    },
+    "CResearchTask" : {
+      "@id" : "http://w3id.org/Onto4POLIS#NVP/CResearchTask"
+    },
+    "SIO_000136" : {
+      "@id" : "http://semanticscience.org/resource/SIO_000136"
+    },
+    "OCVBoundaryCondition" : {
+      "@id" : "http://w3id.org/Onto4POLIS/OCVBoundaryCondition"
+    },
+    "versionInfo" : {
+      "@id" : "http://www.w3.org/2002/07/owl#versionInfo"
+    },
+    "hasConsideredGeometry" : {
+      "@id" : "http://w3id.org/Onto4POLIS/hasConsideredGeometry",
+      "@type" : "@id"
+    },
+    "created" : {
+      "@id" : "http://purl.org/dc/terms/created"
+    },
+    "hasGranularityLevel" : {
+      "@id" : "http://w3id.org/Onto4POLIS/hasGranularityLevel",
+      "@type" : "@id"
+    },
+    "EMMO_bb49844b_45d7_4f0d_8cae_8e552cbc20d6" : {
+      "@id" : "http://emmo.info/emmo#EMMO_bb49844b_45d7_4f0d_8cae_8e552cbc20d6"
+    },
+    "SimulationComponent" : {
+      "@id" : "http://w3id.org/Onto4POLIS/SimulationComponent"
+    },
+    "EMMO_b432d2d5_25f4_4165_99c5_5935a7763c1a" : {
+      "@id" : "http://emmo.info/emmo#EMMO_b432d2d5_25f4_4165_99c5_5935a7763c1a"
+    },
+    "example" : {
+      "@id" : "http://www.w3.org/2004/02/skos/core#example"
+    },
+    "subset" : {
+      "@id" : "http://semanticscience.org/resource/subset"
+    },
+    "PublishedPhysicalModel" : {
+      "@id" : "http://w3id.org/Onto4POLIS/PublishedPhysicalModel"
+    },
+    "EMMO_4ce76d7f_03f8_45b6_9003_90052a79bfaa" : {
+      "@id" : "http://emmo.info/emmo#EMMO_4ce76d7f_03f8_45b6_9003_90052a79bfaa"
+    },
+    "InternalAccessibility" : {
+      "@id" : "http://w3id.org/Onto4POLIS/InternalAccessibility"
+    },
+    "ResistorNetworkModelValidation" : {
+      "@id" : "http://w3id.org/Onto4POLIS/ResistorNetworkModelValidation"
+    },
+    "ParameterForKitGran" : {
+      "@id" : "http://w3id.org/Onto4POLIS/ParameterForKitGran"
+    },
+    "PartOf" : {
+      "@id" : "http://w3id.org/Onto4POLIS/PartOf",
+      "@type" : "@id"
+    },
+    "license" : {
+      "@id" : "http://purl.org/dc/terms/license"
+    },
+    "InputForTortuosityCalculation" : {
+      "@id" : "http://w3id.org/Onto4POLIS/InputForTortuosityCalculation"
+    },
+    "EMMO_668fbd5b_6f1b_405c_9c6b_d6067bd0595a" : {
+      "@id" : "http://emmo.info/emmo#EMMO_668fbd5b_6f1b_405c_9c6b_d6067bd0595a"
+    },
+    "ToolForBester" : {
+      "@id" : "http://w3id.org/Onto4POLIS/ToolForBester"
+    },
+    "SIO_000434" : {
+      "@id" : "http://semanticscience.org/resource/SIO_000434"
+    },
+    "EMMO_084b4f77_6df7_4c6a_b705_2528aba5cdda" : {
+      "@id" : "http://emmo.info/emmo#EMMO_084b4f77_6df7_4c6a_b705_2528aba5cdda"
+    },
+    "BoundaryCondition" : {
+      "@id" : "http://w3id.org/Onto4POLIS/BoundaryCondition"
+    },
+    "SIO_000432" : {
+      "@id" : "http://semanticscience.org/resource/SIO_000432"
+    },
+    "EMMO_fbcc3aad_c58a_4185_bcc9_859db779b226" : {
+      "@id" : "http://emmo.info/emmo#EMMO_fbcc3aad_c58a_4185_bcc9_859db779b226"
+    },
+    "NanoConductoBester" : {
+      "@id" : "http://w3id.org/Onto4POLIS/NanoConductoBester"
+    },
+    "SIO_000032" : {
+      "@id" : "http://semanticscience.org/resource/SIO_000032"
+    },
+    "Organization" : {
+      "@id" : "http://www.w3.org/ns/prov#Organization"
+    },
+    "ErrorMeasurement" : {
+      "@id" : "http://w3id.org/Onto4POLIS/ErrorMeasurement"
+    },
+    "WorkPackageX.2" : {
+      "@id" : "http://w3id.org/Onto4POLIS/WorkPackageX.2"
+    },
+    "EMMO_64963ed6_39c9_4258_85e0_6466c4b5420c" : {
+      "@id" : "http://emmo.info/emmo#EMMO_64963ed6_39c9_4258_85e0_6466c4b5420c"
+    },
+    "Thing" : {
+      "@id" : "http://www.w3.org/2002/07/owl#Thing"
+    },
+    "P3DModelValidation" : {
+      "@id" : "http://w3id.org/Onto4POLIS/P3DModelValidation"
+    },
+    "IntentionalProcessInput" : {
+      "@id" : "http://w3id.org/MUSICODE/Onto4OLAE/IntentionalProcessInput"
+    },
+    "WorkPackageX.3" : {
+      "@id" : "http://w3id.org/Onto4POLIS/WorkPackageX.3"
+    },
+    "EMMO_6f21a5fa_3b16_47ab_af2a_51e3e14ed964" : {
+      "@id" : "https://big-map.github.io/BattINFO/ontology/electrochemistry#EMMO_6f21a5fa_3b16_47ab_af2a_51e3e14ed964"
+    },
+    "hasCorrespondingPublication" : {
+      "@id" : "http://w3id.org/Onto4POLIS/hasCorrespondingPublication",
+      "@type" : "@id"
+    },
+    "ToolForDFT" : {
+      "@id" : "http://w3id.org/Onto4POLIS/ToolForDFT"
+    },
+    "SIO_000116" : {
+      "@id" : "http://semanticscience.org/resource/SIO_000116"
+    },
+    "OptimizationSolver" : {
+      "@id" : "http://w3id.org/Onto4POLIS/OptimizationSolver"
+    },
+    "EMMO_f13672a3_59cc_40ed_8def_65009a8f74e6" : {
+      "@id" : "http://emmo.info/emmo#EMMO_f13672a3_59cc_40ed_8def_65009a8f74e6"
+    },
+    "EMMO_c7b62dd7_063a_4c2a_8504_42f7264ba83f" : {
+      "@id" : "http://emmo.info/emmo#EMMO_c7b62dd7_063a_4c2a_8504_42f7264ba83f"
+    },
+    "EMMO_967080e5_2f42_4eb2_a3a9_c58143e835f9" : {
+      "@id" : "http://emmo.info/emmo#EMMO_967080e5_2f42_4eb2_a3a9_c58143e835f9"
+    },
+    "ResearchUnitX" : {
+      "@id" : "http://w3id.org/Onto4POLIS/ResearchUnitX"
+    },
+    "ConsideredMaterialForResistorNetwork" : {
+      "@id" : "http://w3id.org/Onto4POLIS/ConsideredMaterialForResistorNetwork"
+    },
+    "stabilityCriteria" : {
+      "@id" : "http://w3id.org/Onto4POLIS/stabilityCriteria"
+    },
+    "EMMO_e04884d9_eda6_487e_93d5_7722d7eda96b" : {
+      "@id" : "http://emmo.info/emmo#EMMO_e04884d9_eda6_487e_93d5_7722d7eda96b"
+    },
+    "ConsideredMaterialForP3D" : {
+      "@id" : "http://w3id.org/Onto4POLIS/ConsideredMaterialForP3D"
+    },
+    "MathematicalCondition" : {
+      "@id" : "http://w3id.org/Onto4POLIS/MathematicalCondition"
+    },
+    "Geometry" : {
+      "@id" : "http://w3id.org/Onto4POLIS/Geometry"
+    },
+    "ToolForConductoBester" : {
+      "@id" : "http://w3id.org/Onto4POLIS/ToolForConductoBester"
+    },
+    "EMMO_4207e895_8b83_4318_996a_72cfb32acd94" : {
+      "@id" : "http://emmo.info/emmo#EMMO_4207e895_8b83_4318_996a_72cfb32acd94"
+    },
+    "isImplementedBy" : {
+      "@id" : "http://w3id.org/Onto4POLIS/isImplementedBy",
+      "@type" : "@id"
+    },
+    "EMMO_ec2c8ac8_98c5_4c74_b85b_ff8e8ca6655c" : {
+      "@id" : "http://emmo.info/emmo#EMMO_ec2c8ac8_98c5_4c74_b85b_ff8e8ca6655c"
+    },
+    "UnpublishedPhysicalModel" : {
+      "@id" : "http://w3id.org/Onto4POLIS/UnpublishedPhysicalModel"
+    },
+    "ParameterForPhaseField" : {
+      "@id" : "http://w3id.org/Onto4POLIS/ParameterForPhaseField"
+    },
+    "ResearchUnitB" : {
+      "@id" : "http://w3id.org/Onto4POLIS/ResearchUnitB"
+    },
+    "SIO_000275" : {
+      "@id" : "http://semanticscience.org/resource/SIO_000275"
+    },
+    "EMMO_50c298c2_55a2_4068_b3ac_4e948c33181f" : {
+      "@id" : "http://emmo.info/emmo#EMMO_50c298c2_55a2_4068_b3ac_4e948c33181f"
+    },
+    "hasAgent" : {
+      "@id" : "http://w3id.org/Onto4POLIS/hasAgent",
+      "@type" : "@id"
+    },
+    "SIO_000435" : {
+      "@id" : "http://semanticscience.org/resource/SIO_000435"
+    },
+    "SIO_000015" : {
+      "@id" : "http://semanticscience.org/resource/SIO_000015"
+    },
+    "ModelEntity" : {
+      "@id" : "http://w3id.org/MUSICODE/Onto4OLAE/ModelEntity"
+    },
+    "NumericalSolverForPhaseField" : {
+      "@id" : "http://w3id.org/Onto4POLIS/NumericalSolverForPhaseField"
+    },
+    "PhaseFieldRawMeasurementResult" : {
+      "@id" : "http://w3id.org/Onto4POLIS/PhaseFieldRawMeasurementResult"
+    },
+    "EMMO_5dd63d84_57f5_4b79_b760_fe940c06680d" : {
+      "@id" : "http://emmo.info/emmo#EMMO_5dd63d84_57f5_4b79_b760_fe940c06680d"
+    },
+    "EMMO_9335cf09_431f_4613_9dab_ce4ceaca965b" : {
+      "@id" : "http://emmo.info/emmo#EMMO_9335cf09_431f_4613_9dab_ce4ceaca965b"
+    },
+    "InputForPhaseField" : {
+      "@id" : "http://w3id.org/Onto4POLIS/InputForPhaseField"
+    },
+    "SIO_000078" : {
+      "@id" : "http://semanticscience.org/resource/SIO_000078"
+    },
+    "altLabel" : {
+      "@id" : "http://www.w3.org/2004/02/skos/core#altLabel"
+    },
+    "EMMO_9471e8ff_ca96_4acd_9364_6e63489ae2b3" : {
+      "@id" : "http://emmo.info/emmo#EMMO_9471e8ff_ca96_4acd_9364_6e63489ae2b3"
+    },
+    "SoftwareForSolver" : {
+      "@id" : "http://w3id.org/Onto4POLIS/SoftwareForSolver"
+    },
+    "label" : {
+      "@id" : "http://www.w3.org/2000/01/rdf-schema#label"
+    },
+    "SoftwareAgent" : {
+      "@id" : "http://www.w3.org/ns/prov#SoftwareAgent"
+    },
+    "POLIS" : {
+      "@id" : "http://w3id.org/Onto4POLIS/POLIS"
+    },
+    "Micro" : {
+      "@id" : "http://w3id.org/MUSICODE/Onto4OLAE/Micro"
+    },
+    "EMMO_47338839_6cca_4a8e_b565_3c4d5517e2c0" : {
+      "@id" : "http://emmo.info/emmo#EMMO_47338839_6cca_4a8e_b565_3c4d5517e2c0"
+    },
+    "SoftwareForBester" : {
+      "@id" : "http://w3id.org/Onto4POLIS/SoftwareForBester"
+    },
+    "ToolForP3D" : {
+      "@id" : "http://w3id.org/Onto4POLIS/ToolForP3D"
+    },
+    "NumericalSolverForDFT" : {
+      "@id" : "http://w3id.org/Onto4POLIS/NumericalSolverForDFT"
+    },
+    "ParameterForBester" : {
+      "@id" : "http://w3id.org/Onto4POLIS/ParameterForBester"
+    },
+    "component" : {
+      "@id" : "http://www.w3.org/ns/prov#component"
+    },
+    "hasValidation" : {
+      "@id" : "http://w3id.org/Onto4POLIS/hasValidation",
+      "@type" : "@id"
+    },
+    "SIO_001384" : {
+      "@id" : "http://semanticscience.org/resource/SIO_001384"
+    },
+    "ParameterForSolver" : {
+      "@id" : "http://w3id.org/Onto4POLIS/ParameterForSolver"
+    },
+    "InputForResistorNetwork" : {
+      "@id" : "http://w3id.org/Onto4POLIS/InputForResistorNetwork"
+    },
+    "SoftwareForP3DMicro" : {
+      "@id" : "http://w3id.org/Onto4POLIS/SoftwareForP3DMicro"
+    },
+    "EMMO_8681074a_e225_4e38_b586_e85b0f43ce38" : {
+      "@id" : "http://emmo.info/emmo#EMMO_8681074a_e225_4e38_b586_e85b0f43ce38"
+    },
+    "Fabrication" : {
+      "@id" : "http://w3id.org/MUSICODE/Onto4OLAE/Fabrication"
+    },
+    "Manufactured" : {
+      "@id" : "http://w3id.org/MUSICODE/Onto4OLAE/Manufactured"
+    },
+    "dm" : {
+      "@id" : "http://www.w3.org/ns/prov#dm"
+    },
+    "ResearchUnitD" : {
+      "@id" : "http://w3id.org/Onto4POLIS/ResearchUnitD"
+    },
+    "PublicationForBester" : {
+      "@id" : "http://w3id.org/Onto4POLIS/PublicationForBester"
+    },
+    "InferredMeasurementResult" : {
+      "@id" : "http://w3id.org/MUSICODE/Onto4OLAE/InferredMeasurementResult"
+    },
+    "PhaseFieldBoundaryCondition" : {
+      "@id" : "http://w3id.org/Onto4POLIS/PhaseFieldBoundaryCondition"
+    },
+    "RawMeasurementResult" : {
+      "@id" : "http://w3id.org/MUSICODE/Onto4OLAE/RawMeasurementResult"
+    },
+    "EMMO_b9695e87_8261_412e_83cd_a86459426a28" : {
+      "@id" : "http://emmo.info/emmo#EMMO_b9695e87_8261_412e_83cd_a86459426a28"
+    },
+    "EMMO_4299e344_a321_4ef2_a744_bacfcce80afc" : {
+      "@id" : "http://emmo.info/emmo#EMMO_4299e344_a321_4ef2_a744_bacfcce80afc"
+    },
+    "SoftwareForResistorNetwork" : {
+      "@id" : "http://w3id.org/Onto4POLIS/SoftwareForResistorNetwork"
+    },
+    "EMMO_eff42cb3_208e_4768_9a39_f8b6b3c3d7a2" : {
+      "@id" : "http://emmo.info/emmo#EMMO_eff42cb3_208e_4768_9a39_f8b6b3c3d7a2"
+    },
+    "InputForBester" : {
+      "@id" : "http://w3id.org/Onto4POLIS/InputForBester"
+    },
+    "PublicationForP3D" : {
+      "@id" : "http://w3id.org/Onto4POLIS/PublicationForP3D"
+    },
+    "InputForDFT" : {
+      "@id" : "http://w3id.org/Onto4POLIS/InputForDFT"
+    },
+    "SIO_000651" : {
+      "@id" : "http://semanticscience.org/resource/SIO_000651"
+    },
+    "EMMO_4e659c69_ca2d_4569_8a96_f99857a1fa32" : {
+      "@id" : "http://emmo.info/emmo#EMMO_4e659c69_ca2d_4569_8a96_f99857a1fa32"
+    },
+    "Electrons" : {
+      "@id" : "http://w3id.org/MUSICODE/Onto4OLAE/Electrons"
+    },
+    "ResearchUnitC" : {
+      "@id" : "http://w3id.org/Onto4POLIS/ResearchUnitC"
+    },
+    "BesterModelValidation" : {
+      "@id" : "http://w3id.org/Onto4POLIS/BesterModelValidation"
+    },
+    "InputForEffectiveElectronicConductivityCalculation" : {
+      "@id" : "http://w3id.org/Onto4POLIS/InputForEffectiveElectronicConductivityCalculation"
+    },
+    "MicroImageSegmentationResult" : {
+      "@id" : "http://w3id.org/Onto4POLIS/MicroImageSegmentationResult"
+    },
+    "EMMO_90ae56e4_d197_49b6_be1a_0049e4756606" : {
+      "@id" : "http://emmo.info/emmo#EMMO_90ae56e4_d197_49b6_be1a_0049e4756606"
+    },
+    "SIO_000031" : {
+      "@id" : "http://semanticscience.org/resource/SIO_000031"
+    },
+    "EMMO_df96cbb6_b5ee_4222_8eab_b3675df24bea" : {
+      "@id" : "http://emmo.info/emmo#EMMO_df96cbb6_b5ee_4222_8eab_b3675df24bea"
+    },
+    "WorkPackageX.4" : {
+      "@id" : "http://w3id.org/Onto4POLIS/WorkPackageX.4"
+    },
+    "MicroConductoBester" : {
+      "@id" : "http://w3id.org/Onto4POLIS/MicroConductoBester"
+    },
+    "Person" : {
+      "@id" : "http://www.w3.org/ns/prov#Person"
+    },
+    "ConductoBester" : {
+      "@id" : "http://w3id.org/Onto4POLIS/ConductoBester"
+    },
+    "Validation" : {
+      "@id" : "http://w3id.org/Onto4POLIS/Validation"
+    },
+    "EMMO_70fe84ff_99b6_4206_a9fc_9a8931836d84" : {
+      "@id" : "http://emmo.info/emmo#EMMO_70fe84ff_99b6_4206_a9fc_9a8931836d84"
+    },
+    "PublicationForDFT" : {
+      "@id" : "http://w3id.org/Onto4POLIS/PublicationForDFT"
+    },
+    "SIO_000148" : {
+      "@id" : "http://semanticscience.org/resource/SIO_000148"
+    },
+    "SIO_000585" : {
+      "@id" : "http://semanticscience.org/resource/SIO_000585"
+    },
+    "SIO_000430" : {
+      "@id" : "http://semanticscience.org/resource/SIO_000430"
+    },
+    "EMMO_13191289_6c2b_4741_93e1_82d53bd0e703" : {
+      "@id" : "http://emmo.info/emmo#EMMO_13191289_6c2b_4741_93e1_82d53bd0e703"
+    },
+    "EMMO_02c4890b_aef3_4173_9669_94d1f6baf611" : {
+      "@id" : "http://emmo.info/emmo#EMMO_02c4890b_aef3_4173_9669_94d1f6baf611"
+    },
+    "ConductoBesterBoundaryCondition" : {
+      "@id" : "http://w3id.org/Onto4POLIS/ConductoBesterBoundaryCondition"
+    },
+    "SimulationModelValidation" : {
+      "@id" : "http://w3id.org/Onto4POLIS/SimulationModelValidation"
+    },
+    "BesterRawResult" : {
+      "@id" : "http://w3id.org/Onto4POLIS/BesterRawResult"
+    },
+    "SIO_000000" : {
+      "@id" : "http://semanticscience.org/resource/SIO_000000"
+    },
+    "Agent" : {
+      "@id" : "http://www.w3.org/ns/prov#Agent"
+    },
+    "NumericalSolver" : {
+      "@id" : "http://w3id.org/Onto4POLIS/NumericalSolver"
+    },
+    "determine" : {
+      "@id" : "http://w3id.org/Onto4POLIS/determine",
+      "@type" : "@id"
+    },
+    "MonteCarloSolver" : {
+      "@id" : "http://w3id.org/Onto4POLIS/MonteCarloSolver"
+    },
+    "creator" : {
+      "@id" : "http://purl.org/dc/terms/creator"
+    },
+    "SIO_001167" : {
+      "@id" : "http://semanticscience.org/resource/SIO_001167"
+    },
+    "hasAccessCondition" : {
+      "@id" : "http://w3id.org/Onto4POLIS/hasAccessCondition",
+      "@type" : "@id"
+    },
+    "BesterInferredResult" : {
+      "@id" : "http://w3id.org/Onto4POLIS/BesterInferredResult"
+    },
+    "EMMO_7d56ec24_499d_487a_af7d_a91aaa787bfe" : {
+      "@id" : "http://emmo.info/emmo#EMMO_7d56ec24_499d_487a_af7d_a91aaa787bfe"
+    },
+    "SIO_001083" : {
+      "@id" : "http://semanticscience.org/resource/SIO_001083"
+    },
+    "topObjectProperty" : {
+      "@id" : "http://www.w3.org/2002/07/owl#topObjectProperty",
+      "@type" : "@id"
+    },
+    "EMMO_ceaaf9f7_fd11_424b_8fda_9afa186af186" : {
+      "@id" : "http://emmo.info/emmo#EMMO_ceaaf9f7_fd11_424b_8fda_9afa186af186"
+    },
+    "PhaseFieldModel" : {
+      "@id" : "http://w3id.org/Onto4POLIS/PhaseFieldModel"
+    },
+    "InputForOCVMeasurement" : {
+      "@id" : "http://w3id.org/Onto4POLIS/InputForOCVMeasurement"
+    },
+    "SIO_000052" : {
+      "@id" : "http://semanticscience.org/resource/SIO_000052"
+    },
+    "EMMO_705f27ae_954c_4f13_98aa_18473fc52b25" : {
+      "@id" : "http://emmo.info/emmo#EMMO_705f27ae_954c_4f13_98aa_18473fc52b25"
+    },
+    "CProject" : {
+      "@id" : "http://w3id.org/Onto4POLIS#NVP/CProject"
+    },
+    "hasBoundaryCondition" : {
+      "@id" : "http://w3id.org/Onto4POLIS/hasBoundaryCondition",
+      "@type" : "@id"
+    },
+    "hasInput" : {
+      "@id" : "http://w3id.org/Onto4POLIS/hasInput",
+      "@type" : "@id"
+    },
+    "EMMO_5c68497d_2544_4cd4_897b_1ea783c9f6fe" : {
+      "@id" : "http://emmo.info/emmo#EMMO_5c68497d_2544_4cd4_897b_1ea783c9f6fe"
+    },
+    "ConsideredMaterialForBester" : {
+      "@id" : "http://w3id.org/Onto4POLIS/ConsideredMaterialForBester"
+    },
+    "Model" : {
+      "@id" : "http://w3id.org/Onto4POLIS/Model"
+    },
+    "PhysicalModel" : {
+      "@id" : "http://w3id.org/Onto4POLIS/PhysicalModel"
+    },
+    "Algorithm" : {
+      "@id" : "http://w3id.org/Onto4POLIS/Algorithm"
+    },
+    "SIO_000300" : {
+      "@id" : "http://semanticscience.org/resource/SIO_000300"
+    },
+    "SIO_000776" : {
+      "@id" : "http://semanticscience.org/resource/SIO_000776"
+    },
+    "Accessibiliy" : {
+      "@id" : "https://purl.org/tema/Accessibiliy"
+    },
+    "Solver" : {
+      "@id" : "http://w3id.org/Onto4POLIS/Solver"
+    },
+    "EMMO_a7c3542a_fe8a_480e_b6a9_364497d576d4" : {
+      "@id" : "http://emmo.info/emmo#EMMO_a7c3542a_fe8a_480e_b6a9_364497d576d4"
+    },
+    "EMMO_65a007dc_2550_46b0_b394_3346c67fbb69" : {
+      "@id" : "http://emmo.info/emmo#EMMO_65a007dc_2550_46b0_b394_3346c67fbb69"
+    },
+    "status" : {
+      "@id" : "http://w3id.org/Onto4POLIS/status"
+    },
+    "EMMO_704630b8_fee3_49b9_baca_40e2dd276370" : {
+      "@id" : "http://emmo.info/emmo#EMMO_704630b8_fee3_49b9_baca_40e2dd276370"
+    },
+    "ImageSegmentationResult" : {
+      "@id" : "http://w3id.org/Onto4POLIS/ImageSegmentationResult"
+    },
+    "SoftwareForConductoBester" : {
+      "@id" : "http://w3id.org/Onto4POLIS/SoftwareForConductoBester"
+    },
+    "UnPublishedNumericalModel" : {
+      "@id" : "http://w3id.org/Onto4POLIS/UnPublishedNumericalModel"
+    },
+    "Atomistic" : {
+      "@id" : "http://w3id.org/MUSICODE/Onto4OLAE/Atomistic"
+    },
+    "ConsideredMaterialForSimulation" : {
+      "@id" : "http://w3id.org/Onto4POLIS/ConsideredMaterialForSimulation"
+    },
+    "P3DMicroBoundaryCondition" : {
+      "@id" : "http://w3id.org/Onto4POLIS/P3DMicroBoundaryCondition"
+    },
+    "SIO_000670" : {
+      "@id" : "http://semanticscience.org/resource/SIO_000670"
+    },
+    "Method" : {
+      "@id" : "http://w3id.org/nfdi4ing/metadata4ing#Method"
+    },
+    "Galvanostatic" : {
+      "@id" : "http://w3id.org/Onto4POLIS/Galvanostatic"
+    },
+    "identifier" : {
+      "@id" : "http://purl.org/dc/elements/1.1/identifier"
+    },
+    "SIO_000418" : {
+      "@id" : "http://semanticscience.org/resource/SIO_000418"
+    },
+    "ConsideredMaterialForConductoBester" : {
+      "@id" : "http://w3id.org/Onto4POLIS/ConsideredMaterialForConductoBester"
+    },
+    "EMMO_f76884f7_964e_488e_9bb7_1b2453e9e817" : {
+      "@id" : "http://emmo.info/emmo#EMMO_f76884f7_964e_488e_9bb7_1b2453e9e817"
+    },
+    "BesterSolver" : {
+      "@id" : "http://w3id.org/Onto4POLIS/BesterSolver"
+    },
+    "ResearchUnitA" : {
+      "@id" : "http://w3id.org/Onto4POLIS/ResearchUnitA"
+    },
+    "EMMO_8b0923ab_b500_477b_9ce9_8b3a3e4dc4f2" : {
+      "@id" : "http://emmo.info/emmo#EMMO_8b0923ab_b500_477b_9ce9_8b3a3e4dc4f2"
+    },
+    "SIO_000087" : {
+      "@id" : "http://semanticscience.org/resource/SIO_000087"
+    },
+    "BFO_0000017" : {
+      "@id" : "http://purl.obolibrary.org/obo/BFO_0000017"
+    },
+    "DFTRawMeasurementResult" : {
+      "@id" : "http://w3id.org/Onto4POLIS/DFTRawMeasurementResult"
+    },
+    "X4" : {
+      "@id" : "http://w3id.org/Onto4POLIS/X4"
+    },
+    "MathematicalModel" : {
+      "@id" : "http://w3id.org/Onto4POLIS/MathematicalModel"
+    },
+    "PublicationForResistorNetwork" : {
+      "@id" : "http://w3id.org/Onto4POLIS/PublicationForResistorNetwork"
+    },
+    "SIO_001394" : {
+      "@id" : "http://semanticscience.org/resource/SIO_001394"
+    },
+    "InternalInputForBester" : {
+      "@id" : "http://w3id.org/Onto4POLIS/InternalInputForBester"
+    },
+    "SoftwareForDFT" : {
+      "@id" : "http://w3id.org/Onto4POLIS/SoftwareForDFT"
+    },
+    "KitGran" : {
+      "@id" : "http://w3id.org/Onto4POLIS/KitGran"
+    },
+    "InternalInputForConductoBester" : {
+      "@id" : "http://w3id.org/Onto4POLIS/InternalInputForConductoBester"
+    },
+    "ResearchTask" : {
+      "@id" : "http://w3id.org/Onto4POLIS/ResearchTask"
+    },
+    "P3D" : {
+      "@id" : "http://w3id.org/Onto4POLIS/P3D"
+    },
+    "InputForConductoBester" : {
+      "@id" : "http://w3id.org/Onto4POLIS/InputForConductoBester"
+    },
+    "ExperimentalMaterialCharacterization" : {
+      "@id" : "http://w3id.org/MUSICODE/Onto4OLAE/ExperimentalMaterialCharacterization"
+    },
+    "MaterialGeometry" : {
+      "@id" : "http://w3id.org/Onto4POLIS/MaterialGeometry"
+    },
+    "InputForSpecificAreaMeasurement" : {
+      "@id" : "http://w3id.org/Onto4POLIS/InputForSpecificAreaMeasurement"
+    },
+    "ParameterForCondoBester" : {
+      "@id" : "http://w3id.org/Onto4POLIS/ParameterForCondoBester"
+    },
+    "InternalInputForResistorNetwork" : {
+      "@id" : "http://w3id.org/Onto4POLIS/InternalInputForResistorNetwork"
+    },
+    "isDefinedBy" : {
+      "@id" : "http://www.w3.org/2000/01/rdf-schema#isDefinedBy"
+    },
+    "TortuosityBoundaryCondition" : {
+      "@id" : "http://w3id.org/Onto4POLIS/TortuosityBoundaryCondition"
+    },
+    "definition" : {
+      "@id" : "http://www.w3.org/ns/prov#definition"
+    },
+    "DFT_VASP" : {
+      "@id" : "http://w3id.org/Onto4POLIS/DFT_VASP"
+    },
+    "InitialCondition" : {
+      "@id" : "http://w3id.org/Onto4POLIS/InitialCondition"
+    },
+    "editorialNote" : {
+      "@id" : "http://www.w3.org/2004/02/skos/core#editorialNote"
+    },
+    "ConductoBesterModelValidation" : {
+      "@id" : "http://w3id.org/Onto4POLIS/ConductoBesterModelValidation"
+    },
+    "SIO_000391" : {
+      "@id" : "http://semanticscience.org/resource/SIO_000391"
+    },
+    "EMMO_fe7e56ce_118b_4243_9aad_20eb9f4f31f6" : {
+      "@id" : "http://emmo.info/emmo#EMMO_fe7e56ce_118b_4243_9aad_20eb9f4f31f6"
+    },
+    "Project" : {
+      "@id" : "https://schema.org/Project"
+    },
+    "hasResult" : {
+      "@id" : "http://w3id.org/Onto4POLIS/hasResult",
+      "@type" : "@id"
+    },
+    "ResistorNetworkBoundaryCondition" : {
+      "@id" : "http://w3id.org/Onto4POLIS/ResistorNetworkBoundaryCondition"
+    },
+    "EMMO_1eed0732_e3f1_4b2c_a9c4_b4e75eeb5895" : {
+      "@id" : "http://emmo.info/emmo#EMMO_1eed0732_e3f1_4b2c_a9c4_b4e75eeb5895"
+    },
+    "TimeDependentDirect" : {
+      "@id" : "http://w3id.org/Onto4POLIS/TimeDependentDirect"
+    },
+    "SIO_000258" : {
+      "@id" : "http://semanticscience.org/resource/SIO_000258"
+    },
+    "EMMO_8786cb47_8e1f_4968_9b15_f6d41fc51252" : {
+      "@id" : "http://emmo.info/emmo#EMMO_8786cb47_8e1f_4968_9b15_f6d41fc51252"
+    },
+    "EMMO_43e9a05d_98af_41b4_92f6_00f79a09bfce" : {
+      "@id" : "http://emmo.info/emmo#EMMO_43e9a05d_98af_41b4_92f6_00f79a09bfce"
+    },
+    "EMMO_038e37a3_1684_4980_b5e4_67ab34cd5bdb" : {
+      "@id" : "http://emmo.info/emmo#EMMO_038e37a3_1684_4980_b5e4_67ab34cd5bdb"
+    },
+    "EffectiveElectronicConductivityBoundaryCondition" : {
+      "@id" : "http://w3id.org/Onto4POLIS/EffectiveElectronicConductivityBoundaryCondition"
+    },
+    "SIO_001354" : {
+      "@id" : "http://semanticscience.org/resource/SIO_001354"
+    },
+    "BesterBoundaryCondition" : {
+      "@id" : "http://w3id.org/Onto4POLIS/BesterBoundaryCondition"
+    },
+    "title" : {
+      "@id" : "http://purl.org/dc/terms/title"
+    },
+    "SIO_000433" : {
+      "@id" : "http://semanticscience.org/resource/SIO_000433"
+    },
+    "LooselyCoupledModelsSimulation" : {
+      "@id" : "http://w3id.org/MUSICODE/Onto4OLAE/LooselyCoupledModelsSimulation"
+    },
+    "SIO_001314" : {
+      "@id" : "http://semanticscience.org/resource/SIO_001314"
+    },
+    "InternalInputForP3D" : {
+      "@id" : "http://w3id.org/Onto4POLIS/InternalInputForP3D"
+    },
+    "DFTInferredMeasurementResult" : {
+      "@id" : "http://w3id.org/Onto4POLIS/DFTInferredMeasurementResult"
+    },
+    "source" : {
+      "@id" : "http://purl.org/dc/terms/source"
+    },
+    "OCVMeasurementValidation" : {
+      "@id" : "http://w3id.org/Onto4POLIS/OCVMeasurementValidation"
+    },
+    "EMMO_d1d436e7_72fc_49cd_863b_7bfb4ba5276a" : {
+      "@id" : "http://emmo.info/emmo#EMMO_d1d436e7_72fc_49cd_863b_7bfb4ba5276a"
+    },
+    "EMMO_98ada9d8_f1c8_4f13_99b5_d890f5354152" : {
+      "@id" : "http://emmo.info/emmo#EMMO_98ada9d8_f1c8_4f13_99b5_d890f5354152"
+    },
+    "PhaseFieldInferredMeasurementResult" : {
+      "@id" : "http://w3id.org/Onto4POLIS/PhaseFieldInferredMeasurementResult"
+    },
+    "hasObjective" : {
+      "@id" : "http://w3id.org/Onto4POLIS/hasObjective",
+      "@type" : "@id"
+    },
+    "SIO_000284" : {
+      "@id" : "http://semanticscience.org/resource/SIO_000284"
+    },
+    "publisher" : {
+      "@id" : "http://purl.org/dc/terms/publisher"
+    },
+    "ParameterForPACE3D" : {
+      "@id" : "http://w3id.org/Onto4POLIS/ParameterForPACE3D"
+    },
+    "WorkPackageX.1" : {
+      "@id" : "http://w3id.org/Onto4POLIS/WorkPackageX.1"
+    },
+    "Automatic" : {
+      "@id" : "http://w3id.org/Onto4POLIS/BDF+PARDISO+Automatic"
+    },
+    "EMMO_54ee6b5e_5261_44a8_86eb_5717e7fdb9d0" : {
+      "@id" : "http://emmo.info/emmo#EMMO_54ee6b5e_5261_44a8_86eb_5717e7fdb9d0"
+    },
+    "SimulationMeasurementResult" : {
+      "@id" : "http://w3id.org/MUSICODE/Onto4OLAE/SimulationMeasurementResult"
+    },
+    "uses" : {
+      "@id" : "http://w3id.org/Onto4POLIS/uses",
+      "@type" : "@id"
+    },
+    "hasConsideredTimeInterval" : {
+      "@id" : "http://w3id.org/Onto4POLIS/hasConsideredTimeInterval",
+      "@type" : "@id"
+    },
+    "EMMO_c0afb341_7d31_4883_a307_ae4606df2a1b" : {
+      "@id" : "http://emmo.info/emmo#EMMO_c0afb341_7d31_4883_a307_ae4606df2a1b"
+    },
+    "EMMO_02c0621e_a527_4790_8a0f_2bb51973c819" : {
+      "@id" : "http://emmo.info/emmo#EMMO_02c0621e_a527_4790_8a0f_2bb51973c819"
+    },
+    "P3DRawMeasurementResult" : {
+      "@id" : "http://w3id.org/Onto4POLIS/P3DRawMeasurementResult"
+    },
+    "EMMO_463bcfda_867b_41d9_a967_211d4d437cfb" : {
+      "@id" : "http://emmo.info/emmo#EMMO_463bcfda_867b_41d9_a967_211d4d437cfb"
+    },
+    "EMMO_d8d2144e_5c8d_455d_a643_5caf4d8d9df8" : {
+      "@id" : "http://emmo.info/emmo#EMMO_d8d2144e_5c8d_455d_a643_5caf4d8d9df8"
+    },
+    "InputForTortuosityMeasurement" : {
+      "@id" : "http://w3id.org/Onto4POLIS/InputForTortuosityMeasurement"
+    },
+    "DFTModelValidation" : {
+      "@id" : "http://w3id.org/Onto4POLIS/DFTModelValidation"
+    },
+    "isAssosiatedWith" : {
+      "@id" : "http://w3id.org/Onto4POLIS/isAssosiatedWith",
+      "@type" : "@id"
+    },
+    "ToolForPhaseField" : {
+      "@id" : "http://w3id.org/Onto4POLIS/ToolForPhaseField"
+    },
+    "PhaseFieldModelValidation" : {
+      "@id" : "http://w3id.org/Onto4POLIS/PhaseFieldModelValidation"
+    },
+    "EMMO_ec7464a9_d99d_45f8_965b_4e9230ea8356" : {
+      "@id" : "http://emmo.info/emmo#EMMO_ec7464a9_d99d_45f8_965b_4e9230ea8356"
+    },
+    "ConsideredMaterialForDFT" : {
+      "@id" : "http://w3id.org/Onto4POLIS/ConsideredMaterialForDFT"
+    },
+    "hasParameter" : {
+      "@id" : "http://w3id.org/Onto4POLIS/hasParameter",
+      "@type" : "@id"
+    },
+    "EMMO_21205421_5783_4d3e_81e5_10c5d894a88a" : {
+      "@id" : "http://emmo.info/emmo#EMMO_21205421_5783_4d3e_81e5_10c5d894a88a"
+    },
+    "SIO_000179" : {
+      "@id" : "http://semanticscience.org/resource/SIO_000179"
+    },
+    "ConsideredMaterialForPhaseField" : {
+      "@id" : "http://w3id.org/Onto4POLIS/ConsideredMaterialForPhaseField"
+    },
+    "ToolForResistorNetwork" : {
+      "@id" : "http://w3id.org/Onto4POLIS/ToolForResistorNetwork"
+    },
+    "EMMO_bafc17b5_9be4_4823_8bbe_ab4e90b6738c" : {
+      "@id" : "http://emmo.info/emmo#EMMO_bafc17b5_9be4_4823_8bbe_ab4e90b6738c"
+    },
+    "SIO_000669" : {
+      "@id" : "http://semanticscience.org/resource/SIO_000669"
+    },
+    "EstimatedErrorInRawResults" : {
+      "@id" : "http://w3id.org/Onto4POLIS/EstimatedErrorInRawResults"
+    },
+    "Nano" : {
+      "@id" : "http://w3id.org/MUSICODE/Onto4OLAE/Nano"
+    },
+    "SIO_000429" : {
+      "@id" : "http://semanticscience.org/resource/SIO_000429"
+    },
+    "CloseSource" : {
+      "@id" : "http://w3id.org/Onto4POLIS/CloseSource"
+    },
+    "WorkPackageX.5" : {
+      "@id" : "http://w3id.org/Onto4POLIS/WorkPackageX.5"
+    },
+    "ResearchGroup" : {
+      "@id" : "http://w3id.org/Onto4POLIS/ResearchGroup"
+    },
+    "EMMO_d0bcf2ca_cd55_4f34_8fc2_2decc4c6087a" : {
+      "@id" : "http://emmo.info/emmo#EMMO_d0bcf2ca_cd55_4f34_8fc2_2decc4c6087a"
+    },
+    "EMMO_472a0ca2_58bf_4618_b561_6fe68bd9fd49" : {
+      "@id" : "http://emmo.info/emmo#EMMO_472a0ca2_58bf_4618_b561_6fe68bd9fd49"
+    },
+    "EMMO_01354ac2_cce1_4b7d_8b4a_7322d6cb10bc" : {
+      "@id" : "http://emmo.info/emmo#EMMO_01354ac2_cce1_4b7d_8b4a_7322d6cb10bc"
+    },
+    "EMMO_2a888cdf_ec4a_4ec5_af1c_0343372fc978" : {
+      "@id" : "http://emmo.info/emmo#EMMO_2a888cdf_ec4a_4ec5_af1c_0343372fc978"
+    },
+    "PublicationForPhaseField" : {
+      "@id" : "http://w3id.org/Onto4POLIS/PublicationForPhaseField"
+    },
+    "EMMO_a15cea10_9946_4d2b_95c5_cfc333fd2abb" : {
+      "@id" : "http://emmo.info/emmo#EMMO_a15cea10_9946_4d2b_95c5_cfc333fd2abb"
+    },
+    "PublicationForConductoBester" : {
+      "@id" : "http://w3id.org/Onto4POLIS/PublicationForConductoBester"
+    },
+    "ParameterForDFT" : {
+      "@id" : "http://w3id.org/Onto4POLIS/ParameterForDFT"
+    },
+    "category" : {
+      "@id" : "http://www.w3.org/ns/prov#category"
+    },
+    "Output" : {
+      "@id" : "http://w3id.org/MUSICODE/Onto4OLAE/Output"
+    },
+    "Bester" : {
+      "@id" : "http://w3id.org/Onto4POLIS/Bester"
+    },
+    "hasError" : {
+      "@id" : "http://w3id.org/Onto4POLIS/hasError",
+      "@type" : "@id"
+    },
+    "EMMO_23b9d75b_2fdb_4bef_b839_202c026f88f9" : {
+      "@id" : "http://emmo.info/emmo#EMMO_23b9d75b_2fdb_4bef_b839_202c026f88f9"
+    },
+    "SimulationModelBoundaryCondition" : {
+      "@id" : "http://w3id.org/Onto4POLIS/SimulationModelBoundaryCondition"
+    },
+    "SIO_000431" : {
+      "@id" : "http://semanticscience.org/resource/SIO_000431"
+    },
+    "TaskObjective" : {
+      "@id" : "http://w3id.org/Onto4POLIS/TaskObjective"
+    },
+    "SIO_000417" : {
+      "@id" : "http://semanticscience.org/resource/SIO_000417"
+    },
+    "comment" : {
+      "@id" : "http://schema.org/comment"
+    },
+    "SIO_000256" : {
+      "@id" : "http://semanticscience.org/resource/SIO_000256"
+    },
+    "EMMO_f7dbce66_2822_4855_9f42_1da71aa9e923" : {
+      "@id" : "http://emmo.info/emmo#EMMO_f7dbce66_2822_4855_9f42_1da71aa9e923"
+    },
+    "EMMO_6a490979_2226_47bb_a2b2_a7951c04cfc7" : {
+      "@id" : "http://emmo.info/emmo#EMMO_6a490979_2226_47bb_a2b2_a7951c04cfc7"
+    },
+    "InternalInputForPhaseField" : {
+      "@id" : "http://w3id.org/Onto4POLIS/InternalInputForPhaseField"
+    },
+    "NumericalModel" : {
+      "@id" : "http://w3id.org/Onto4POLIS/NumericalModel"
+    },
+    "UnpublishedMathematicalModel" : {
+      "@id" : "http://w3id.org/Onto4POLIS/UnpublishedMathematicalModel"
+    },
+    "PublishedMathematicalModel" : {
+      "@id" : "http://w3id.org/Onto4POLIS/PublishedMathematicalModel"
+    },
+    "ResistorNetworkRawMeasurementResult" : {
+      "@id" : "http://w3id.org/Onto4POLIS/ResistorNetworkRawMeasurementResult"
+    },
+    "contributor" : {
+      "@id" : "http://purl.org/dc/terms/contributor"
+    },
+    "hasInferredResults" : {
+      "@id" : "http://w3id.org/Onto4POLIS/hasInferredResults",
+      "@type" : "@id"
+    },
+    "InputForSimulation" : {
+      "@id" : "http://w3id.org/MUSICODE/Onto4OLAE/InputForSimulation"
+    },
+    "DGeometry" : {
+      "@id" : "http://w3id.org/Onto4POLIS/2DGeometry"
+    },
+    "EMMO_436b11bd_1756_4821_9f14_c9ed6b67552e" : {
+      "@id" : "http://emmo.info/emmo#EMMO_436b11bd_1756_4821_9f14_c9ed6b67552e"
+    },
+    "hasMethod" : {
+      "@id" : "http://w3id.org/Onto4POLIS/hasMethod",
+      "@type" : "@id"
+    },
+    "Device" : {
+      "@id" : "http://w3id.org/MUSICODE/Onto4OLAE/Device"
+    },
+    "EMMO_e9dd942e_db98_4aad_b9c3_931dff6f13b0" : {
+      "@id" : "http://emmo.info/emmo#EMMO_e9dd942e_db98_4aad_b9c3_931dff6f13b0"
+    },
+    "hasImplementationSoftware" : {
+      "@id" : "http://w3id.org/Onto4POLIS/hasImplementationSoftware",
+      "@type" : "@id"
+    },
+    "InputForP3D" : {
+      "@id" : "http://w3id.org/Onto4POLIS/InputForP3D"
+    },
+    "SIO_000337" : {
+      "@id" : "http://semanticscience.org/resource/SIO_000337"
+    },
+    "EMMO_5b2222df_4da6_442f_8244_96e9e45887d1" : {
+      "@id" : "http://emmo.info/emmo#EMMO_5b2222df_4da6_442f_8244_96e9e45887d1"
+    },
+    "SIO_001183" : {
+      "@id" : "http://semanticscience.org/resource/SIO_001183"
+    },
+    "InputForEffectiveElectronicConductivityMeasurement" : {
+      "@id" : "http://w3id.org/Onto4POLIS/InputForEffectiveElectronicConductivityMeasurement"
+    },
+    "EMMO_e2b11f6a_4191_427e_9844_2e0ac88dfc8b" : {
+      "@id" : "http://emmo.info/emmo#EMMO_e2b11f6a_4191_427e_9844_2e0ac88dfc8b"
+    },
+    "Task" : {
+      "@id" : "http://w3id.org/Onto4POLIS/Task"
+    },
+    "EMMO_03a0ccc9_21fe_46a1_a143_50147fbe3200" : {
+      "@id" : "https://big-map.github.io/BattINFO/ontology/electrochemistry#EMMO_03a0ccc9_21fe_46a1_a143_50147fbe3200"
+    },
+    "prefLabel" : {
+      "@id" : "http://www.w3.org/2004/02/skos/core#prefLabel"
+    },
+    "EMMO_a4d66059_5dd3_4b90_b4cb_10960559441b" : {
+      "@id" : "http://emmo.info/emmo#EMMO_a4d66059_5dd3_4b90_b4cb_10960559441b"
+    },
+    "EMMO_ec502e30_b9ec_4216_90c6_f67d2df75627" : {
+      "@id" : "http://emmo.info/emmo#EMMO_ec502e30_b9ec_4216_90c6_f67d2df75627"
+    },
+    "description" : {
+      "@id" : "http://purl.org/dc/elements/1.1/description"
+    },
+    "EMMO_c84c6752_6d64_48cc_9500_e54a3c34898d" : {
+      "@id" : "http://emmo.info/emmo#EMMO_c84c6752_6d64_48cc_9500_e54a3c34898d"
+    },
+    "ConductivityOfPureMaterial" : {
+      "@id" : "http://w3id.org/Onto4POLIS/ConductivityOfPureMaterial"
+    },
+    "PublishedNumericalModel" : {
+      "@id" : "http://w3id.org/Onto4POLIS/PublishedNumericalModel"
+    },
+    "hasConsideredMaterial" : {
+      "@id" : "http://w3id.org/Onto4POLIS/hasConsideredMaterial",
+      "@type" : "@id"
+    },
+    "EMMO_0f6f0120_c079_4d95_bb11_4ddee05e530e" : {
+      "@id" : "http://emmo.info/emmo#EMMO_0f6f0120_c079_4d95_bb11_4ddee05e530e"
+    },
+    "Potentiostatic" : {
+      "@id" : "http://w3id.org/Onto4POLIS/Potentiostatic"
+    },
+    "P3DInferredMeasurementResult" : {
+      "@id" : "http://w3id.org/Onto4POLIS/P3DInferredMeasurementResult"
+    },
+    "SoftwareForPhaseField" : {
+      "@id" : "http://w3id.org/Onto4POLIS/SoftwareForPhaseField"
+    },
+    "DFTBoundaryCondition" : {
+      "@id" : "http://w3id.org/Onto4POLIS/DFTBoundaryCondition"
+    },
+    "Muti-ScaleSimulationChain" : {
+      "@id" : "http://w3id.org/Onto4POLIS/Muti-ScaleSimulationChain"
+    },
+    "ParameterForP3D" : {
+      "@id" : "http://w3id.org/Onto4POLIS/ParameterForP3D"
+    },
+    "ResistorNetwork" : {
+      "@id" : "http://w3id.org/Onto4POLIS/ResistorNetwork"
+    }
+  }
+}
